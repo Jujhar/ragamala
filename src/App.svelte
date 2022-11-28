@@ -115,6 +115,7 @@ Hemant <small><small>(R2 ♂🔅)</small></small>,
 Bihagaraa / Bihag <small><small>(R1 ♀️🪐)</small></small>.<br>
 <b>Combo</b>: Gauri Deepak / (Gauri Yeman)  <small><small>(R1)</small></small>, Poorvi, Bairagi.
 </p>
+<br />
 <ul><li>(2) <b>Malkaus raga</b> 🍩<small><small>(R2 ♂🔅)</small></small><br></li></ul>
 <p><b>Wives</b>: Gaundkari <small><small>(1 DR)</small></small>, Devgandhari <small><small>(1)</small></small>,
   Gandhari <small><small>(1)</small></small>, Seehute, Dhanasri <small><small>(2 🔅🌜)</small></small>.<br>
@@ -126,6 +127,7 @@ Parbal Chand, Kausak, Ubara, Khokhat, Bhuranad <small><small>(Bhamarananda?)</sm
 <b>Combo</b>: Dhanasri Ambika <small><small>(1)</small></small>.
 <!--<b>Retro</b>: <small><small>(1)</small></small>.-->
 </p>
+<br />
 <ul><li>(3) <b>Hindol raga</b> 🌴<br></li></ul>
 <p><b>Wives</b>: Tilangi <small><small>(3 ♀️🪐)</small></small>,
   Devkari, <u>Basanti</u>, Sindhoori / Sindhuri, Ahiri <small><small>(0)</small></small>.<br>
@@ -136,6 +138,7 @@ Mangalan, Saras-baan, Binoda,
  <br />
  <b>Other</b>: Kalavati <small><small>(R1 🌜🔆)</small></small>,
 </p>
+<br />
 <ul><li>(4) <b>Deepak raga</b> ❤️‍🔥<br></li></ul>
 <p><b>Wives</b>: Kachheli,
   <u>Patmanjari</u> <small><small>(2 🔅🌜)</small></small>,
@@ -147,6 +150,7 @@ Kanra <small><small>(R1)</small></small>,
  <u>Kalyana / Yaman</u> <small><small>(R1 ♀️🪐)</small></small>.<br>
 <b>Retro</b>: Tukhari <small><small>(3)</small></small>, Ambika / Madhuvanti <small><small>(3)</small></small>.
 </p>
+<br />
 <ul><li>(5) <b>Sri raga ⛵💚<small><small>(3 ☿🌜)</small></small></b><br></li></ul>
 <p><b>Wives</b>: Baradi / Varali / Bairari <small><small>(2 ♀️🪙)</small></small>, Karnati <small><small>(0 DR)</small></small>,
   Gavri <!--gawati Gaoti (Gawoti, Gavati, Gavti)  Bheem --><small><small>(2 SP)</small></small>, <u>Asavari</u> <small><small>(1 🪙♀️)</small></small>,
@@ -156,6 +160,7 @@ Sagra<small><small> (R0 GD)</small></small>,
 Gond <small><small>(1 🔅{data[27][4]})</small></small>, Gambhir, Gund, Kumbah <small><small>(R2 MS)</small></small>,
 Hamir <small><small>(R1 🪙♀️)</small></small>.
 </p>
+<br />
 <ul><li>(6) <b>Megh ☔<small><small>(L 🔅🌜)</small></small></b><br></li></ul>
 <p><b>Wives</b>: <u>Sorath</u> <small><small>(R1 ☿🪙)</small></small>,
   Gond <small><small>(1)</small></small>,
@@ -170,6 +175,7 @@ Syama.<br />
 <b>Combo</b>: Asa Aaswari (Sri) <small><small>(1?)</small></small>, Tribungi, <u>Sorath</u>, Gujri (Deepak), Shalokh, Nat Bhariav.
 <!-- Nice mixes: Tribungi, Sorath!, Gujri, Shalokh -->
 </p>
+<br />
 
 <!-- raag names
 https://www.pinterest.ca/maitrey0635/ragamala/
