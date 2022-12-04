@@ -15,6 +15,7 @@ I - Second/Onset Pahar
 III - Fourth/Offset Pahar
 ⛵ - Shri thaat 🌴 - Hindol thaat
 🌌 - Purvi thaat
+💊 - Vachaspati thaat
 🧘‍♀️ - Bhairao thaat
 🔅 - Sa vadi/samvadi
 🌜 - Pa vadi/samvadi
@@ -63,14 +64,19 @@ III - Fourth/Offset Pahar
              ['Nat Naryan', '☔', 'RI', '🌜','☿', 'R2?'],
              ['Prabhati', 'ਕ', 'RIII', '🔅','🌜', '0🧘‍♀️?'],
              ['Durga', '🧘‍♀️', 'RI', ' ♂',' 🔅', 'R2?'],
-             ['Jaijaivanti', '🌴', 'RI', '♂','🌜']
+             ['Jaijaivanti', '🌴', 'RI', '♂','🌜'],
+             ['Patdeep', 'ਕ', 'II', '🌜','🔆'],
+             ['Tilak', '🌴', 'RI', '🔆','🌜'],
+             ['Kamoda', '🌴', 'R0', '🌜','♂'],
+             ['Saraswati (ਵ', '💊', 'RI', '🌜','🚹'],
+             ['Chandrakauns', 'ਚ', 'R2', '☿','🔆'],
+             ['Charukeshi', '-', '2', '🌜','🔆'],
+             ['Jog', 'ਕ', 'RI', '☿','🔆'],
+             ['Kaunsi', 'ਕ', 'R2', '🌜','🔆'],
+             ['Bhairavi', '🧘‍♀️', 'I', '☿','🔆', 'used to conclude a concert'],
+             ['Abhogi', 'ਕ', 'RI', '☿','🔆', 'peaceful sleep'],
+             ['Devsakh', '🧘‍♀️', 'I', '🌜','🔆', 'peaceful sleep'],
            ];
-
- /*
- ['Majh', 🌴, III, ♂, 🔅],
- ['Bilawali', 🧘‍♀️, I, 🪙,♀️],
- ['Asavari', ⛵💚, I, 🪙,♀️],
- */
 </script>
 
 <html data-theme="retro" lang="en">
@@ -94,11 +100,14 @@ III - Fourth/Offset Pahar
 <img src="https://i.pinimg.com/originals/92/4a/6b/924a6b2a0b128fa82cb01ae22335dc4c.jpg"
 style="width: 72px;"
 />
-A tribute to Jassa Singh Ramgarhia ☬
+A tribute to Jassa Singh Ramgarhia ☬<br /><br />
+<span style="opacity: 0.2">
+<a href="#Day">Day</a>&nbsp;&nbsp;&nbsp; <a href="#Night">Night</a>  <!--&nbsp;&nbsp;&nbsp; <a href="#Night">Name</a>--> 
+</span>
 </div>
 
 </td></tr></tbody></table>
-<h3 style="margin-bottom:28px"><span class="mw-headline" id="Raag_Mala"><small><small><small><small>ੴ</small></small></small></small><br />ਰਾਗਮਾਲਾ</span></h3>
+<h3 style="margin-bottom:28px"><span class="mw-headline" id="Raag_Mala"><small><small><small><small><span style="color:gold">ੴ</span></small></small></small></small><br />ਰਾਗਮਾਲਾ</span></h3>
 <ul><li>(1) <b>Bhairao 🧘‍♀️<small><small>(1 {data[33][3]+data[33][4]})</small></small></b><br></li></ul>
 <p><b>Wives</b>: Bhairavi <small><small>(1)</small></small>,
    <u>Bilawali</u> <small><small>(1 🪙♀️)</small></small>,
@@ -193,7 +202,7 @@ https://www.pinterest.ca/maitrey0635/ragamala/
 https://raagtime.com/
 -->
 
-<pre style="background-color:#2727da;padding:10px;">
+<pre style="background-color:#2727da;padding:10px;" id="Day">
   0 🌅 1 6 AM - 8.24 AM prata  0   (Day)                 K
 																	'Jogiya(🧘‍♀️), Bhairao {data[33][3]+data[33][4]}, Bhairiari Devgandhari, Ramakli!?
 																	Devgiri Bilawal? (🧘‍♀️)
@@ -201,7 +210,7 @@ https://raagtime.com/
 																	'Ahir Bhairiv (🌴),
 																	'Bhatiyar? (ਮਾ)
 																	Vibhas (☔ 🪙☿),
-
+<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">I</div>
 1 8.24 AM - 10.48 AM purvahna               7:30 11:30        P
 																Devsakh (🧘‍♀️focus, excesise, doing good), 'Bilawal {data[3][3] + '' + data[3][4]}, Puniya,
 																Gauri Bharagon (ਭੇ,ਪੂ,ਦੀ)? Bairagi?
@@ -210,10 +219,10 @@ https://raagtime.com/
 																Devgandhari (🍩), Suhi 🌜🔆,
 																'Malaar? (☔),  Basant Mukhari?
 																'Sevari (ਸੀ) (compassion, mercy - grey),
-																Gujri? (❤️‍🔥), , 'Todi 🪙♀️)?,
+																Gujri? (❤️‍🔥) {data[17][3], data[17][4]}, 'Todi 🪙♀️)?,
 
  Action - Study -- IMprove self
-
+<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">2</div>
 2 10.48 AM - 3.36 PM madhyahna    homecoming11:30 - 2:30?    V                                                                    Madhumadhvi?(🧘‍♀️) ☿🌜,
 																  'Pilu ♀️🪐, (ਕ/Green) Vadhans (RP), Suha Sughrai (PS), Bhimpalasi (♂S)
 																  Tilang (🌴) ♀️🪐,    11  1:50   12:42>
@@ -221,7 +230,7 @@ https://raagtime.com/
 																  Dhanshri (🍩 🔅🌜),  Maru 🌜🪐?, Mali Gaura {data[29][3],+data[29][4]}
 																  Salag (⛵🌜🔆), Bairari {data[24][3]+data[24][4]}, Sarang {data[14][3]}🌜
 
-
+<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">Ⅲ</div>
 3 3.36 PM - 6 PM aparahna  3*               1:50 4:50   V
 															Gauri, (ਭੇ,ਪੂ,ਦੀ)
 															Maajh, (ਹਿੰ ♂🔅)
@@ -250,6 +259,7 @@ Darkside الله
 																Gauri Poorvi?, (ਭੇ,ਪੂ,ਦੀ)
 
 R1 8.24 PM - 10.48 PM pradosa ☾1              8 -10:30      K
+<div style="background-image: url('blues.jpg');" id="Night">
 																Sorath (☔),   Nat?  NatNaryan, Malar, Basant?,
 																'Kafi ☿🌜, 'Bageshree, 'Madhukauns, Jog (ਕ)  Pancham Jogeshwari (MS)
 																Chandrakauns?, (ਚ strife?)
@@ -280,7 +290,7 @@ R3 3.36 AM - 6 AM nisanta 3		☾3			2:00 5    V
 															Prabhati 🧘‍♀️🔆🌜,  'Ramkali 🌜☿,  'Lalit ਭੇ,ਪੂ, (♂🔅)
 															Hindol (🌴)
 															Paraj (ਪੂ 🔆🌜)
-
+</div>
 
 L - Bengali / Bangla (ਭੇ) {data[4][3]+data[4][4]}
 
