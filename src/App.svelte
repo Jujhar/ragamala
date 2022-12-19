@@ -1,12 +1,6 @@
 <script>
 import { onMount } from 'svelte';
 
-onMount(() => {
-  console.log("yepppi");
-})
-
-let state = 0;
-
 /*
 Legend
 0 - First Pahar
@@ -113,7 +107,7 @@ A tribute to Jassa Singh Ramgarhia ☬<br /><br />
 
 </td></tr></tbody></table>
 <h3 style="margin-bottom:28px"><span class="mw-headline" id="Raag_Mala"><small><small><small><small><span style="color:gold">ੴ</span></small></small></small></small><br />ਰਾਗਮਾਲਾ</span></h3>
-<ul><li>(1) <b>Bhairao 🧘‍♀️<small><small>(1 {data[33][3]+data[33][4]})</small></small></b><br></li></ul>
+<ul><li>(1) <b>Bhairao 🧘‍♀️ <small><small>(1 {data[33][3]+data[33][4]})</small></small></b><br></li></ul>
 <p><b>Wives</b>: Bhairavi <small><small>(1 {data[48][3]+data[48][4]})</small></small>,
    <u>Bilawali</u> <small><small>(1 🪙♀️)</small></small>,
    Punyaki <small><small>(1)</small></small>,
@@ -141,7 +135,7 @@ Bihagaraa / Bihag <small><small>(R1 ♀️🪐)</small></small>.<br>
 <b>Combo</b>: Gauri Deepak / (Gauri Yeman)  <small><small>(R1)</small></small>, Poorvi, Bairagi.
 </p>
 <br />
-<ul><li>(2) <b>Malkaus raga</b> 🍩<small><small>(R2 ♂🔅)</small></small><br></li></ul>
+<ul><li>(2) <b>Malkaus</b> 🍩 <small><small>(R2 ♂🔅)</small></small><br></li></ul>
 <p><b>Wives</b>: Gaundkari <small><small>(1 DR)</small></small>, Devgandhari <small><small>(1)</small></small>,
   Gandhari <small><small>(1)</small></small>, Seehute, Dhanasri <small><small>(2 🔅🌜)</small></small>.<br>
 <b>Sons</b>: Maru <small><small>(2 🌜🪐)</small></small>, Marwa <small><small>(R0)</small></small>,
@@ -153,7 +147,7 @@ Parbal Chand, Kausak, Ubara, Khokhat, Bhuranad <small><small>(Bhamarananda?)</sm
 <!--<b>Retro</b>: <small><small>(1)</small></small>.-->
 </p>
 <br />
-<ul><li>(3) <b>Hindol raga</b> 🌴<br></li></ul>
+<ul><li>(3) <b>Hindol</b> 🌴<br></li></ul>
 <p><b>Wives</b>: Tilangi <small><small>(3 ♀️🪐)</small></small>,
   Devkari, <u>Basanti</u>, Sindhoori / Sindhuri, Ahiri <small><small>(0)</small></small>.<br>
 <b>Sons</b>: Surmanand, Bhasker, Chandra-Bimb,
@@ -164,11 +158,11 @@ Mangalan, Saras-baan, Binoda,
  <b>Other</b>: Kalavati <small><small>(R1 🌜🔆)</small></small>,
 </p>
 <br />
-<ul><li>(4) <b>Deepak raga</b> ❤️‍🔥<br></li></ul>
+<ul><li>(4) <b>Deepak</b> ❤️‍🔥<br></li></ul>
 <p><b>Wives</b>: Kachheli,
   <u>Patmanjari</u> <small><small>(2 🔅🌜)</small></small>,
    Todi <small><small>(1 🪙♀️)</small></small>, Kamodi <small><small>(R2?)</small></small>,
-   Gujri <small><small>(1)</small></small>.<br>
+   <span title="Nearness of Guru">Gujri</span> <small><small>(1)</small></small>.<br>
 <b>Sons</b>: Kaalanka, Kuntal, Rama, Kamal-Kusum,
 Champak <small><small>(R2)</small></small>, Gaura,
 Kanra <small><small>(R1)</small></small>,
@@ -176,7 +170,7 @@ Kanra <small><small>(R1)</small></small>,
 <b>Retro</b>: Tukhari <small><small>(3)</small></small>, Ambika / Madhuvanti <small><small>(3)</small></small>.
 </p>
 <br />
-<ul><li>(5) <b>Sri raga ⛵💚<small><small>(3 ☿🌜)</small></small></b><br></li></ul>
+<ul><li>(5) <b>Sri raga ⛵ <small><small>(3 ☿🌜)</small></small></b><br></li></ul>
 <p><b>Wives</b>: Baradi / Varali / Bairari <small><small>(2 ♀️🪙)</small></small>, Karnati <small><small>(0 DR)</small></small>,
   Gavri <!--gawati Gaoti (Gawoti, Gavati, Gavti)  Bheem --><small><small>(2 SP)</small></small>, <u>Asavari</u> <small><small>(1 🪙♀️)</small></small>,
    Sindhve / Sindhura <small><small>(3 SP)</small></small>.<br>
@@ -186,7 +180,7 @@ Gond <small><small>(1 🔅{data[27][4]})</small></small>, Gambhir, Gund, Kumbah 
 Hamir <small><small>(R1 🪙♀️)</small></small>.
 </p>
 <br />
-<ul><li>(6) <b>Megh ☔<small><small>(L 🔅🌜)</small></small></b><br></li></ul>
+<ul><li>(6) <b>Megh ☔ <small><small>(L 🔅🌜)</small></small></b><br></li></ul>
 <p><b>Wives</b>: <u>Sorath</u> <small><small>(R1 ☿🪙)</small></small>,
   Gond <small><small>(1)</small></small>,
   <u>Malari</u> <small><small>(L ☿🔅?)</small></small>,
@@ -197,7 +191,7 @@ Jaldhar,
 Shankara <small><small>(R2 ♀️🪐)</small></small>,
 Syama.<br />
 <b>Retro</b>: Vibhas <small><small>(0)</small></small>.<br>
-<b>Combo</b>: Asa Aaswari (Sri) <small><small>(1?)</small></small>, Tribungi, <u>Sorath</u>, Gujri (Deepak), Shalokh, Nat Bhariav.
+<b>Combo</b>: Asa Aaswari (Sri) <small><small>(1?)</small></small>, Tribungi, <u>Sorath</u>, <span title="Nearness of Guru">Gujri</span> (Deepak), Shalokh, Nat Bhariav.
 <!-- Nice mixes: Tribungi, Sorath!, Gujri, Shalokh -->
 </p>
 <br />
@@ -223,7 +217,7 @@ https://raagtime.com/
 																Devgandhari (🍩), Suhi 🌜🔆,
 																'Malaar? (☔),  Basant Mukhari?
 																'Sevari (ਸੀ) (compassion, mercy - grey),
-																Gujri? (❤️‍🔥) {data[17][3], data[17][4]}, 'Todi 🪙♀️)?,
+																<span title="nearness of Guru">Gujri?</span> (❤️‍🔥) {data[17][3], data[17][4]}, 'Todi 🪙♀️)?,
 
  Action - Study -- IMprove self
 <div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">2</div>
@@ -301,10 +295,32 @@ L - Bengali / Bangla (ਭੇ) {data[4][3]+data[4][4]}
 
 </pre>
 
-<div style="background-color:#3eab7e">
+<div style="background-color:#3eab7e;padding-left: 10px; opacity: 0.8;">
   Legend<br />
-  ☔ Megh<br />
-  &nbsp;◦&nbsp;&nbsp;Ignore underlines and `'s
+0 - First Pahar <em>(sunset/sunrise)</em><br />
+I - Second/Onset Pahar<br />
+2 - Third/Middle Pahar<br />
+III - Fourth/Offset Pahar<br />
+R - Night<br />
+L - Anytime feeling momentum or progress<br />
+<hr style="opacity: 0.2;">
+⛵ - Shri thaat <em>(feeling of movement)</em>🌴 - Hindol thaat <em>(related to particular place or thing)</em><br />
+🌌 - Purvi thaat <em>(feeling of completeness and fulfillment)</em><br />
+💊 - Vachaspati thaat<br />
+🧘‍♀️ - Bhairao thaat <em>(related to gains and fruits of devotion)</em><br />
+❤️‍🔥 Deepak thaat <em>(related to physical sensations and touch)</em><br />
+🍩 Malkauns thaat <em>(emotions and feelings related to thing??)</em>
+☔ Megh thaat<br />
+<hr style="opacity: 0.2;">
+🔅 - Sa vadi/samvadi<br />
+🌜 - Pa vadi/samvadi<br />
+♂ - Re vadi/samvadi<br />
+☿ - Ma vadi/samvadi <em>(Organization)<em/><br />
+♀️ - Ga vadi/samvadi <em>(Arts/Music/Games)<em/><br />
+🪐 - Ni vadi/samvadi<br />
+🪙 - Da vadi/samvadi <em>(Jupiter)<em/><br />
+
+  &nbsp;◦&nbsp;&nbsp;Ignore underlines and '
   </div>
 
 </body>
