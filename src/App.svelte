@@ -327,4 +327,8 @@ L - Bengali / Bangla (ਭੇ) {data[4][3]+data[4][4]}
         border: 2px solid red;
         padding: 10px;
       }
+
+      html {
+        background-color: #8a2be2 !important;
+      }
   </style>
