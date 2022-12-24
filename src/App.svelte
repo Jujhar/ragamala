@@ -119,7 +119,7 @@ Harakh <small><small>(R1)</small></small>,
               />
 <u>Devsakh</u> <small><small>(1 🌜🔅)</small></small>,
 <u>Bangalam</u> <small><small>(L?)</small></small>,
-Maadhmadhava <small><small>(2 ☿🌜)</small></small>,
+<u>Madhumadhvi</u> <small><small>(2 ☿🌜)</small></small>,
 <u>Lalit</u> <small><small>(R3 {data[12][3]}🔅)</small></small>,
 Bilaval <small><small>(1)</small></small>.<br>
 <b>Retro</b>: Gauri <small><small>(3 ☿🌜)</small></small>,
@@ -257,7 +257,7 @@ Darkside الله
 																Gauri Poorvi?, (ਭੇ,🌌,❤️‍🔥)
 
 R1 8.24 PM - 10.48 PM pradosa ☾1              8 -10:30      K
-<div style="background-image: url('blues.jpg');" id="Night">
+<div style="background-image: url('blues.jpg');padding-bottom: 30px;" id="Night">
 																Sorath (☔),   Nat?  NatNaryan, Malar, Basant?,
 																'Kafi ਕਾ ☿🌜, 'Bageshree ♀️🔆, 'Madhukauns 🌜🔆, Jog ☿🔆  Pancham Jogeshwari (☿🔆)
 																Chandrakauns?, (ਚ strife?)
@@ -295,7 +295,7 @@ L - Bengali / Bangla (ਭੇ) {data[4][3]+data[4][4]}
 
 </pre>
 
-<div style="background-color:#3eab7e;padding-left: 10px; opacity: 0.8;">
+<div style="background-color:#3eab7e;padding-left: 10px; opacity: 0.8;padding-top: 25px;">
   Legend<br />
 0 - First Pahar <em>(sunset/sunrise)</em><br />
 I - Second/Onset Pahar<br />
