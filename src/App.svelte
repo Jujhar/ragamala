@@ -3,10 +3,10 @@ import { onMount } from 'svelte';
 
 /*
 Legend
-0 - First Pahar
-I - Second/Onset Pahar
-2 - Third/Middle Pahar
-III - Fourth/Offset Pahar
+1 - First Pahar (sunrise/sunset)
+2 - Second/Onset Pahar
+3 - Third/Middle Pahar
+4 - Fourth/Offset Pahar
 ⛵ - Shri thaat 🌴 - Hindol thaat
 🌌 - Purvi thaat
 💊 - Vachaspati thaat
@@ -19,61 +19,61 @@ III - Fourth/Offset Pahar
 🪐 - Ni vadi/samvadi
 🪙 - Da vadi/samvadi
  */
- let data = [['Sri', '⛵', 'Ⅲ', '♂', '🌜'],
-             ['Asavari', '⛵', 'I', '🪙','♀️'],
-             ['Kalyana / Yaman', '❤️‍🔥', 'R0', '♀️','🪐'],
-             ['Bilawali', '🧘‍♀️', 'I', '🪙','♀️'],
+ let data = [['Sri', '⛵', '4', '♂', '🌜'],
+             ['Asavari', '⛵', '2', '🪙','♀️'],
+             ['Kalyana / Yaman', '❤️‍🔥', 'R1', '♀️','🪐'],
+             ['Bilawali', '🧘‍♀️', '2', '🪙','♀️'],
              ['Bangli', '🧘‍♀️', 'L', '☿','🔆'],
-             ['Pancham', '🧘‍♀️', 'R0', '♂','🔆'], // 5
-             ['Sorath', '☔', 'RI', '♂','🪙'],
+             ['Pancham', '🧘‍♀️', 'R1', '♂','🔆'], // 5
+             ['Sorath', '☔', 'R2', '♂','🪙'],
              ['Malaar', '☔', 'L', '☿','🔆'],
              ['Megh', '☔', 'L', '🔆','🌜'],
              ['Basant', '🌴', 'L', '🔅','☿', '🔅🌜?'],
-             ['Asa', '☔', 'RⅢ', '☿','🔆'], // 10
-             ['Devsakh', '🧘‍♀️', 'I', '🌜','🔆'],
-             ['Lalit', '🧘‍♀️', 'RⅢ', '☿','🔆'],
-             ['Gauri', '🧘‍♀️', 'Ⅲ', '♂','🌜', 'R0?'],
-             ['Sarang', '⛵', '2', '♂','🌜', 'I?'],
-             ['Patmanjari', '❤️‍🔥', '2', '🔅','🌜'], // 15
-             ['Salag', '⛵', '2', '🌜','🔆'],
-             ['Gujri', '❤️‍🔥', 'I', '🪙','♂'],
-             ['Maajh', '🌴', 'Ⅲ', '♂','🔆', 'R0?'],
-             ['Devgandhari', '🍩', '2', '🌜','🔆', 'Also Kafi'],
-             ['Bihagara', '🧘‍♀️', 'RI', '♀️','🪐'], // 20
-             ['Vadhans', 'ਕ', 'R2', '🔆','♂'],
-             ['Jaitsri', '🌌', 'Ⅲ', '♀️','🪐', 'R0?, ਮਾ ਸ਼???'],
-             ['Todi', '❤️‍🔥', 'I', '🪙','♂'],
-             ['Bairari', '⛵', '2', ' ♀️',' 🪙'],
-             ['Tilang', '‍🌴', '2', '♀️','🪐', '♂🪐?'], // 25
-             ['Suhi', '🍩', 'I', '🌜','🔆'],
-             ['Gond', '⛵ ☔ 🍩', 'I', '🔆','☿'],
-             ['Ramkali', '🧘‍♀️', 'RⅢ', '🌜','🔆', '🌜☿?'],
-             ['Mali Gaura', '🍩', 'Ⅲ', '♂','🌜'],
-             ['Maru', '🍩', '2', '♀️','🪐', ['🌜🪐?']], // 30
-             ['Tukhari', '❤️‍🔥', 'Ⅲ', '🌜','‍🔆'],
-             ['Kedara', '☔', 'R0', ' ♀️','🔆'],
-             ['Bhairao', '🧘‍♀️', '0', '🪙','♂'],
-             ['Nat Naryan', '☔', 'RI', '🌜','☿', 'R2?'],
-             ['Kanra', '❤️‍🔥', 'RI', '🌜','🔆'], // 35
-             ['Nat Naryan', '☔', 'RI', '🌜','☿', 'R2?'],
-             ['Prabhati', 'ਕ', 'RⅢ', '🔅','🌜', '0🧘‍♀️?'],
-             ['Durga', '🧘‍♀️', 'RI', ' ♂',' 🔅', 'R2?'],
-             ['Jaijaivanti', '🌴', 'RI', '♂','🌜'],
-             ['Patdeep', 'ਕ', 'II', '🌜','🔆'], // 40
-             ['Tilak', '🌴', 'RI', '🔆','🌜'],
-             ['Kamoda', '🌴', 'R0', '🌜','♂'],
-             ['Saraswati (ਵ', '💊', 'RI', '🌜','🚹'],
-             ['Chandrakauns', 'ਚ', 'R2', '☿','🔆'],
-             ['Charukeshi', '-', '2', '🌜','🔆'], // 45
-             ['Jog', 'ਕ', 'RI', '☿','🔆'],
-             ['Kaunsi', 'ਕ', 'R2', '🌜','🔆'],
-             ['Bhairavi', '🧘‍♀️', 'I', '☿','🔆', 'used to conclude a concert'],
-             ['Abhogi', 'ਕ', 'RI', '☿','🔆', 'peaceful sleep'],
-             ['Devsakh', '🧘‍♀️', 'I', '🌜','🔆',], // 50
-             ['Puniya', '🧘‍♀️', 'I', '☿','🔆'],
-             ['Adana', '⛵', 'R2', '🔆','🌜'],
-             ['Hindol', '🌴', 'RⅢ', '🪙','♀️'],
-             ['', '🧘‍♀️', 'I', '☿','🔆'],
+             ['Asa', '☔', 'R4', '☿','🔆'], // 10
+             ['Devsakh', '🧘‍♀️', '2', '🌜','🔆'],
+             ['Lalit', '🧘‍♀️', 'R4', '☿','🔆'],
+             ['Gauri', '🧘‍♀️', '4', '♂','🌜', 'R1?'],
+             ['Sarang', '⛵', '3', '♂','🌜', '2?'],
+             ['Patmanjari', '❤️‍🔥', '3', '🔅','🌜'], // 15
+             ['Salag', '⛵', '3', '🌜','🔆'],
+             ['Gujri', '❤️‍🔥', '2', '🪙','♂'],
+             ['Maajh', '🌴', '4', '♂','🔆', 'R1?'],
+             ['Devgandhari', '🍩', '3', '🌜','🔆', 'Also Kafi'],
+             ['Bihagara', '🧘‍♀️', 'R2', '♀️','🪐'], // 20
+             ['Vadhans', 'ਕ', 'R3', '🔆','♂'],
+             ['Jaitsri', '🌌', '4', '♀️','🪐', 'R1?, ਮਾ ਸ਼???'],
+             ['Todi', '❤️‍🔥', '2', '🪙','♂'],
+             ['Bairari', '⛵', '3', ' ♀️',' 🪙'],
+             ['Tilang', '‍🌴', '3', '♀️','🪐', '♂🪐?'], // 25
+             ['Suhi', '🍩', '2', '🌜','🔆'],
+             ['Gond', '⛵ ☔ 🍩', '2', '🔆','☿'],
+             ['Ramkali', '🧘‍♀️', 'R4', '🌜','🔆', '🌜☿?'],
+             ['Mali Gaura', '🍩', '4', '♂','🌜'],
+             ['Maru', '🍩', '3', '♀️','🪐', ['🌜🪐?']], // 30
+             ['Tukhari', '❤️‍🔥', '4', '🌜','‍🔆'],
+             ['Kedara', '☔', 'R1', ' ♀️','🔆'],
+             ['Bhairao', '🧘‍♀️', '1', '🪙','♂'],
+             ['Nat Naryan', '☔', 'R2', '🌜','☿', 'R3?'],
+             ['Kanra', '❤️‍🔥', 'R2', '🌜','🔆'], // 35
+             ['Nat Naryan', '☔', 'R2', '🌜','☿', 'R3?'],
+             ['Prabhati', 'ਕ', 'R4', '🔅','🌜', '1🧘‍♀️?'],
+             ['Durga', '🧘‍♀️', 'R2', ' ♂',' 🔅', 'R3?'],
+             ['Jaijaivanti', '🌴', 'R2', '♂','🌜'],
+             ['Patdeep', 'ਕ', '3', '🌜','🔆'], // 40
+             ['Tilak', '🌴', 'R2', '🔆','🌜'],
+             ['Kamoda', '🌴', 'R1', '🌜','♂'],
+             ['Saraswati (ਵ', '💊', 'R2', '🌜','🚹'],
+             ['Chandrakauns', 'ਚ', 'R3', '☿','🔆'],
+             ['Charukeshi', '-', '3', '🌜','🔆'], // 45
+             ['Jog', 'ਕ', 'R2', '☿','🔆'],
+             ['Kaunsi', 'ਕ', 'R3', '🌜','🔆'],
+             ['Bhairavi', '🧘‍♀️', '2', '☿','🔆', 'used to conclude a concert'],
+             ['Abhogi', 'ਕ', 'R2', '☿','🔆', 'peaceful sleep'],
+             ['Devsakh', '🧘‍♀️', '2', '🌜','🔆',], // 50
+             ['Puniya', '🧘‍♀️', '2', '☿','🔆'],
+             ['Adana', '⛵', 'R3', '🔆','🌜'],
+             ['Hindol', '🌴', 'R4', '🪙','♀️'],
+             ['', '🧘‍♀️', '2', '☿','🔆'],
 
            ];
 </script>
@@ -107,91 +107,91 @@ A tribute to Jassa Singh Ramgarhia ☬<br /><br />
 
 </td></tr></tbody></table>
 <h3 style="margin-bottom:28px"><span class="mw-headline" id="Raag_Mala"><small><small><small><small><span style="color:gold">ੴ</span></small></small></small></small><br />ਰਾਗਮਾਲਾ</span></h3>
-<ul><li>(1) <b>Bhairao 🧘‍♀️ <small><small>(1 {data[33][3]+data[33][4]})</small></small></b><br></li></ul>
-<p><b>Wives</b>: Bhairavi <small><small>(1 {data[48][3]+data[48][4]})</small></small>,
-   <u>Bilawali</u> <small><small>(1 🪙♀️)</small></small>,
-   Punyaki <small><small>(1)</small></small>,
+<ul><li>(2) <b>Bhairao 🧘‍♀️ <small><small>(2 {data[33][3]+data[33][4]})</small></small></b><br></li></ul>
+<p><b>Wives</b>: Bhairavi <small><small>(2 {data[48][3]+data[48][4]})</small></small>,
+   <u>Bilawali</u> <small><small>(2 🪙♀️)</small></small>,
+   Punyaki <small><small>(2)</small></small>,
    <u>Bangli</u> <small><small>(L ☿🔆)</small></small>, Aslekhi <small><small>(Puniya?)</small></small>.<br>
-<b>Sons</b>: <u>Pancham</u> <small><small>(R0)</small></small>,
-Harakh <small><small>(R1)</small></small>,
+<b>Sons</b>: <u>Pancham</u> <small><small>(R1)</small></small>,
+Harakh <small><small>(R2)</small></small>,
               <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/%27Desakh_Ragini_of_the_Hindol_Raga%27_by_Chetan_Das%2C_HMA_10733.1.JPG"
               style="vertical-align: middle;width:30px"
               />
-<u>Devsakh</u> <small><small>(1 🌜🔅)</small></small>,
+<u>Devsakh</u> <small><small>(2 🌜🔅)</small></small>,
 <u>Bangalam</u> <small><small>(L?)</small></small>,
-<u>Madhumadhvi</u> <small><small>(2 ☿🌜)</small></small>,
-<u>Lalit</u> <small><small>(R3 {data[12][3]}🔅)</small></small>,
-Bilaval <small><small>(1)</small></small>.<br>
-<b>Retro</b>: Gauri <small><small>(3 ☿🌜)</small></small>,
-Ramkali <small><small>(3 🌜🔅)</small></small>,
-Pahadi <small><small>(R0)</small></small>,
-Malashree <small><small>(R0 SP)</small></small>,
-Hamsadvani <small><small>(R0?-R1?)</small></small>,
-Durga <small><small>(R1 ♂🔅)</small></small>,
-Bhinna Shadja <small><small>(R2 ♂🔅)</small></small>,<br>
-Jogkauns <small><small>(R2 ♂🔅)</small></small>,
-Hemant <small><small>(R2 ♂🔅)</small></small>,
-Bihagaraa / Bihag <small><small>(R1 ♀️🪐)</small></small>.<br>
-<b>Combo</b>: Gauri Deepak / (Gauri Yeman)  <small><small>(R1)</small></small>, Poorvi, Bairagi.
+<u>Madhumadhvi</u> <small><small>(3 ☿🌜)</small></small>,
+<u>Lalit</u> <small><small>(R4 {data[12][3]}🔅)</small></small>,
+Bilaval <small><small>(2 🪙♀️)</small></small>.<br>
+<b>Retro</b>: Gauri <small><small>(4 ☿🌜)</small></small>,
+Ramkali <small><small>(R4 🌜🔅)</small></small>,
+Pahadi <small><small>(R1)</small></small>,
+Malashree <small><small>(R1 SP 3️⃣)</small></small>,
+Hamsadvani <small><small>(R1?-R2?)</small></small>,
+Durga <small><small>(R2 ♂🔅)</small></small>,
+Bhinna Shadja <small><small>(R3 ♂🔅)</small></small>,<br>
+Jogkauns <small><small>(R3 ♂🔅)</small></small>,
+Hemant <small><small>(R3 ♂🔅)</small></small>,
+Bihagaraa / Bihag <small><small>(R2 ♀️🪐)</small></small>.<br>
+<b>Combo</b>: Gauri Deepak / (Gauri Yeman)  <small><small>(R2)</small></small>, Poorvi, Bairagi.
 </p>
 <br />
-<ul><li>(2) <b>Malkaus</b> 🍩 <small><small>(R2 ♂🔅)</small></small><br></li></ul>
-<p><b>Wives</b>: Gaundkari <small><small>(1 DR)</small></small>, Devgandhari <small><small>(1)</small></small>,
-  Gandhari <small><small>(1)</small></small>, Seehute, Dhanasri <small><small>(2 🔅🌜)</small></small>.<br>
-<b>Sons</b>: Maru <small><small>(2 🌜🪐)</small></small>, Marwa <small><small>(R0)</small></small>,
+<ul><li>(3) <b>Malkaus</b> 🍩 <small><small>(R3 ♂🔅)</small></small><br></li></ul>
+<p><b>Wives</b>: Gaundkari <small><small>(2 DR)</small></small>, Devgandhari <small><small>(2 🌜🔆)</small></small>,
+  Gandhari <small><small>(2)</small></small>, Seehute, Dhanasri <small><small>(3 🔅🌜)</small></small>.<br>
+<b>Sons</b>: Maru <small><small>(3 🌜🪐)</small></small>, Marwa <small><small>(R1)</small></small>,
 Parbal Chand, Kausak, Ubara, Khokhat, Bhuranad <small><small>(Bhamarananda?)</small></small>.<br>
-<b>Retro</b>: Mali Gaura <small><small>({data[29][2]+data[29][3],+data[29][4]})</small></small>, Suhi <small><small>(1)</small></small>,
- Puriya <small><small>(R1)</small></small>.
+<b>Retro</b>: Mali Gaura <small><small>({data[29][2]+data[29][3],+data[29][4]})</small></small>, Suhi <small><small>(2)</small></small>,
+ Puriya <small><small>(R2)</small></small>.
 <br>
-<b>Combo</b>: Dhanasri Ambika <small><small>(1)</small></small>.
-<!--<b>Retro</b>: <small><small>(1)</small></small>.-->
+<b>Combo</b>: Dhanasri Ambika <small><small>(2)</small></small>.
+<!--<b>Retro</b>: <small><small>(2)</small></small>.-->
 </p>
 <br />
-<ul><li>(3) <b>Hindol</b> 🌴<br></li></ul>
-<p><b>Wives</b>: Tilangi <small><small>(3 ♀️🪐)</small></small>,
-  Devkari, <u>Basanti</u>, Sindhoori / Sindhuri, Ahiri <small><small>(0)</small></small>.<br>
+<ul><li>(4) <b>Hindol</b> 🌴<br></li></ul>
+<p><b>Wives</b>: Tilangi <small><small>(4 ♀️🪐)</small></small>,
+  Devkari, <u>Basanti</u>, Sindhoori / Sindhuri, Ahiri <small><small>(1)</small></small>.<br>
 <b>Sons</b>: Surmanand, Bhasker, Chandra-Bimb,
 Mangalan, Saras-baan, Binoda,
  <u>Basant</u> <small><small>(L 🔅☿)</small></small>,
- Kamoda <small><small>(R0? R1?)</small></small>.
+ Kamoda <small><small>(R1? R2?)</small></small>.
  <br />
- <b>Other</b>: Kalavati <small><small>(R1 🌜🔆)</small></small>,
+ <b>Other</b>: Kalavati <small><small>(R2 🌜🔆)</small></small>,
 </p>
 <br />
 <ul><li>(4) <b>Deepak</b> ❤️‍🔥<br></li></ul>
 <p><b>Wives</b>: Kachheli,
-  <u>Patmanjari</u> <small><small>(2 🔅🌜)</small></small>,
-   Todi <small><small>(1 🪙♀️)</small></small>, Kamodi <small><small>(R2?)</small></small>,
-   <span title="Nearness of Guru">Gujri</span> <small><small>(1)</small></small>.<br>
+  <u>Patmanjari</u> <small><small>(3 🔅🌜)</small></small>,
+   Todi <small><small>(2 🪙♀️)</small></small>, Kamodi <small><small>(R3?)</small></small>,
+   <span title="Nearness of Guru">Gujri</span> <small><small>(2 🪙♂)</small></small>.<br>
 <b>Sons</b>: Kaalanka, Kuntal, Rama, Kamal-Kusum,
-Champak <small><small>(R2)</small></small>, Gaura,
-Kanra <small><small>(R1)</small></small>,
- <u>Kalyana / Yaman</u> <small><small>(R1 ♀️🪐)</small></small>.<br>
-<b>Retro</b>: Tukhari <small><small>(3)</small></small>, Ambika / Madhuvanti <small><small>(3)</small></small>.
+Champak <small><small>(R3)</small></small>, Gaura,
+Kanra <small><small>(R2)</small></small>,
+ <u>Kalyana / Yaman</u> <small><small>(R2 ♀️🪐)</small></small>.<br>
+<b>Retro</b>: Tukhari <small><small>(4)</small></small>, Ambika / Madhuvanti <small><small>(4)</small></small>.
 </p>
 <br />
-<ul><li>(5) <b>Sri raga ⛵ <small><small>(3 ☿🌜)</small></small></b><br></li></ul>
-<p><b>Wives</b>: Baradi / Varali / Bairari <small><small>(2 ♀️🪙)</small></small>, Karnati <small><small>(0 DR)</small></small>,
-  Gavri <!--gawati Gaoti (Gawoti, Gavati, Gavti)  Bheem --><small><small>(2 SP)</small></small>, <u>Asavari</u> <small><small>(1 🪙♀️)</small></small>,
-   Sindhve / Sindhura <small><small>(3 SP)</small></small>.<br>
-<b>Sons</b>: <u>Salag</u> <small><small>(2 🌜🔆)</small></small>, <u>Sarang</u> <small><small>({data[14][2]+data[14][3]}🌜)</small></small>,
-Sagra <small><small>(R0 GD)</small></small>,
-Gond <small><small>(1 🔅{data[27][4]})</small></small>, Gambhir, Gund, Kumbah <small><small>(R2 MS)</small></small>,
-Hamir <small><small>(R1 🪙♀️)</small></small>.
+<ul><li>(5) <b>Sri raga ⛵ <small><small>(4 ☿🌜)</small></small></b><br></li></ul>
+<p><b>Wives</b>: Baradi / Varali / Bairari <small><small>(3 ♀️🪙)</small></small>, Karnati <small><small>(1 DR)</small></small>,
+  Gavri <!--gawati Gaoti (Gawoti, Gavati, Gavti)  Bheem --><small><small>(3 SP)</small></small>, <u>Asavari</u> <small><small>(2 🪙♀️ 5️⃣-7️⃣)</small></small>,
+   Sindhve / Sindhura <small><small>(4 SP)</small></small>.<br>
+<b>Sons</b>: <u>Salag</u> <small><small>(3 🌜🔆)</small></small>, <u>Sarang</u> <small><small>({data[14][2]+data[14][3]}🌜)</small></small>,
+Sagra <small><small>(R1 GD)</small></small>,
+Gond <small><small>(2 🔅{data[27][4]})</small></small>, Gambhir, Gund, Kumbah <small><small>(R3 MS)</small></small>,
+Hamir <small><small>(R2 🪙♀️)</small></small>.
 </p>
 <br />
 <ul><li>(6) <b>Megh ☔ <small><small>(L 🔅🌜)</small></small></b><br></li></ul>
-<p><b>Wives</b>: <u>Sorath</u> <small><small>(R1 ☿🪙)</small></small>,
-  Gond <small><small>(1)</small></small>,
+<p><b>Wives</b>: <u>Sorath</u> <small><small>(R2 ☿🪙)</small></small>,
+  Gond <small><small>(2)</small></small>,
   <u>Malari</u> <small><small>(L ☿🔅?)</small></small>,
-   Asa <small><small>(R3 {data[10][3]}🔅)</small></small>, Soohou <small><small>(Puniya? or Soob)</small></small>.<br>
-<b>Sons</b>: Bayra-dhar, Gaj-dhar <small><small>(1?)</small></small>,
-Kedara <small><small>(C0)</small></small>, Jabli-dhar, Nat <small><small>(R2 ♂🔅)</small></small>,
+   Asa <small><small>(R4 {data[10][3]}🔅)</small></small>, Soohou <small><small>(Puniya? or Soob)</small></small>.<br>
+<b>Sons</b>: Bayra-dhar, Gaj-dhar <small><small>(2?)</small></small>,
+Kedara <small><small>(R1)</small></small>, Jabli-dhar, Nat <small><small>(R3 ♂🔅)</small></small>,
 Jaldhar,
-Shankara <small><small>(R2 ♀️🪐)</small></small>,
+Shankara <small><small>(R3 ♀️🪐)</small></small>,
 Syama.<br />
-<b>Retro</b>: Vibhas <small><small>(0)</small></small>.<br>
-<b>Combo</b>: Asa Aaswari (Sri) <small><small>(1?)</small></small>, Tribungi, <u>Sorath</u>, <span title="Nearness of Guru">Gujri</span> (Deepak), Shalokh, Nat Bhariav.
+<b>Retro</b>: Vibhas <small><small>(1)</small></small>.<br>
+<b>Combo</b>: Asa Aaswari (Sri) <small><small>(2?)</small></small>, Tribungi, <u>Sorath</u>, <span title="Nearness of Guru">Gujri</span> (Deepak), Shalokh, Nat Bhariav.
 <!-- Nice mixes: Tribungi, Sorath!, Gujri, Shalokh -->
 </p>
 <br />
@@ -202,34 +202,34 @@ https://raagtime.com/
 -->
 
 <pre style="background-color:#2727da;padding:10px;" id="Day">
-  0 🌅 1 6 AM - 8.24 AM prata  0   (Day)                 K
+  1 🌅 1 6 AM - 8.24 AM prata  1   (Day)                 K
 																	'Jogiya(🧘‍♀️), Bhairao {data[33][3]+data[33][4]}, Bhairiari Devgandhari, Ramakli!?
 																	Devgiri Bilawal? (🧘‍♀️) Gauri Bairagan ♂🪙 (ਭੇ,🌌,❤️‍🔥)
 																	'Ahir Bhairiv (🌴),
 																	'Bhatiyar? (🍩 ☿🔆)
 																	Vibhas (☔ 🪙☿),
-<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">I</div>
-1 8.24 AM - 10.48 AM purvahna               7:30 11:30        P
+<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">2</div>
+2 8.24 AM - 10.48 AM purvahna               7:30 11:30        P
 																Devsakh (🧘‍♀️focus, excesise, doing good), 'Bilawal {data[3][3] + '' + data[3][4]}, Puniya, Bhairavi {data[48][3] + data[48][4]}
 																Bairagi?
-																Asavari (⛵ Renunciation and sacrifice)? {data[1][3]}{data[1][4]}
+																Asavari (⛵ Renunciation and sacrifice)? {data[1][3]}{data[1][4]} 5️⃣-7️⃣
 																Gond (⛵ ☔ 🍩?)
-																Devgandhari (🍩), Suhi 🌜🔆,
+																Devgandhari (🍩🌜🔆), Suhi 🌜🔆,
 																'Malaar? (☔),  Basant Mukhari?
 																'Sevari (ਸੀ) (compassion, mercy - grey),
-																<span title="nearness of Guru">Gujri?</span> (❤️‍🔥) {data[17][3], data[17][4]}, 'Todi 🪙♀️)?,
+																<span title="nearness of Guru">Gujri?</span> (❤️‍🔥) {data[17][3]+data[17][4]}, 'Todi 🪙♀️)?,
 
  Action - Study -- IMprove self
-<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">2</div>
-2 10.48 AM - 3.36 PM madhyahna    homecoming11:30 - 2:30?    V                                                                    Madhumadhvi?(🧘‍♀️) ☿🌜,
+<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">3</div>
+3 10.48 AM - 3.36 PM madhyahna    homecoming11:30 - 2:30?    V                                                                    Madhumadhvi?(🧘‍♀️) ☿🌜,
 																  'Pilu ♀️🪐, (ਕਾ/Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆, Bhimpalasi (♂🔆)
 																  Tilang (🌴) ♀️🪐,    11  1:50   12:42>
 																  Patmanjari,(❤️‍🔥 SP)
 																  Dhanshri (🍩 🔅🌜),  Maru 🌜🪐?, Mali Gaura {data[29][3],+data[29][4]}
 																  Salag (⛵🌜🔆), Bairari {data[24][3]+data[24][4]}, Sarang {data[14][3]}🌜
 
-<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">Ⅲ</div>
-3 3.36 PM - 6 PM aparahna  3*               1:50 4:50   V
+<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">4</div>
+4 3.36 PM - 6 PM aparahna  4*               1:50 4:50   V
 															Gauri, (ਭੇ,🌌,❤️‍ ♂🌜)
 															Maajh, (ਹਿੰ ♂🔅)
 															Shri? (⛵💚 ☿🌜)
@@ -245,10 +245,10 @@ https://raagtime.com/
 Darkside الله
 
 
-🌇 R0 6 PM - 8.24 PM sayan/utarang ☾0  (Night)            4:50 - 8     K
+🌇 R1 6 PM - 8.24 PM sayan/utarang ☾1  (Night)            4:50 - 8     K
 																Basant,(☔),  Kedara
 																Pancham(🧘‍♀️) {data[5][3],data[5][3]}, Pahadi Bhupali (PS),
-																Malashree? (🧘‍♀️ SP)
+																Malashree? (🧘‍♀️ SP 3️⃣)
 																Pahadi Ramgiri?? Hamsadvani?, (🧘‍♀️)
 																Marwa?(🍩)  Mali Gaura ☿🌜,
 																'Yaman (❤️‍🔥),
@@ -256,7 +256,7 @@ Darkside الله
 																Shri, (ਸ਼)
 																Gauri Poorvi?, (ਭੇ,🌌,❤️‍🔥)
 
-R1 8.24 PM - 10.48 PM pradosa ☾1              8 -10:30      K
+R2 8.24 PM - 10.48 PM pradosa ☾2              8 -10:30      K
 <div style="background-image: url('blues.jpg');padding-bottom: 30px;" id="Night">
 																Sorath (☔),   Nat?  NatNaryan, Malar, Basant?,
 																'Kafi ਕਾ ☿🌜, 'Bageshree ♀️🔆, 'Madhukauns 🌜🔆, Jog ☿🔆  Pancham Jogeshwari (☿🔆)
@@ -273,8 +273,8 @@ R1 8.24 PM - 10.48 PM pradosa ☾1              8 -10:30      K
 								                                                    Kirwani (੍ - Virah (separation), nostalgia, and Shringar Rasas - beauty vishnu, ਕ, ਸ਼)
 
 
-R2 10.48 PM - 3.36 AM ratri  ☾2          8     10:30 2      P                                              'Jog Kauns?, Bhinna Sharaj?, 'Hemant? (🧘‍♀️)
-															   'Des? ♂🌜, Khamoj (🌴),
+R3 10.48 PM - 3.36 AM ratri  ☾3          8     10:30 3      P                                              'Jog Kauns?, Bhinna Sharaj?, 'Hemant? (🧘‍♀️)
+															   'Des? ♂🌜, Khamoj (🌴 🌜♂),
 																Chandrakauns? (ਚ ☿🔆)
 																'Darbari Kanada? (⛵ ♂🌜),  Adana  ☿🔆
 																Deepak (❤️‍🔥 🔆🌜)
@@ -284,7 +284,7 @@ R2 10.48 PM - 3.36 AM ratri  ☾2          8     10:30 2      P                 
 
 
 
-R3 3.36 AM - 6 AM nisanta 3		☾3			2:00 5    V
+R4 3.36 AM - 6 AM nisanta 4		☾4			2:00 5    V
 															'Asa ☔,  (♂🔅)
 															Prabhati 🧘‍♀️🔆🌜,  'Ramkali 🌜☿,  'Lalit 🧘‍♀️,🌌, (♂🔅)
 															Hindol (🌴 {data[53][3]+data[53][4]})
@@ -297,10 +297,10 @@ L - Bengali / Bangla (ਭੇ) {data[4][3]+data[4][4]}
 
 <div style="background-color:#3eab7e;padding-left: 10px; opacity: 0.8;padding-top: 25px;">
   Legend<br />
-0 - First Pahar <em>(sunset/sunrise)</em><br />
-I - Second/Onset Pahar<br />
-2 - Third/Middle Pahar<br />
-III - Fourth/Offset Pahar<br />
+1 - First Pahar <em>(sunrise/sunset)</em><br />
+2 - Second/Onset Pahar<br />
+3 - Third/Middle Pahar<br />
+4 - Fourth/Offset Pahar<br />
 R - Night<br />
 L - Anytime feeling momentum or progress<br />
 <hr style="opacity: 0.2;">
