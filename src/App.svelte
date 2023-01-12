@@ -130,7 +130,7 @@ Hamsadvani <small><small>(R1?-R2?)</small></small>,
 Durga <small><small>(R2 ♂🔅)</small></small>,
 Bhinna Shadja <small><small>(R3 ♂🔅)</small></small>,<br>
 Jogkauns <small><small>(R3 ♂🔅)</small></small>,
-Hemant <small><small>(R3 ♂🔅)</small></small>,
+Hemant <small><small>(R3 ♂🔅<span title="S G m D N S' - S' N D P m G R S; (S G m D ; P m ; G R S ; ,N ,D ; ,m ,D ,N S ; m (P)m ; G m D N ; m D N S' ; S' R' S' N D ; N S' D P m ; m P m m G m G R S; Mukhya-Ang	G m D N D ; m (P)m ; N D (P)m ; G m G R S ; G m D P m G R S;)">5-7</span>)</small></small>,
 Bihagaraa / Bihag <small><small>(R2 ♀️🪐)</small></small>.<br>
 <b>Combo</b>: Gauri Deepak / (Gauri Yeman)  <small><small>(R2)</small></small>, Poorvi, Bairagi.
 </p>
@@ -273,7 +273,7 @@ R2 8.24 PM - 10.48 PM pradosa ☾2              8 -10:30      K
 								                                                    Kirwani (੍ - Virah (separation), nostalgia, and Shringar Rasas - beauty vishnu, ਕ, ਸ਼)
 
 
-R3 10.48 PM - 3.36 AM ratri  ☾3          8     10:30 3      P                                              'Jog Kauns?, Bhinna Sharaj?, 'Hemant? (🧘‍♀️)
+R3 10.48 PM - 3.36 AM ratri  ☾3          8     10:30 3      P                                              'Jog Kauns?, Bhinna Sharaj?, 'Hemant? (🧘‍♀️♂🔅<span title="S G m D N S' - S' N D P m G R S; (S G m D ; P m ; G R S ; ,N ,D ; ,m ,D ,N S ; m (P)m ; G m D N ; m D N S' ; S' R' S' N D ; N S' D P m ; m P m m G m G R S; Mukhya-Ang	G m D N D ; m (P)m ; N D (P)m ; G m G R S ; G m D P m G R S;)">5-7</span>)
 															   'Des? ♂🌜, Khamoj (🌴 🌜♂),
 																Chandrakauns? (ਚ ☿🔆<span title="S g m d N S' - S' N d m g m g S ,N S; (S g m g S ,N ; ,N S ; g m d N S'; N d S' ; N d m g m g S ,N S; ,N ,d ,N S ; g m d N S' ; m d m N ; N S' G' S' N S' N ; N d ; m d N d m ; m g m g S ; m g S ,N ; S g m g S ; ,N ,N S;.)">5️⃣</span>)
 																'Darbari Kanada? (⛵ ♂🌜),  Adana  ☿🔆
