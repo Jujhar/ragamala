@@ -122,10 +122,10 @@ Harakh <small><small>(R2)</small></small>,
 <u>Madhumadhvi</u> <small><small>(3 ☿🌜)</small></small>,
 <u>Lalit</u> <small><small>(R4 {data[12][3]}🔅)</small></small>,
 Bilaval <small><small>(2 🪙♀️)</small></small>.<br>
-<b>Retro</b>: Gauri <small><small>(4 ☿🌜)</small></small>,
-Ramkali <small><small>(R4 🌜🔅)</small></small>,
-Pahadi <small><small>(R1)</small></small>,
-Malashree <small><small>(R1 SP 3️⃣)</small></small>,
+<b>Retro</b>: Gauri <small><small>(4 ☿🌜7️⃣)</small></small>,
+Ramkali <small><small>(R4 🌜🔅7️⃣)</small></small>,
+<u>Pahadi</u> <small><small>(R1)</small></small>,
+Malashree <small><small>(R1 SP <span title="S - G - P - N - S' / S' - (N)P - (M)(G), P - G - S (S - (N)P - M(G), P - G - S)">3️⃣</span>)</small></small>,
 Hamsadvani <small><small>(R1?-R2?)</small></small>,
 Durga <small><small>(R2 ♂🔅)</small></small>,
 Bhinna Shadja <small><small>(R3 ♂🔅)</small></small>,<br>
@@ -155,12 +155,12 @@ Mangalan, Saras-baan, Binoda,
  <u>Basant</u> <small><small>(L 🔅☿)</small></small>,
  Kamoda <small><small>(R1? R2?)</small></small>.
  <br />
- <b>Other</b>: Kalavati <small><small>(R2 🌜🔆)</small></small>,
+ <b>Other</b>: Kalavati <small><small>(R2 🌜🔆5️⃣)</small></small>,
 </p>
 <br />
 <ul><li>(4) <b>Deepak</b> ❤️‍🔥<br></li></ul>
 <p><b>Wives</b>: Kachheli,
-  <u>Patmanjari</u> <small><small>(3 🔅🌜)</small></small>,
+  <u>Patmanjari</u> <small><small>(3 🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>)</small></small>,
    Todi <small><small>(2 🪙♀️)</small></small>, Kamodi <small><small>(R3?)</small></small>,
    <span title="Nearness of Guru">Gujri</span> <small><small>(2 🪙♂)</small></small>.<br>
 <b>Sons</b>: Kaalanka, Kuntal, Rama, Kamal-Kusum,
@@ -224,13 +224,13 @@ https://raagtime.com/
 3 10.48 AM - 3.36 PM madhyahna    homecoming11:30 - 2:30?    V                                                                    Madhumadhvi?(🧘‍♀️) ☿🌜,
 																  'Pilu ♀️🪐, (ਕਾ/Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆, Bhimpalasi (♂🔆)
 																  Tilang (🌴) ♀️🪐,    11  1:50   12:42>
-																  Patmanjari,(❤️‍🔥 SP)
+																  Patmanjari,(❤️‍🔥🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>)
 																  Dhanshri (🍩 🔅🌜),  Maru 🌜🪐?, Mali Gaura {data[29][3],+data[29][4]}
 																  Salag (⛵🌜🔆), Bairari {data[24][3]+data[24][4]}, Sarang {data[14][3]}🌜
 
 <div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;">4</div>
 4 3.36 PM - 6 PM aparahna  4*               1:50 4:50   V
-															Gauri, (ਭੇ,🌌,❤️‍ ♂🌜)
+															Gauri, (ਭੇ,🌌,❤️‍ ♂🌜7️⃣)
 															Maajh, (ਹਿੰ ♂🔅)
 															Shri? (⛵💚 ☿🌜)
 															Tukhari ❤️‍🔥🌜🔆, Ambika / Madhuvanti
@@ -248,7 +248,7 @@ Darkside الله
 🌇 R1 6 PM - 8.24 PM sayan/utarang ☾1  (Night)            4:50 - 8     K
 																Basant,(☔),  Kedara
 																Pancham(🧘‍♀️) {data[5][3],data[5][3]}, Pahadi Bhupali (PS),
-																Malashree? (🧘‍♀️ SP 3️⃣)
+																Malashree? (🧘‍♀️ SP<span title="S - G - P - N - S' / S' - (N)P - (M)(G), P - G - S (S - (N)P - M(G), P - G - S)">3️⃣</span>)
 																Pahadi Ramgiri?? Hamsadvani?, (🧘‍♀️)
 																Marwa?(🍩)  Mali Gaura ☿🌜,
 																'Yaman (❤️‍🔥),
@@ -263,7 +263,7 @@ R2 8.24 PM - 10.48 PM pradosa ☾2              8 -10:30      K
 																Chandrakauns?, (ਚ strife?)
 																'Chandranandan? (-)
 																'Jhinjhoti, Pahari Dhun (Khamoj thaat),(🌴)
-																Kalavati 🌜🔆, 'Jaijaivanti {data[39][3]+data[39][4]} Tilak Kamod, Naryani,  (🌴)
+																Kalavati 🌜🔆5️⃣, 'Jaijaivanti {data[39][3]+data[39][4]} Tilak Kamod, Naryani,  (🌴)
 																Harakh (🧘‍♀️)  Gauri?!, Durga, Bihag / Bihagara {data[20][3]+data[20][4]}, Hamsadvani?,
 																Kanra (❤️‍🔥),  Khamaj?, Gauri?!, (ਭੇ,🌌,❤️‍🔥 ♂🌜)
 															    Hameer (⛵🪙♀️)  (lights in dark + virras),
@@ -275,7 +275,7 @@ R2 8.24 PM - 10.48 PM pradosa ☾2              8 -10:30      K
 
 R3 10.48 PM - 3.36 AM ratri  ☾3          8     10:30 3      P                                              'Jog Kauns?, Bhinna Sharaj?, 'Hemant? (🧘‍♀️)
 															   'Des? ♂🌜, Khamoj (🌴 🌜♂),
-																Chandrakauns? (ਚ ☿🔆)
+																Chandrakauns? (ਚ ☿🔆<span title="S g m d N S' - S' N d m g m g S ,N S; (S g m g S ,N ; ,N S ; g m d N S'; N d S' ; N d m g m g S ,N S; ,N ,d ,N S ; g m d N S' ; m d m N ; N S' G' S' N S' N ; N d ; m d N d m ; m g m g S ; m g S ,N ; S g m g S ; ,N ,N S;.)">5️⃣</span>)
 																'Darbari Kanada? (⛵ ♂🌜),  Adana  ☿🔆
 																Deepak (❤️‍🔥 🔆🌜)
 															    Malkaus(🍩 ☿🔅)
@@ -286,7 +286,7 @@ R3 10.48 PM - 3.36 AM ratri  ☾3          8     10:30 3      P                 
 
 R4 3.36 AM - 6 AM nisanta 4		☾4			2:00 5    V
 															'Asa ☔,  (♂🔅)
-															Prabhati 🧘‍♀️🔆🌜,  'Ramkali 🌜☿,  'Lalit 🧘‍♀️,🌌, (♂🔅)
+															Prabhati 🧘‍♀️🔆🌜,  'Ramkali 🌜☿ 7️⃣,  'Lalit 🧘‍♀️,🌌, (♂🔅)
 															Hindol (🌴 {data[53][3]+data[53][4]})
 															Paraj (🌌 🔆🌜)
 </div>
@@ -307,10 +307,10 @@ L - Anytime feeling momentum or progress<br />
 ⛵ - Shri thaat <em>(feeling of movement)</em>🌴 - Hindol thaat <em>(related to particular place or thing)</em><br />
 🌌 - Purvi thaat <em>(feeling of completeness and fulfillment)</em><br />
 💊 - Vachaspati thaat<br />
-🧘‍♀️ - Bhairao thaat <em>(related to gains and fruits of devotion)</em><br />
+🧘‍♀️ - Bhairao thaat <em>(related to countable gains and fruits of devotion)</em><br />
 ❤️‍🔥 Deepak thaat <em>(related to physical sensations and touch)</em><br />
-🍩 Malkauns thaat <em>(emotions and feelings related to thing??)</em>
-☔ Megh thaat<br />
+🍩 Malkauns thaat <em></em>
+☔ Megh thaat (feeling momentum or progress and dispelling pain)<br />
 <hr style="opacity: 0.2;">
 🔅 - Sa vadi/samvadi<br />
 🌜 - Pa vadi/samvadi<br />
