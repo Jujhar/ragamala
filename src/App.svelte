@@ -183,7 +183,7 @@ Hamir <small><small>(R2 🪙♀️)</small></small>.
 <ul><li>(6) <b>Megh ☔ <small><small>(L 🔅🌜)</small></small></b><br></li></ul>
 <p><b>Wives</b>: <u>Sorath</u> <small><small>(R2 ☿🪙)</small></small>,
   Gond <small><small>(2)</small></small>,
-  <u>Malari</u> <small><small>(L ☿🔅?)</small></small>,
+  <u>Malari</u> <small><small>(R3 ☿🔅)</small></small>,
    Asa <small><small>(R4 {data[10][3]}🔅)</small></small>, Soohou <small><small>(Puniya? or Soob)</small></small>.<br>
 <b>Sons</b>: Bayra-dhar, Gaj-dhar <small><small>(2?)</small></small>,
 Kedara <small><small>(R1)</small></small>, Jabli-dhar, Nat <small><small>(R3 ♂🔅)</small></small>,
@@ -215,7 +215,7 @@ https://raagtime.com/
 																Asavari (⛵ Renunciation and sacrifice)? {data[1][3]}{data[1][4]} 5️⃣-7️⃣
 																Gond (⛵ ☔ 🍩?)
 																Devgandhari (🍩🌜🔆), Suhi 🌜🔆,
-																'Malaar? (☔),  Basant Mukhari?
+																Basant Mukhari?
 																'Sevari (ਸੀ) (compassion, mercy - grey),
 																<span title="nearness of Guru">Gujri?</span> (❤️‍🔥) {data[17][3]+data[17][4]}, 'Todi 🪙♀️)?,
 
@@ -280,7 +280,7 @@ R3 10.48 PM - 3.36 AM ratri  ☾3          8     10:30 3      P                 
 																Deepak (❤️‍🔥 🔆🌜)
 															    Malkaus(🍩 ☿🔅)
 																'Sahana? (ਕਾ 🌜🔆), 'Bahar? ♀️🔆, Shiv Ranjani 🌜🔆
-                                Malhaar ☔ ☿🔅
+                                'Malhaar ☔ ☿🔅
 
 
 

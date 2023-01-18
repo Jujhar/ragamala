@@ -51,7 +51,7 @@ Sagra `),ol=l("small"),ol.innerHTML="<small>(R1 GD)</small>",ke=e(`,
 Gond `),ul=l("small"),dl=l("small"),dl.textContent=`(2 \u{1F505}${a[0][27][4]})`,Te=e(", Gambhir, Gund, Kumbah "),hl=l("small"),hl.innerHTML="<small>(R3 MS)</small>",Ne=e(`,
 Hamir `),cl=l("small"),cl.innerHTML="<small>(R2 \u{1FA99}\u2640\uFE0F)</small>",De=e("."),Ce=m(),Be=l("br"),xe=m(),bl=l("ul"),bl.innerHTML="<li>(6) <b>Megh \u2614 <small><small>(L \u{1F505}\u{1F31C})</small></small></b><br/></li>",Ae=m(),r=l("p"),gl=l("b"),gl.textContent="Wives",Ke=e(": "),pl=l("u"),pl.textContent="Sorath",$e=m(),fl=l("small"),fl.innerHTML="<small>(R2 \u263F\u{1FA99})</small>",we=e(`,
   Gond `),Sl=l("small"),Sl.innerHTML="<small>(2)</small>",je=e(`,
-  `),Ml=l("u"),Ml.textContent="Malari",Je=m(),vl=l("small"),vl.innerHTML="<small>(L \u263F\u{1F505}?)</small>",Oe=e(`,
+  `),Ml=l("u"),Ml.textContent="Malari",Je=m(),vl=l("small"),vl.innerHTML="<small>(R3 \u263F\u{1F505})</small>",Oe=e(`,
    Asa `),Rl=l("small"),yl=l("small"),yl.textContent=`(R4 ${a[0][10][3]}\u{1F505})`,Ve=e(", Soohou "),_l=l("small"),_l.innerHTML="<small>(Puniya? or Soob)</small>",Ee=e("."),qe=l("br"),We=m(),Pl=l("b"),Pl.textContent="Sons",ze=e(": Bayra-dhar, Gaj-dhar "),Gl=l("small"),Gl.innerHTML="<small>(2?)</small>",Ye=e(`,
 Kedara `),Ll=l("small"),Ll.innerHTML="<small>(R1)</small>",Fe=e(", Jabli-dhar, Nat "),Hl=l("small"),Hl.innerHTML="<small>(R3 \u2642\u{1F505})</small>",Ie=e(`,
 Jaldhar,
@@ -70,7 +70,7 @@ Syama.`),Qe=l("br"),Xe=m(),Tl=l("b"),Tl.textContent="Retro",Ze=e(": Vibhas "),Nl
 																Asavari (\u26F5 Renunciation and sacrifice)? `),Mn=e(ss),vn=e(is),Rn=e(` 5\uFE0F\u20E3-7\uFE0F\u20E3
 																Gond (\u26F5 \u2614 \u{1F369}?)
 																Devgandhari (\u{1F369}\u{1F31C}\u{1F506}), Suhi \u{1F31C}\u{1F506},
-																'Malaar? (\u2614),  Basant Mukhari?
+																Basant Mukhari?
 																'Sevari (\u0A38\u0A40) (compassion, mercy - grey),
 																`),K=l("span"),K.textContent="Gujri?",yn=e(" (\u2764\uFE0F\u200D\u{1F525}) "),_n=e(rs),Pn=e(`, 'Todi \u{1FA99}\u2640\uFE0F)?,
 
@@ -135,7 +135,7 @@ R3 10.48 PM - 3.36 AM ratri  \u263E3          8     10:30 3      P              
 																Deepak (\u2764\uFE0F\u200D\u{1F525} \u{1F506}\u{1F31C})
 															    Malkaus(\u{1F369} \u263F\u{1F505})
 																'Sahana? (\u0A15\u0A3E \u{1F31C}\u{1F506}), 'Bahar? \u2640\uFE0F\u{1F506}, Shiv Ranjani \u{1F31C}\u{1F506}
-                                Malhaar \u2614 \u263F\u{1F505}
+                                'Malhaar \u2614 \u263F\u{1F505}
 
 
 
