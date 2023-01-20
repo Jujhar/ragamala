@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+#Side1{
+width:50%
+background-color:yellow;
+}
+#Side2{
+width:50%
+background-color:magenta;
+}
+</style>
+</head>
+
+<div id="Side1">
+</div>
+
+<div id="Side2">
+</div>
+</html>
