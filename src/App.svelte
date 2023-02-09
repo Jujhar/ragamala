@@ -173,18 +173,18 @@ Parbal Chand, Kausak, Ubara, Khokhat, Bhuranad <small><small>(Bhamarananda?)</sm
 <b>Sons</b>: Surmanand, Bhasker, Chandra-Bimb,
 Mangalan, Saras-baan, Binoda,
  <u>Basant</u> <small><small>(L 🔅☿)</small></small>,
- Kamoda <small><small>(R1? R2?)</small></small>.
+ Kamoda <small><small>(R1? R2? 🌜♂)</small></small>.
  <br />
- <b>Other</b>: Kalavati <small><small>(R2 🌜🔆5️⃣)</small></small>,
+ <b>Other</b>: Kalavati <small><small>(R2 🌜🔆5️⃣)</small></small>, Khamaj (R2 ♀️🪐)
 </p>
 <br />
 <ul><li><b>Deepak</b> <span title="💙 - related to abundant physical sensations, touch, and presence">💙</span><br></li></ul>
-<p><b>Wives</b>: Kachheli,
+<p><b>Wives</b>: Kachheli (R3),
   <u>Patmanjari</u> <small><small>(3 🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>)</small></small>,
    Todi <small><small>(2 🪙♀️)</small></small>, Kamodi <small><small>(R3?)</small></small>,
    <span title="Nearness of Guru">Gujri</span> <small><small>(2 🪙♂)</small></small>.<br>
-<b>Sons</b>: Kaalanka, Kuntal, Rama, Kamal-Kusum,
-Champak <small><small>(R3)</small></small>, Gaura,
+<b>Sons</b>: Kalanka (R4 🔆🌜), Kuntal, Rama, Kamal-Kusum,
+Chamak <small><small>(R2 ☿🔆)</small></small>, Gaura,
 Kanra <small><small>(R2)</small></small>,
  <u>Kalyana / Yaman</u> <small><small>(R2 ♀️🪐)</small></small>.<br>
 <b>Retro</b>: Tukhari <small><small>(4)</small></small>, Ambika / Madhuvanti <small><small>(4)</small></small>.
@@ -282,10 +282,10 @@ R2 8.24 PM - 10.48 PM pradosa ☾2              8 -10:30      K
 																'Kafi ਕਾ ☿🌜, 'Bageshree ♀️🔆, 'Madhukauns 🌜🔆, Jog ☿🔆  Pancham Jogeshwari (☿🔆)
 																Chandrakauns?, (ਚ strife?)
 																'Chandranandan? (-)
-																'Jhinjhoti, Pahari Dhun (Khamoj thaat),(🌴)
-																Kalavati 🌜🔆5️⃣, 'Jaijaivanti {data[39][3]+data[39][4]} Tilak Kamod, Naryani,  (🌴)
+																'Jhinjhoti ♀️🪐, Pahari Dhun (Khamoj thaat),(🌴). Khamaj ♀️🪐
+																Kalavati 🌜🔆5️⃣, 'Jaijaivanti {data[39][3]+data[39][4]} Tilak Kamod, Naryani 🔆🌜,  (🌴)
 																Harakh (🧘‍♀️)  Gauri?!, Durga, Bihag / Bihagara {data[20][3]+data[20][4]}, Hamsadvani?,
-																Kanra (💙),  Khamaj?, Gauri?!, (ਭੇ,🌌,💙 ♂🌜)
+																Kanra (💙),  Khamaj?, Chamak ☿🔆, Gauri?!, (ਭੇ,🌌,💙 ♂🌜)
 															    Hameer (⛵🪙♀️)  (lights in dark + virras),
 																Malkos (🍩) Puriya
 																Saraswati (ਵ 🌜🚹)
@@ -297,7 +297,7 @@ R3 10.48 PM - 3.36 AM ratri  ☾3          8     10:30 3      P                 
 															   'Des? ♂🌜, Khamoj (🌴 🌜♂),
 																Chandrakauns? (ਚ ☿🔆<span title="S g m d N S' - S' N d m g m g S ,N S; (S g m g S ,N ; ,N S ; g m d N S'; N d S' ; N d m g m g S ,N S; ,N ,d ,N S ; g m d N S' ; m d m N ; N S' G' S' N S' N ; N d ; m d N d m ; m g m g S ; m g S ,N ; S g m g S ; ,N ,N S;.)">5️⃣</span>)
 																'Darbari Kanada? (⛵ ♂🌜),  Adana  ☿🔆
-																Deepak (💙 🔆🌜)
+																Deepak (💙 🔆🌜), Kachheli
 															    Malkaus(🍩 ☿🔅)
 																'Sahana? (ਕਾ 🌜🔆), 'Bahar? ♀️🔆, Shiv Ranjani 🌜🔆
                                 'Malhaar ☔ ☿🔅
@@ -307,6 +307,7 @@ R3 10.48 PM - 3.36 AM ratri  ☾3          8     10:30 3      P                 
 R4 3.36 AM - 6 AM nisanta 4		☾4			2:00 5    V
 															'Asa ☔,  (♂🔅)
 															Prabhati 🧘‍♀️🔆🌜,  'Ramkali 🌜☿ 7️⃣,  'Lalit 🧘‍♀️,🌌, (♂🔅)
+                              Kalanka 💙 🔆🌜
 															Hindol (🌴 {data[53][3]+data[53][4]})
 															Paraj (🌌 🔆🌜)
 </div>

@@ -40,14 +40,14 @@ Parbal Chand, Kausak, Ubara, Khokhat, Bhuranad `),Ht=l("small"),Ht.innerHTML="<s
 <b>Sons</b>: Surmanand, Bhasker, Chandra-Bimb,
 Mangalan, Saras-baan, Binoda,
  <u>Basant</u>  <small><small>(L \u{1F505}\u263F)</small></small>,
- Kamoda <small><small>(R1? R2?)</small></small>.
+ Kamoda <small><small>(R1? R2? \u{1F31C}\u2642)</small></small>.
  <br/> 
- <b>Other</b>: Kalavati <small><small>(R2 \u{1F31C}\u{1F506}5\uFE0F\u20E3)</small></small>,`,ie=r(),re=l("br"),me=r(),qt=l("ul"),qt.innerHTML='<li><b>Deepak</b>  <span title="\u{1F499} - related to abundant physical sensations, touch, and presence">\u{1F499}</span><br/></li>',oe=r(),Ut=l("p"),Ut.innerHTML=`<b>Wives</b>: Kachheli,
+ <b>Other</b>: Kalavati <small><small>(R2 \u{1F31C}\u{1F506}5\uFE0F\u20E3)</small></small>, Khamaj (R2 \u2640\uFE0F\u{1FA90})`,ie=r(),re=l("br"),me=r(),qt=l("ul"),qt.innerHTML='<li><b>Deepak</b>  <span title="\u{1F499} - related to abundant physical sensations, touch, and presence">\u{1F499}</span><br/></li>',oe=r(),Ut=l("p"),Ut.innerHTML=`<b>Wives</b>: Kachheli (R3),
   <u>Patmanjari</u>  <small><small>(3 \u{1F505}\u{1F31C}<span title="S R G m P D N S&#39;/S&#39; n D P m g R S">7\uFE0F\u20E3</span>)</small></small>,
    Todi <small><small>(2 \u{1FA99}\u2640\uFE0F)</small></small>, Kamodi <small><small>(R3?)</small></small>,
    <span title="Nearness of Guru">Gujri</span>  <small><small>(2 \u{1FA99}\u2642)</small></small>.<br/> 
-<b>Sons</b>: Kaalanka, Kuntal, Rama, Kamal-Kusum,
-Champak <small><small>(R3)</small></small>, Gaura,
+<b>Sons</b>: Kalanka (R4 \u{1F506}\u{1F31C}), Kuntal, Rama, Kamal-Kusum,
+Chamak <small><small>(R2 \u263F\u{1F506})</small></small>, Gaura,
 Kanra <small><small>(R2)</small></small>,
  <u>Kalyana / Yaman</u>  <small><small>(R2 \u2640\uFE0F\u{1FA90})</small></small>.<br/> 
 <b>Retro</b>: Tukhari <small><small>(4)</small></small>, Ambika / Madhuvanti <small><small>(4)</small></small>.`,ue=r(),de=l("br"),ge=r(),Wt=l("ul"),Wt.innerHTML='<li><b>Sri raga <span title="\u26F5 - feeling of movement">\u26F5</span>  <small><small>(4 \u263F\u{1F31C})</small></small></b><br/></li>',ce=r(),g=l("p"),Ft=l("b"),Ft.textContent="Wives",Ae=e(": Baradi / Varali / Bairari "),Xt=l("small"),Xt.innerHTML="<small>(3 \u2640\uFE0F\u{1FA99})</small>",pe=e(", Karnati "),_t=l("small"),_t.innerHTML="<small>(1 DR)</small>",he=e(`,
@@ -123,10 +123,10 @@ R2 8.24 PM - 10.48 PM pradosa \u263E2              8 -10:30      K
 																'Kafi \u0A15\u0A3E \u263F\u{1F31C}, 'Bageshree \u2640\uFE0F\u{1F506}, 'Madhukauns \u{1F31C}\u{1F506}, Jog \u263F\u{1F506}  Pancham Jogeshwari (\u263F\u{1F506})
 																Chandrakauns?, (\u0A1A strife?)
 																'Chandranandan? (-)
-																'Jhinjhoti, Pahari Dhun (Khamoj thaat),(\u{1F334})
-																Kalavati \u{1F31C}\u{1F506}5\uFE0F\u20E3, 'Jaijaivanti `),Hn=e(ds),zn=e(` Tilak Kamod, Naryani,  (\u{1F334})
+																'Jhinjhoti \u2640\uFE0F\u{1FA90}, Pahari Dhun (Khamoj thaat),(\u{1F334}). Khamaj \u2640\uFE0F\u{1FA90}
+																Kalavati \u{1F31C}\u{1F506}5\uFE0F\u20E3, 'Jaijaivanti `),Hn=e(ds),zn=e(` Tilak Kamod, Naryani \u{1F506}\u{1F31C},  (\u{1F334})
 																Harakh (\u{1F9D8}\u200D\u2640\uFE0F)  Gauri?!, Durga, Bihag / Bihagara `),Ln=e(gs),wn=e(`, Hamsadvani?,
-																Kanra (\u{1F499}),  Khamaj?, Gauri?!, (\u0A2D\u0A47,\u{1F30C},\u{1F499} \u2642\u{1F31C})
+																Kanra (\u{1F499}),  Khamaj?, Chamak \u263F\u{1F506}, Gauri?!, (\u0A2D\u0A47,\u{1F30C},\u{1F499} \u2642\u{1F31C})
 															    Hameer (\u26F5\u{1FA99}\u2640\uFE0F)  (lights in dark + virras),
 																Malkos (\u{1F369}) Puriya
 																Saraswati (\u0A35 \u{1F31C}\u{1F6B9})
@@ -138,7 +138,7 @@ R3 10.48 PM - 3.36 AM ratri  \u263E3          8     10:30 3      P              
 															   'Des? \u2642\u{1F31C}, Khamoj (\u{1F334} \u{1F31C}\u2642),
 																Chandrakauns? (\u0A1A \u263F\u{1F506}`),w=l("span"),w.textContent="5\uFE0F\u20E3",Nn=e(`)
 																'Darbari Kanada? (\u26F5 \u2642\u{1F31C}),  Adana  \u263F\u{1F506}
-																Deepak (\u{1F499} \u{1F506}\u{1F31C})
+																Deepak (\u{1F499} \u{1F506}\u{1F31C}), Kachheli
 															    Malkaus(\u{1F369} \u263F\u{1F505})
 																'Sahana? (\u0A15\u0A3E \u{1F31C}\u{1F506}), 'Bahar? \u2640\uFE0F\u{1F506}, Shiv Ranjani \u{1F31C}\u{1F506}
                                 'Malhaar \u2614 \u263F\u{1F505}
@@ -148,6 +148,7 @@ R3 10.48 PM - 3.36 AM ratri  \u263E3          8     10:30 3      P              
 R4 3.36 AM - 6 AM nisanta 4		\u263E4			2:00 5    V
 															'Asa \u2614,  (\u2642\u{1F505})
 															Prabhati \u{1F9D8}\u200D\u2640\uFE0F\u{1F506}\u{1F31C},  'Ramkali \u{1F31C}\u263F 7\uFE0F\u20E3,  'Lalit \u{1F9D8}\u200D\u2640\uFE0F,\u{1F30C}, (\u2642\u{1F505})
+                              Kalanka \u{1F499} \u{1F506}\u{1F31C}
 															Hindol (\u{1F334} `),Kn=e(cs),jn=e(`)
 															Paraj (\u{1F30C} \u{1F506}\u{1F31C})
 `),Vn=e(`
