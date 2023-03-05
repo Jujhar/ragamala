@@ -1,7 +1,7 @@
 # PRESENTING
-# ragamala
+# ɾäːɡmala
 
-Raga Mala has 6-8 Sections: Bhairu
+[Raɡa Mala](jujhar.github.io/ragamala/index.html) has 6-8 Sections: Bhairu
 
 ## BHAIRAU
 
