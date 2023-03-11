@@ -93,7 +93,7 @@ Legend
 </ul>
 </li>
 <li class="toclevel-1 tocsection-5"><a href="#See_Also"><span class="tocnumber"></span> <span class="toctext"><span style="font-family:cursive">2</span>: second quarter of day</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#See_Also"><span class="tocnumber"></span> <span class="toctext">L: feeling of flying/beyond pain<!--greatness:flying feeling and removing pain (also rain)--></span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_Also"><span class="tocnumber"></span> <span class="toctext">L: feeling of flying ∨ beyond pain<!--greatness:flying feeling and removing pain (also rain)--></span></a></li>
 <li class="toclevel-1 tocsection-5"><a href="#See_Also"><span class="tocnumber"></span> <span class="toctext">..ai: both male and female same</span></a></li>
 </ul>
 <img src="https://i.pinimg.com/originals/92/4a/6b/924a6b2a0b128fa82cb01ae22335dc4c.jpg"
@@ -151,8 +151,8 @@ Durga <small><small>(R2 ♂🔅)</small></small>,
 Bhinna Shadja <small><small>(R3 ♂🔅)</small></small>,<br>
 Jogkauns <small><small>(R3 ♂🔅)</small></small>,
 Hemant <small><small>(R3 ♂🔅<span title="S G m D N S' - S' N D P m G R S; (S G m D ; P m ; G R S ; ,N ,D ; ,m ,D ,N S ; m (P)m ; G m D N ; m D N S' ; S' R' S' N D ; N S' D P m ; m P m m G m G R S; Mukhya-Ang	G m D N D ; m (P)m ; N D (P)m ; G m G R S ; G m D P m G R S;)">5-7</span>)</small></small>,
-Bihagaraa / Bihag <small><small>(R2 ♀️🪐)</small></small>.<br>
-<b>Combo</b>: Gauri Deepak / (Gauri Yeman)  <small><small>(R2)</small></small>, Poorvi, Bairagi.
+Bihagaraa ∨ Bihag <small><small>(R2 ♀️🪐)</small></small>.<br>
+<b>Combo</b>: Gauri Deepak ∨ (Gauri Yeman)  <small><small>(R2)</small></small>, Poorvi, Bairagi.
 </p>
 <br />
 <ul><li><b>Malkaus</b> 🍩 <small><small>(R3 ♂🔅)</small></small><br></li></ul>
@@ -169,7 +169,7 @@ Parbal Chand, Kausak, Ubara, Khokhat, Bhuranad <small><small>(Bhamarananda?)</sm
 <br />
 <ul><li><b>Hindol</b> <span title="🌴 - related to particular place or thing">🌴</span><br></li></ul>
 <p><b>Wives</b>: Tilangi <small><small>(4 ♀️🪐)</small></small>,
-  Devkari, <u>Basanti</u>, Sindhoori / Sindhuri, Ahiri <small><small>(1)</small></small>.<br>
+  Devkari, <u>Basanti</u>, Sindhoori ∨ Sindhuri, Ahiri <small><small>(1)</small></small>.<br>
 <b>Sons</b>: Surmanand, Bhasker, Chandra-Bimb,
 Mangalan, Saras-baan, Binoda,
  <u>Basant</u> <small><small>(L 🔅☿)</small></small>,
@@ -186,14 +186,14 @@ Mangalan, Saras-baan, Binoda,
 <b>Sons</b>: Kalanka (R4 🔆🌜), Kuntal, Rama, Kamal-Kusum,
 Chamak <small><small>(R2 ☿🔆)</small></small>, Gaura,
 Kanra <small><small>(R2)</small></small>,
- <u>Kalyana / Yaman</u> <small><small>(R2 ♀️🪐)</small></small>.<br>
-<b>Retro</b>: Tukhari <small><small>(4)</small></small>, Ambika / Madhuvanti <small><small>(4)</small></small>.
+ <u>Kalyana ∨ Yaman</u> <small><small>(R2 ♀️🪐)</small></small>.<br>
+<b>Retro</b>: Tukhari <small><small>(4)</small></small>, Ambika ∨ Madhuvanti <small><small>(4)</small></small>.
 </p>
 <br />
 <ul><li><b>Sri raga <span title="⛵ - feeling of movement">⛵</span> <small><small>(4 ☿🌜)</small></small></b><br></li></ul>
-<p><b>Wives</b>: Baradi / Varali / Bairari <small><small>(3 ♀️🪙)</small></small>, Karnati <small><small>(1 DR)</small></small>,
+<p><b>Wives</b>: Baradi ∨ Varali ∨ Bairari <small><small>(3 ♀️🪙)</small></small>, Karnati <small><small>(1 DR)</small></small>,
   Gavri <!--gawati Gaoti (Gawoti, Gavati, Gavti)  Bheem --><small><small>(3 SP)</small></small>, <u>Asavari</u> <small><small>(2 🪙♀️ 5️⃣-7️⃣)</small></small>,
-   Sindhve / Sindhura <small><small>(4 SP)</small></small>.<br>
+   Sindhve ∨ Sindhura <small><small>(4 SP)</small></small>.<br>
 <b>Sons</b>: <u>Salag</u> <small><small>(3 🌜🔆)</small></small>, <u>Sarang</u> <small><small>({data[14][2]+data[14][3]}🌜)</small></small>,
 Sagra <small><small>(R1 GD)</small></small>,
 Gond <small><small>(2 🔅{data[27][4]})</small></small>, Gambhir, Gund, Kumbah <small><small>(R3 MS)</small></small>,
@@ -242,7 +242,7 @@ https://raagtime.com/
  Action - Study -- IMprove self
 <div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:cursive;">3</div>
 3 10.48 AM - 3.36 PM madhyahna    ~11:30 - 2:30?    V                                                                    Madhumadhvi?(🧘‍♀️) ☿🌜,
-																  'Pilu ♀️🪐, (ਕਾ/Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆, Bhimpalasi (♂🔆)
+																  'Pilu ♀️🪐, (ਕਾ ∨ Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆, Bhimpalasi (♂🔆)
 																  Tilang (🌴) ♀️🪐,    11  1:50   12:42>
 																  Patmanjari,(💙🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>)
 																  Dhanshri (🍩 🔅🌜),  Maru 🌜🪐?, Mali Gaura {data[29][3],+data[29][4]}
@@ -253,7 +253,7 @@ https://raagtime.com/
 															Gauri, (ਭੇ,🌌,❤️‍ ♂🌜7️⃣)
 															Maajh, (ਹਿੰ ♂🔅)
 															Shri? (⛵ ☿🌜)
-															Tukhari 💙🌜🔆, Ambika / Madhuvanti
+															Tukhari 💙🌜🔆, Ambika ∨ Madhuvanti
 															Kedara? (☔)
 															Purvi? (ਪ ♀️🪐), Jaitsri (♀️🪐)
 															'Sindhura (ਕਾ 🔆🌜)
@@ -284,7 +284,7 @@ R2 8.24 PM - 10.48 PM pradosa ☾2              8 -10:30      K
 																'Chandranandan? (-)
 																'Jhinjhoti ♀️🪐, Pahari Dhun (Khamoj thaat),(🌴). Khamaj ♀️🪐
 																Kalavati 🌜🔆5️⃣, 'Jaijaivanti {data[39][3]+data[39][4]} Tilak Kamod, Naryani 🔆🌜,  (🌴)
-																Harakh (🧘‍♀️)  Gauri?!, Durga, Bihag / Bihagara {data[20][3]+data[20][4]}, Hamsadvani?,
+																Harakh (🧘‍♀️)  Gauri?!, Durga, Bihag ∨ Bihagara {data[20][3]+data[20][4]}, Hamsadvani?,
 																Kanra (💙),  Khamaj?, Chamak ☿🔆, Gauri?!, (ਭੇ,🌌,💙 ♂🌜)
 															    Hameer (⛵🪙♀️)  (lights in dark + virras),
 																Malkos (🍩) Puriya
@@ -312,16 +312,16 @@ R4 3.36 AM - 6 AM nisanta 4		☾4			2:00 5    V
 															Paraj (🌌 🔆🌜)
 </div>
 
-L - Bengali / Bangla (ਭੇ) {data[4][3]+data[4][4]}
+L - Bengali ∨ Bangla (ਭੇ) {data[4][3]+data[4][4]}
 
 </pre>
 
 <div id="Legend" style="background-color:#3eab7e;padding-left: 10px; opacity: 0.8;padding-top: 25px;">
   Legend<br />
-<span style="font-family:cursive">1</span> - First Pahar <em>(sunrise/sunset)</em><br />
-2 - Second/Onset Pahar<br />
-3 - Third/Middle Pahar<br />
-4 - Fourth/Offset Pahar<br />
+<span style="font-family:cursive">1</span> - First Pahar <em>(sunrise ∨ sunset)</em><br />
+2 - Second ∨ Onset Pahar<br />
+3 - Third ∨ Middle Pahar<br />
+4 - Fourth ∨ Offset Pahar<br />
 R - Night<br />
 L - Anytime feeling momentum or progress<br />
 <hr style="opacity: 0.2;">
@@ -333,13 +333,13 @@ L - Anytime feeling momentum or progress<br />
 🍩 Malkauns thaat <em></em>
 ☔ Megh thaat (feeling momentum or progress and dispelling pain)<br />
 <hr style="opacity: 0.2;">
-🔅 - Sa vadi/samvadi<br />
-🌜 - Pa vadi/samvadi<br />
-♂ - Re vadi/samvadi<br />
-☿ - Ma vadi/samvadi <em><span title="See https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week">(Organization)<em/><br />
-♀️ - Ga vadi/samvadi <em><a herf="https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week">(Arts/Music/Games)</a><em/><br />
-🪐 - Ni vadi/samvadi<br />
-🪙 - Da vadi/samvadi <em>(Jupiter)<em/><br />
+🔅 - Sa vadi ∨ samvadi<br />
+🌜 - Pa vadi ∨ samvadi<br />
+♂ - Re vadi ∨ samvadi<br />
+☿ - Ma vadi ∨ samvadi <em><span title="See https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week">(Organization)<em/><br />
+♀️ - Ga vadi ∨ samvadi <em><a herf="https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week">(Arts ∨ Music ∨ Games)</a><em/><br />
+🪐 - Ni vadi ∨ samvadi<br />
+🪙 - Da vadi ∨ samvadi <em>(Jupiter)<em/><br />
 </span>
   &nbsp;◦&nbsp;&nbsp;Ignore underlines and '
   </div>
