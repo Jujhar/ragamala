@@ -235,7 +235,7 @@ https://raagtime.com/
 -->
 
 <pre style="background-color:#1B66D9;padding:10px;" id="Day">
-  1 🌅 1 6 AM - 8.24 AM prata  1   (Day)                 ਕਾ
+  1 🌅 1 6 AM - 8.24 AM prata  1   (Day)                 <span title="Kafi family">ਕਾ</span>
 																	'Jogiya(🧘‍♀️), Bhairao {data[33][3]+data[33][4]}, Bhairiari Devgandhari, Ramakli!?
 																	Gunakeli <small><small>{data[59][3]+data[59][4]})</small></small>, Deshkar {data[54][3]+data[54][4]}
 																	Devgiri Bilawal? (🧘‍♀️) Gauri Bairagan ♂🪙 (ਭੇ,🌌,🪘)
@@ -256,7 +256,7 @@ https://raagtime.com/
  Action - Study -- IMprove self
 <div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:cursive;">3</div>
 3 10.48 AM - 3.36 PM madhyahna    ~11:30 - 2:30?    V                                                                    Madhumadhvi?(🧘‍♀️) ☿🌜,
-																  'Pilu ♀️🪐, (ਕਾ ∨ Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆, Bhimpalasi / Sarparda (♂🔆)
+																  'Pilu ♀️🪐, (<span title="Kafi family">ਕਾ</span> ∨ Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆, Bhimpalasi / Sarparda (♂🔆)
 																  Tilang (🌴) ♀️🪐,    11  1:50   12:42>
 																  Patmanjari,(🪘🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>)
 																  Dhanshri (🎼 🔅🌜),  Maru 🌜🪐?, Mali Gaura {data[29][3],+data[29][4]}
@@ -270,7 +270,7 @@ https://raagtime.com/
 															Tukhari 🪘🌜🔆, Ambika ∨ Madhuvanti
 															Kedara? (☔)
 															Purvi? (🌌 ♀️🪐), Jaitsri (♀️🪐)
-															'Sindhura (ਕਾ 🔆🌜)
+															'Sindhura (<span title="Kafi family">ਕਾ<span> 🔆🌜)
                               											        Vachaspati (ਵ 🔆🌜)
 															3-4? 2:30-5:30
 
@@ -293,11 +293,11 @@ Darkside الله
 R2 8.24 PM - 10.48 PM pradosa ☾2              8 -10:30      K
 <div style="background-image: url('blues.jpg');padding-bottom: 30px;" id="Night">
 																Sorath (☔),   Nat?  NatNaryan, Malar, Basant?, Shankara ☔/🪘/🧘‍♀️  <small><small>(R2-R3? ♀️🪐)</small></small>
-																'Kafi ਕਾ ☿🌜, 'Bageshree ♀️🔆, 'Madhukauns 🌜🔆, Jog ☿🔆  Pancham Jogeshwari (☿🔆),
+																'Kafi <span title="Kafi family">ਕਾ</span> ☿🌜, 'Bageshree ♀️🔆, 'Madhukauns 🌜🔆, Jog ☿🔆  Pancham Jogeshwari (☿🔆),
 																Chandrakauns?, (ਚ strife?)
 																'Chandranandan? (-)
 																'Jhinjhoti ♀️🪐, Pahari Dhun (Khamoj thaat),(🌴). Khamaj ♀️🪐
-																Gara <small><small>🌴/🪘/ਕਾ{data[56][3]}{data[56][4]}</small></small>
+																Gara <small><small>🌴/🪘/<span title="Kafi family">ਕਾ</span>{data[56][3]}{data[56][4]}</small></small>
 																Kalavati 🌜🔆5️⃣, 'Jaijaivanti {data[39][3]+data[39][4]} Tilak Kamod, Naryani 🔆🌜,  (🌴)
 																Harakh (🧘‍♀️)  Gauri?!, Durga, Bihag ∨ Bihagara {data[20][3]+data[20][4]}, Hamsadvani?,
 																Kanra (🪘),  Khamaj?, Chamak ☿🔆, Chhayanat <small><small>{data[56][3]}{data[56][4]}</small></small>, Gauri?!, (ਭੇ,🌌,🪘 ♂🌜)
@@ -314,7 +314,7 @@ R3 10.48 PM - 3.36 AM ratri  ☾3          8     10:30 3      P                 
 																'Darbari Kanada? (⛵ ♂🌜),  Adana  ☿🔆
 																Deepak (🪘 🔆🌜), Kachheli,
 															    Malkaus (🎼 ☿🔅)
-																'Sahana? (ਕਾ 🌜🔆), 'Bahar? ♀️🔆, Shiv Ranjani 🌜🔆
+																'Sahana? (<span title="Kafi family">ਕਾ</span> 🌜🔆), 'Bahar? ♀️🔆, Shiv Ranjani 🌜🔆
 																'Malhaar ☔ ☿🔅
 
 
@@ -349,7 +349,6 @@ L - Anytime feeling momentum or progress<br />
 🪘 Deepak thaat <em>(related to abundant sensations, physical touch, and presence)</em><br />
 🎼 Malkauns thaat <em></em>(a strong significant repeating tune)
 ☔ Megh thaat (feeling momentum or progress and dispelling pain)<br />
- ਕਾ  Kafi thaat <em>(sensuous)</em><br />
 <hr style="opacity: 0.2;">
 🔅 - Sa vadi ∨ samvadi<br />
 🌜 - Pa vadi ∨ samvadi<br />
