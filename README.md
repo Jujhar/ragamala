@@ -1,7 +1,9 @@
 # PRESENTING
 # ɾäːɡmala
 
-[Raɡa Mala](jujhar.github.io/ragamala/index.html) has 6-8 Sections: Bhairu
+[Raɡa Mala](jujhar.github.io/ragamala/index.html) has ***6 moods groups***: Bhairu
+
+(Play, Relief, Sex, Gains, Funk these are some em ***moods groups*** reader)
 
 ## BHAIRAU
 
