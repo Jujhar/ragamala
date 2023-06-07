@@ -407,7 +407,7 @@ L - Anytime but with feeling of momentum or progress<br />
 
       @font-face {
           font-family: 'Fish&Chips';
-          src: url('Fish&Chips.ttf');
+          src: url('https://github.com/Jujhar/ragamala/raw/gh-pages/Fish%26Chips.ttf');
           font-weight: normal;
           font-style: normal;
           font-display: swap;
