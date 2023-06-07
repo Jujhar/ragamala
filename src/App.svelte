@@ -94,7 +94,7 @@ Legend
 <tbody><tr>
 <td><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading"><a href="#Legend">?</a></h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Raagmala_.26_Raags_in_SGGS"><span class="tocnumber"></span> <span class="toctext"><span style="font-family: 'Fish&Chips'">Raːgmala</span> &amp;</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Raagmala_.26_Raags_in_SGGS"><span class="tocnumber"></span> <span class="toctext"><span style="font-family: 'Fish&Chips'">Raːgmala</span></span></a>
 <ul>
 <li class="toclevel-2 tocsection-2"><a href="#Raag_Mala"><span class="tocnumber">eg.</span><br /> <span class="toctext">Devsakh for clarity,</span></a></li>
 <li class="toclevel-2 tocsection-3"><a href="#Raags_in_Guru_Granth_Sahib"><span class="tocnumber"></span> <span class="toctext">desire to exercise, goodness</span></a></li>
@@ -197,7 +197,7 @@ Mangalan, Saras-baan, Binoda,
  <u>Basant</u> <small><small>(L 🔅☿)</small></small>,
  Kamoda <small><small>(R1? R2? 🌜♂)</small></small>.
  <br />
- <b>Other</b>: Kalavati <small><small>(R2 🌜🔆5️⃣)</small></small>, Khamaj (R2 ♀️🪐)
+ <b>Other</b>: Kalavati <small><small>(R2 🌜🔆5️⃣)</small></small>, Khamaj (R2 ♀️🪐), Desh <small><small>({data[56][2]+" "}{data[56][3]}{data[56][4]}).</small></small>
 </p>
 <br />
 <ul><li><b style="color:#ff0e0e;font-family: 'Fish&Chips'">Deepak</b> <span title="🪘 - related to abundant physical sensations, touch, and presence">🪘</span><br></li></ul>
@@ -209,7 +209,7 @@ Mangalan, Saras-baan, Binoda,
 Chamak <small><small>(R2 ☿🔆)</small></small>, Gaura,
 Kanra <small><small>(R2)</small></small>,
  <u>Kalyana ∨ Yaman</u> <small><small>(R2 ♀️🪐)</small></small>.<br>
-<b>Retro</b>: Tukhari <small><small>(4)</small></small>, Ambika ∨ Madhuvanti <small><small>(4)</small></small>, Desh <small><small>({data[56][2]+" "}{data[56][3]}{data[56][4]}).</small></small><br>
+<b>Retro</b>: Tukhari <small><small>(4)</small></small>, Ambika ∨ Madhuvanti <small><small>(4)</small></small><br>
 <b>Other</b>: Chhayanat <small><small>({data[56][2]+" "}{data[56][3]}{data[56][4]})</small></small>.
 </p>
 <br />
