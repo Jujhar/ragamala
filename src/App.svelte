@@ -80,6 +80,7 @@ Legend
              ['Gara', '🪘', 'R2', '♀️','🪐', '🌴-Khamoj/Kafi?'],
              ['Gunakeli', '🧘‍♀️', '1', '🪙','♂'],
              ['Sohini', '🎼', 'R4', '🪙','♀️'], // 60
+             ['Khokar', '🎼', '2', '♂','🌜'],
              ['', '🧘‍♀️', '2', '☿','🔆'],
 
            ];
@@ -91,17 +92,16 @@ Legend
 
 <table style="clear: right; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: auto;" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading"><a href="#Legend">Legend at the end.</a></h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<td><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading"><a href="#Legend">?</a></h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Raagmala_.26_Raags_in_SGGS"><span class="tocnumber"></span> <span class="toctext">Raagmala &amp; Raags in SGGS</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Raagmala_.26_Raags_in_SGGS"><span class="tocnumber"></span> <span class="toctext"><span style="font-family: 'Fish&Chips'">Raːgmala</span> &amp;</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#Raag_Mala"><span class="tocnumber">eg.</span> <span class="toctext">Devsakh for clarity,</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Raags_in_Guru_Granth_Sahib"><span class="tocnumber"></span> <span class="toctext">desire to excersie, goodness</span></a></li>
+<li class="toclevel-2 tocsection-2"><a href="#Raag_Mala"><span class="tocnumber">eg.</span><br /> <span class="toctext">Devsakh for clarity,</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Raags_in_Guru_Granth_Sahib"><span class="tocnumber"></span> <span class="toctext">desire to exercise, goodness</span></a></li>
 </ul>
 </li>
 <li class="toclevel-1 tocsection-5"><a href="#See_Also"><span class="tocnumber"></span> <span class="toctext"><span style="font-family:cursive">2</span>: second quarter of day</span></a></li>
 <li class="toclevel-1 tocsection-5"><a href="#See_Also"><span class="tocnumber"></span> <span class="toctext">L: feeling of flying ∨ beyond pain<!--greatness:flying feeling and removing pain (also rain)--></span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#See_Also"><span class="tocnumber"></span> <span class="toctext">..ai: both male and female same</span></a></li>
 </ul>
 <img src="https://i.pinimg.com/originals/92/4a/6b/924a6b2a0b128fa82cb01ae22335dc4c.jpg"
 style="width: 72px;margin-top:5px;margin-bottom:5px;"
@@ -140,17 +140,17 @@ style="vertical-align: middle;width:30px"
 /><img src="data:image/jpeg;base64,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"
 style="vertical-align: middle;width:30px"
 />
-<ul><li><b style="color:#f2f2f2">Bhairao <span title="🧘‍♀️ - related to countable gains and fruits of devotion">🧘‍♀️</span> <small><small>(2 {data[33][3]+data[33][4]})</small></small></b><br></li></ul>
+<ul><li><b style="color:#f2f2f2;font-family: 'Fish&Chips'">Bhairao <span title="🧘‍♀️ - related to countable gains and fruits of devotion">🧘‍♀️</span> <small><small>(2 {data[33][3]+data[33][4]})</small></small></b><br></li></ul>
 <p><b>Wives</b>: Bhairavi <small><small>(2 {data[48][3]+data[48][4]})</small></small>,
-   <u>Bilawali</u> <small><small>(2 🪙♀️)</small></small>,
-   Punyaki <small><small>(2)</small></small>,
+   <u title="Desire To Share">Bilawali</u> <small><small>(2 🪙♀️)</small></small>,
+   <span title="Good deeds">Punyaki</span> <small><small>(2)</small></small>,
    <u>Bangli</u> <small><small>(L ☿🔆)</small></small>, Aslekhi <small><small>(Puniya?)</small></small>.<br>
 <b>Sons</b>: <u>Pancham</u> <small><small>(R1)</small></small>,
-Harakh <small><small>(R2)</small></small>,
-<u style="color:#f2f2f2">Devsakh</u> <small><small>(2 🌜🔅)</small></small>,
+<span title="Having a piece of divine">Harakh</span> <small><small>(R2)</small></small>,
+<u style="color:#f2f2f2" title="Excersise and Strength">Devsakh</u> <small><small>(2 🌜🔅)</small></small>,
 <u>Bangalam</u> <small><small>(L?)</small></small>,
 <u>Madhumadhvi</u> <small><small>(3 ☿🌜)</small></small>,
-<u>Lalit</u> <small><small>(R4 {data[12][3]}🔅)</small></small>,
+<u title="Time with love getting shorter and shorter">Lalit</u> <small><small>(R4 {data[12][3]}🔅)</small></small>,
 Bilaval <small><small>(2 🪙♀️)</small></small>.<br>
 <b>Retro</b>: Gunakeli <small><small>(1 {data[59][3]+data[59][4]})</small></small>, Gauri <small><small>(4 ☿🌜7️⃣)</small></small>
 Ramkali <small><small>(R4 🌜🔅7️⃣)</small></small>,
@@ -166,18 +166,18 @@ Bihagaraa ∨ Bihag <small><small>(R2 ♀️🪐)</small></small>.<br>
 <b>Other</b>: Deshkar <small><small>({data[54][2]+" "+data[54][3]}{data[54][4]})</small></small>,
 <br>
 
-<b>Combo</b>: Gauri Deepak ∨ (Gauri Yeman)  <small><small>(R2)</small></small>, Poorvi, Bairagi.
+<b>Combo</b>: Gauri Deepak ∨ (Gauri Yeman)  <small><small>(R2)</small></small>, <span title="Fulfillment">Poorvi</span>, Bairagi.
 </p>
 <br />
 <br />
 <img src="https://media.mutualart.com/Images/2021_01/27/15/154718976/51c909d3-1030-4ec9-8555-d95d44383ab7.Jpeg"
 style="vertical-align: middle;width:30px"
 />
-<ul><li><b style="color:rgb(255 218 0)">Malkaus</b> 🎼 <small><small>(R3 ♂🔅)</small></small><br></li></ul>
+<ul><li><b style="color:rgb(255 218 0);font-family: 'Fish&Chips'">Malkaus</b> 🎼 <small><small>(R3 ♂🔅)</small></small><br></li></ul>
 <p><b>Wives</b>: Gaundkari <small><small>(2 DR)</small></small>, Devgandhari <small><small>(2 🌜🔆)</small></small>,
   Gandhari <small><small>(2)</small></small>, Seehute, <span style="color:rgb(255 218 0)">Dhanasri</span> <small><small>(3 🔅🌜)</small></small>.<br>
 <b>Sons</b>: Maru <small><small>(3 🌜🪐)</small></small>, Marwa <small><small>(R1)</small></small>,
-Parbal Chand, Kausak, Ubara, Khokhat, Bhuranad <small><small>(Bhamarananda?)</small></small>.<br>
+Parbal Chand, Kausak <small><small>(R2)</small></small>, Ubara, Khokar <small><small>({data[61][2]+" "+data[61][3]}{data[61][4]})</small></small>, Bhuranad <small><small>(Bhamarananda?)</small></small>.<br>
 <b>Retro</b>: Mali Gaura <small><small>({data[29][2]+" "+data[29][3]}{data[29][4]})</small></small>, Suhi <small><small>(2)</small></small>, Sohini <small><small>({data[60][2]+" "+data[60][3]}{data[60][4]})</small></small>,
  Puriya <small><small>(R2)</small></small>.
 <br>
@@ -189,7 +189,7 @@ Parbal Chand, Kausak, Ubara, Khokhat, Bhuranad <small><small>(Bhamarananda?)</sm
 <img src="https://intergentes.com/wp-content/uploads/2020/12/islamic.jpg"
 style="vertical-align: middle;width:30px"
 />
-<ul><li><b style="color:rgb(14 255 117)">Hindol</b> <span title="🌴 - related to particular place or thing">🌴</span><br></li></ul>
+<ul><li><b style="color:rgb(14 255 117);font-family: 'Fish&Chips'">Hindol</b> <span title="🌴 - related to particular place or thing">🌴</span><br></li></ul>
 <p><b>Wives</b>: Tilangi <small><small>(4 ♀️🪐)</small></small>,
   Devkari, <u>Basanti</u>, Sindhoori ∨ Sindhuri, Ahiri <small><small>(1)</small></small>.<br>
 <b>Sons</b>: Surmanand, Bhasker, Chandra-Bimb,
@@ -200,7 +200,7 @@ Mangalan, Saras-baan, Binoda,
  <b>Other</b>: Kalavati <small><small>(R2 🌜🔆5️⃣)</small></small>, Khamaj (R2 ♀️🪐)
 </p>
 <br />
-<ul><li><b style="color:#ff0e0e">Deepak</b> <span title="🪘 - related to abundant physical sensations, touch, and presence">🪘</span><br></li></ul>
+<ul><li><b style="color:#ff0e0e;font-family: 'Fish&Chips'">Deepak</b> <span title="🪘 - related to abundant physical sensations, touch, and presence">🪘</span><br></li></ul>
 <p><b>Wives</b>: Kachheli (R3),
   <u>Patmanjari</u> <small><small>(3 🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>)</small></small>,
    Todi <small><small>(2 🪙♀️)</small></small>, Kamodi <small><small>(R3?)</small></small>,
@@ -217,7 +217,7 @@ Kanra <small><small>(R2)</small></small>,
 <img src="https://chandrakantha.com/raga_raag/asavari/asawari.jpg" title="Mewar"
 style="vertical-align: middle;width:30px"
 />
-<ul><li><b style="color:#9a0fff">Sri raga <span title="⛵ - feeling of movement">⛵</span> <small><small>(4 ☿🌜)</small></small></b><br></li></ul>
+<ul><li><b style="color:#9a0fff;font-family: 'Fish&Chips'">Sri raga <span title="⛵ - feeling of movement">⛵</span> <small><small>(4 ☿🌜)</small></small></b><br></li></ul>
 <p><b>Wives</b>: Baradi ∨ Varali ∨ Bairari <small><small>(3 ♀️🪙)</small></small>, Karnati <small><small>(1 DR)</small></small>,
   Gavri <!--gawati Gaoti (Gawoti, Gavati, Gavti)  Bheem --><small><small>(3 SP)</small></small>, <u style="color:#9a0fff">Asavari</u> <small><small>(2 🪙♀️ 5️⃣-7️⃣)</small></small>,
    Sindhve ∨ Sindhura <small><small>(4 SP)</small></small>.<br>
@@ -228,7 +228,7 @@ Hamir <small><small>(R2 🪙♀️)</small></small>.
 </p>
 <b>Others</b>: Khat <small><small>(R2)</small></small>.<br><br />
 
-<ul><li><b style="color:cyan">Megh <span title="☔ - feeling momentum or progress and dispelling pain">☔</span> <small><small>(L 🔅🌜)</small></small></b><br></li></ul>
+<ul><li><b style="color:cyan;font-family: 'Fish&Chips'">Megh <span title="☔ - feeling momentum or progress and dispelling pain">☔</span> <small><small>(L 🔅🌜)</small></small></b><br></li></ul>
 <p><b>Wives</b>: <u>Sorath</u> <small><small>(R2 ☿🪙)</small></small>,
   Gond <small><small>(2)</small></small>,
   <u>Malari</u> <small><small>(R3 ☿🔅)</small></small>,
@@ -249,99 +249,103 @@ https://www.pinterest.ca/maitrey0635/ragamala/
 https://raagtime.com/
 -->
 
-<pre style="background-color:#1B66D9;padding:10px;" id="Day">
-  1 🌅 1 6 AM - 8.24 AM prata  1   (Day)                 <span title="Kafi family">ਕਾ</span>
+<pre style="background-color:rgb(255 0 0 / 30%);padding:10px;" id="Day">
+<section style="filter: sepia(0.4);">
+  1 🌅 1 ~6 a.m. - 8.24 a.m. <span style="font-family: 'Fish&Chips'">prata</span>  1   (Day)                 <span>K</span>
 																	'Jogiya(🧘‍♀️), Bhairao {data[33][3]+data[33][4]}, Bhairiari Devgandhari, Ramakli!?
 																	Gunakeli <small><small>{data[59][3]+data[59][4]})</small></small>, Deshkar {data[54][3]+data[54][4]}
-																	Devgiri Bilawal? (🧘‍♀️) Gauri Bairagan ♂🪙 (ਭੇ,🌌,🪘)
+																	Devgiri Bilawal? (🧘‍♀️) Gauri Bairagan ♂🪙 (ਭੇ,🌌<span style="color:black">—</span>,🪘<span style="color:rgb(255, 14, 14)">—</span>)
 																	<span style="color:rgb(14 255 117)">'Ahir Bhairiv (🌴)</span>,
 																	<span style="color:rgb(255 218 0)">'Bhatiyar? (🎼 ☿🔆)</span>
 																	<span style="color:cyan">Vibhas (☔ 🪙☿),</span>
-<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:cursive;">2</div>
-2 8.24 AM - 10.48 AM purvahna               7:30 11:30        P
+</section>
+<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:'Fish&Chips';">2</div>
+2 ~8:24 a.m. - 10:48 a.m. <span style="font-family: 'Fish&Chips'">purvahna</span>               7:30 11:30        P
 																Devsakh (🧘‍♀️focus, excesise, doing good), 'Bilawal {data[3][3] + '' + data[3][4]}, Puniya, Bhairavi {data[48][3] + data[48][4]}
 																Bairagi?
 																<span style="color:#9a0fff">Asavari (⛵ Renunciation and sacrifice)? {data[1][3]}{data[1][4]} 5️⃣-7️⃣</span>
-																Gond (⛵ ☔ 🎼?)
-																<span style="color:rgb(255 218 0)">Devgandhari (🎼🌜🔆), Suhi 🌜🔆</span>,
-																Basant Mukhari?
-																'Sevari (ਸੀ) (compassion, mercy - grey),
-																<span title="nearness of Guru">Gujri?</span> (🪘) {data[17][3]+data[17][4]}, 'Todi 🪙♀️)?,
+																<span style="color:#9a0fff">Gond (⛵ <span style="color:cyan">☔—</span> 🎼?)</span>
+																<span style="color:rgb(255 218 0)">Khokar (🎼♂🌜), Devgandhari (🌜🔆), Suhi 🌜🔆, Gandhari</span>
+																<span style="color:cyan">Basant Mukhari?</span>
+																<span style="color:silver">'Sevari (ਸੀ) (compassion, mercy - grey),</span>
+																<span style="color:rgb(255, 14, 14)"><span style="color:rgb(255, 14, 14)" title="nearness of Guru">Gujri?</span> (🪘) {data[17][3]+data[17][4]}, 'Todi 🪙♀️)?,</span>
 
- Action - Study -- IMprove self
-<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:cursive;">3</div>
-3 10.48 AM - 3.36 PM madhyahna    ~11:30 - 2:30?    V                                                                    Madhumadhvi?(🧘‍♀️) ☿🌜,
-																  'Pilu ♀️🪐, (<span title="Kafi family">ਕਾ</span> ∨ Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆, Bhimpalasi / Sarparda (♂🔆)
-																  Tilang (🌴) ♀️🪐,    11  1:50   12:42>
-																  Patmanjari,(🪘🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>)
-																  Dhanshri (🎼 🔅🌜),  Maru 🌜🪐?, Mali Gaura {data[29][3],+data[29][4]}
+<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:'Fish&Chips';">3</div>
+3 ~10:48 a.m. - 3.36 p.m. <span style="font-family: 'Fish&Chips'">madhyahna</span>    ~11:30 - 2:30?    V
+																  Madhumadhvi?(🧘‍♀️) ☿🌜,
+																  <span style="color:rgb(212 222 68)">'Pilu ♀️🪐, (<span title="Kafi family">ਕਾ</span> ∨ Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆, Bhimpalasi / Sarparda (♂🔆)</span>
+																  <span style="color:rgb(14, 255, 117)">Tilang (🌴) ♀️🪐,    11  1:50   12:42></span>
+																  <span style="color:rgb(255, 14, 14)">Patmanjari,(🪘🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>)</span>
+																  <span style="color:rgb(255, 218, 0)">Dhanshri (🎼 🔅🌜),  Maru 🌜🪐?, Mali Gaura <small><small>({data[29][2]+" "+data[29][3]}{data[29][4]})</small></small>,</span>
 																  <span style="color:#9a0fff">Salag (⛵🌜🔆), Bairari {data[24][3]+data[24][4]}, Sarang {data[14][3]}🌜</span>
 
-<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:cursive;">4</div>
-4 3.36 PM - 6 PM aparahna  4*               1:50 4:50   V
-															Gauri, (🧘‍♀️,🌌,❤️‍ ♂🌜7️⃣)
-															Maajh, (🌴 ♂🔅)
-															Shri? (⛵ ☿🌜)
-															Tukhari 🪘🌜🔆, Ambika ∨ Madhuvanti
+<div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:'Fish&Chips';">4</div>
+4 ~3:36 p.m. - 6 p.m. <span style="font-family: 'Fish&Chips'">aparahna</span>  4*               1:50 4:50   V
+															Gauri, (🧘‍♀️,🌌<span style="color:black">—</span>,🪘<span style="color:rgb(255, 14, 14)">—</span>‍ ♂🌜7️⃣)
+															<span style="color:rgb(14 255 117)">Maajh, (🌴 ♂🔅)</span>
+															<span style="color:#9a0fff">Shri? (⛵ ☿🌜)</span>
+															<span style="color:rgb(255, 14, 14)">Tukhari 🪘🌜🔆, Ambika ∨ Madhuvanti</span>
 															<span style="color:cyan">Kedara? (☔)</span>
-															Purvi? (🌌 ♀️🪐), Jaitsri (♀️🪐)
-															'Sindhura (<span title="Kafi family">ਕਾ<span> 🔆🌜)
-                              											        Vachaspati (ਵ 🔆🌜)
+															<span style="color:black">Purvi? (🌌 ♀️🪐), Jaitsri (♀️🪐)</span>
+															<span style="color:rgb(212 222 68)">'Sindhura (<span title="Kafi family">ਕਾ</span> 🔆🌜)</span>
+															<span style="color:silver">Vachaspati (ਵ 🔆🌜)</span>
 															3-4? 2:30-5:30
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 Darkside الله
 
-
-🌇 R1 6 PM - 8.24 PM sayan/utarang ☾1  (Night)            4:50 - 8     K
-																Basant,(☔),  Kedara
+<section style="filter: sepia(0.4);">
+🌇 R1 ~6 p.m. - 8:24 p.m. <span style="font-family: 'Fish&Chips'">sayan/utarang</span> ☾1  (Sunset)            4:50 - 8     K
+																<span style="color:cyan">Basant,(☔),  Kedara</span>
 																<span style="color:#f2f2f2">Pancham(🧘‍♀️) {data[5][3],data[5][3]}, Pahadi Bhupali (PS),</span>
 																<span style="color:#f2f2f2">Malashree?</span> (🧘‍♀️ SP<span title="S - G - P - N - S' / S' - (N)P - (M)(G), P - G - S (S - (N)P - M(G), P - G - S)">3️⃣</span>)
 																<span style="color:#f2f2f2">Pahadi Ramgiri?? Hamsadvani?, (🧘‍♀️)</span>
-																Marwa?(🎼)  Mali Gaura ☿🌜,
-																'Yaman (🪘),
-																<span style="color:rgb(14 255 117)">Gorakh Kalyan (🌴)</span>
-																Shri, (⛵)
 																Gauri Poorvi?, (ਭੇ,🌌,🪘)
+																<span style="color:rgb(255, 218, 0)">Marwa?(🎼)  Mali Gaura ☿🌜,</span>
+																<span style="color:rgb(255, 14, 14)">'Yaman (🪘),</span>
+																<span style="color:rgb(14 255 117)">Gorakh Kalyan (🌴)</span>
+																<span style="color:#9a0fff">Shri, (⛵)</span>
 
-R2 8.24 PM - 10.48 PM pradosa ☾2              8 -10:30      K
-<div style="background-image: url('blues.jpg');padding-bottom: 30px;" id="Night">
-																Sorath (☔),   Nat?  NatNaryan, Malar, Basant?, Shankara ☔/🪘/🧘‍♀️  <small><small>(R2-R3? ♀️🪐)</small></small>
-																'Kafi <span title="Kafi family">ਕਾ</span> ☿🌜, 'Bageshree ♀️🔆, 'Madhukauns 🌜🔆, Jog ☿🔆  Pancham Jogeshwari (☿🔆),
-																Chandrakauns?, (ਚ strife?)
-																'Chandranandan? (-)
-																'Jhinjhoti ♀️🪐, Pahari Dhun (Khamoj thaat),(🌴). Khamaj ♀️🪐
-																Gara <small><small>🌴/🪘/<span title="Kafi family">ਕਾ</span>{data[56][3]}{data[56][4]}</small></small>
-																Kalavati 🌜🔆5️⃣, 'Jaijaivanti {data[39][3]+data[39][4]} Tilak Kamod, Naryani 🔆🌜,  (🌴)
+</section>
+<div style="background-image: url('blues.jpg');padding-bottom: 30px;filter: sepia(0.8);" id="Night">
+R2 ~8:24 p.m. - 10:48 p.m. <span style="font-family: 'Fish&Chips'">pradosa</span> ☾2              8 -10:30      K
+																<span style="color:cyan">Sorath (☔),   Nat?  NatNaryan, Malar, Basant?, Shankara ☔/🪘/🧘‍♀️  <small><small>(R2-R3? ♀️🪐)</small></small></span>
+																<span style="color:rgb(212 222 68)">'Kafi <span title="Kafi family">ਕਾ</span> ☿🌜, 'Bageshree ♀️🔆, 'Madhukauns 🌜🔆, Jog ☿🔆  Pancham Jogeshwari (☿🔆),</span>
+																<span style="color:silver">Chandrakauns?, (ਚ strife?)</span>
+																<span style="color:silver">'Chandranandan? (-)</span>
+																<span style="color:rgb(14 255 117)">'Jhinjhoti ♀️🪐, Pahari Dhun (Khamoj thaat),(🌴). Khamaj ♀️🪐</span>
+																<span style="color:rgb(14 255 117)">Gara <small><small>🌴/🪘/<span title="Kafi family">ਕਾ</span>{data[56][3]}{data[56][4]}</small></small></span>
+																<span style="color:rgb(14 255 117)">Kalavati 🌜🔆5️⃣, 'Jaijaivanti {data[39][3]+data[39][4]} Tilak Kamod, Naryani 🔆🌜,  (🌴)</span>
 																<span style="color:#f2f2f2">Harakh (🧘‍♀️)  Gauri?!, Durga, Bihag ∨ Bihagara {data[20][3]+data[20][4]}, Hamsadvani?,</span>
-																Kanra (🪘),  Khamaj?, Chamak ☿🔆, Chhayanat <small><small>{data[56][3]}{data[56][4]}</small></small>, Gauri?!, (ਭੇ,🌌,🪘 ♂🌜)
-															    Hameer (⛵🪙♀️)  (lights in dark + virras), Khat
-																Malkaus (🎼) Puriya
-																Saraswati (💊 🌜🚹)
-																Gauri?!, (🧘‍♀️,🌌,🪘 ♂🌜)   'Gauri Manjari?,
-								                                                    Kirwani (੍ - Virah (separation), nostalgia, and Shringar Rasas - beauty vishnu, ਕ, ਸ਼)
+																<span style="color:rgb(255, 14, 14)">Kanra (🪘),  Khamaj?, Chamak ☿🔆, Chhayanat <small><small>{data[56][3]}{data[56][4]}</small></small>, Gauri?!, (ਭੇ,🌌,🪘 ♂🌜)</span>
+															   <span style="color:#9a0fff"> Hameer (⛵🪙♀️)  (lights in dark + virras), Khat</span>
+																<span style="color:rgb(255, 218, 0)">Malkaus (🎼) Puriya, Kausak</span>
+																<span style="color:silver">Saraswati (💊 🌜🚹)</span>
+																<span style="color:silver">Gauri?!, (🧘‍♀️,🌌,🪘 ♂🌜)   'Gauri Manjari?,</span>
+																<span style="color:silver">Kirwani (੍ - Virah (separation), nostalgia, and Shringar Rasas - beauty vishnu, ਕ, ਸ਼)</span>
 
 
-R3 10.48 PM - 3.36 AM ratri  ☾3          8     10:30 3      P                                              'Jog Kauns?, Bhinna Sharaj?, 'Hemant? (🧘‍♀️♂🔅<span title="S G m D N S' - S' N D P m G R S; (S G m D ; P m ; G R S ; ,N ,D ; ,m ,D ,N S ; m (P)m ; G m D N ; m D N S' ; S' R' S' N D ; N S' D P m ; m P m m G m G R S; Mukhya-Ang	G m D N D ; m (P)m ; N D (P)m ; G m G R S ; G m D P m G R S;)">5-7</span>)
-															    Khamoj (🌴 🌜♂), Desh' <small><small>(🪘/🌴{data[56][3]}{data[56][4]})</small></small>
-																Chandrakauns? (ਚ ☿🔆<span title="S g m d N S' - S' N d m g m g S ,N S; (S g m g S ,N ; ,N S ; g m d N S'; N d S' ; N d m g m g S ,N S; ,N ,d ,N S ; g m d N S' ; m d m N ; N S' G' S' N S' N ; N d ; m d N d m ; m g m g S ; m g S ,N ; S g m g S ; ,N ,N S;.)">5️⃣</span>)
-																'Darbari Kanada? (⛵ ♂🌜),  Adana  ☿🔆
-																Deepak (🪘 🔆🌜), Kachheli,
-															    Malkaus (🎼 ☿🔅)
-																'Sahana? (<span title="Kafi family">ਕਾ</span> 🌜🔆), 'Bahar? ♀️🔆, Shiv Ranjani 🌜🔆
-																'Malhaar ☔ ☿🔅
+R3 ~10:48 p.m. - 3:36 p.m. <span style="font-family: 'Fish&Chips'">ratri</span>  ☾3          8     10:30 3      P
+																'Jog Kauns?, Bhinna Sharaj?, 'Hemant? (🧘‍♀️♂🔅<span title="S G m D N S' - S' N D P m G R S; (S G m D ; P m ; G R S ; ,N ,D ; ,m ,D ,N S ; m (P)m ; G m D N ; m D N S' ; S' R' S' N D ; N S' D P m ; m P m m G m G R S; Mukhya-Ang	G m D N D ; m (P)m ; N D (P)m ; G m G R S ; G m D P m G R S;)">5-7</span>)
+															    <span style="color:rgb(14 255 117)">Khamoj (🌴 🌜♂), Desh' <small><small>(🪘/🌴{data[56][3]}{data[56][4]})</small></small></span>
+																<span style="color:silver">Chandrakauns? (ਚ ☿🔆<span title="S g m d N S' - S' N d m g m g S ,N S; (S g m g S ,N ; ,N S ; g m d N S'; N d S' ; N d m g m g S ,N S; ,N ,d ,N S ; g m d N S' ; m d m N ; N S' G' S' N S' N ; N d ; m d N d m ; m g m g S ; m g S ,N ; S g m g S ; ,N ,N S;.)">5️⃣</span>)</span>
+																<span style="color:#9a0fff">'Darbari Kanada? (⛵ ♂🌜),  Adana  ☿🔆</span>
+																<span style="color:rgb(255, 14, 14)">Deepak (🪘 🔆🌜), Kachheli,</span>
+															   <span style="color:rgb(255, 218, 0)"> Malkaus (🎼 ☿🔅)</span>
+																<span style="color:rgb(212 222 68)">'Sahana? (<span title="Kafi family">ਕਾ</span> 🌜🔆), 'Bahar? ♀️🔆, Shiv Ranjani 🌜🔆</span>
+																<span style="color:cyan">'Malhaar ☔ ☿🔅</span>
 
 
 
-R4 3.36 AM - 6 AM nisanta 4		☾4			2:00 5    V
+R4 ~3:36 a.m. - 6 a.m. <span style="font-family: 'Fish&Chips'">nisanta</span> 4		☾4			2:00 5    V
 															<span style="color:cyan">'Asa (☔, ♂🔅)</span>
 															Prabhati 🧘‍♀️🔆🌜,  'Ramkali 🌜☿ 7️⃣,  'Lalit 🧘‍♀️,🌌, (♂🔅)
 															Kalingada? 🧘‍♀️{data[55][3]+data[55][4]}
-															Kalanka 🪘 🔆🌜
-															Sohini <small><small>(🎼 {data[60][3]}{data[60][4]})</small></small>,
-															Hindol (🌴 {data[53][3]+data[53][4]})
-															Paraj (🌌 🔆🌜)
+															<span style="color:rgb(255, 14, 14)">Kalanka 🪘 🔆🌜</span>
+															<span style="color:rgb(255, 218, 0)">Sohini <small><small>(🎼 {data[60][3]}{data[60][4]})</small></small>,</span>
+															<span style="color:rgb(14 255 117)">Hindol (🌴 {data[53][3]+data[53][4]})</span>
+															<span style="color:black">Paraj (🌌 🔆🌜)</span>
 </div>
 
 L - Bengali ∨ Bangla (🧘‍♀️) {data[4][3]+data[4][4]}
@@ -349,30 +353,30 @@ L - Bengali ∨ Bangla (🧘‍♀️) {data[4][3]+data[4][4]}
 </pre>
 
 <div id="Legend" style="background-color:#3eab7e;padding-left: 10px; opacity: 0.8;padding-top: 25px;">
-  Legend<br />
-<span style="font-family:cursive">1</span> - First Pahar <em>(sunrise ∨ sunset)</em><br />
+  <span style="font-family: 'Fish&Chips'">Legend</span><br />
+<span style="font-family:cursive">1</span> - First Pahar <em>(sunrise or sunset)</em><br />
 2 - Second ∨ Onset Pahar<br />
 3 - Third ∨ Middle Pahar<br />
 4 - Fourth ∨ Offset Pahar<br />
 R - Night<br />
-L - Anytime feeling momentum or progress<br />
+L - Anytime but with feeling of momentum or progress<br />
 <hr style="opacity: 0.2;">
-⛵ - Shri thaat <em>(feeling of movement)</em>&nbsp;&nbsp;🌴 - Hindol thaat <em>(related to particular place or thing)</em><br />
-🌌 - Purvi thaat <em>(feeling of completeness and fulfillment)</em><br />
-💊 - Vachaspati thaat<br />
-🧘‍♀️ - Bhairao thaat <em>(related to countable gains and fruits of devotion)</em><br />
-🪘 Deepak thaat <em>(related to abundant sensations, physical touch, and presence)</em><br />
-🎼 Malkauns thaat <em></em>(a strong significant repeating tune)
-☔ Megh thaat (feeling momentum or progress and dispelling pain)<br />
+⛵ - <span style="font-family: 'Fish&Chips'">Shri thaat</span> <em><span style="color:rgb(154 15 255 / 44%)">(feeling of movement)</span></em>&nbsp;&nbsp;🌴 - <span style="font-family: 'Fish&Chips'">Hindol thaat</span> <em><span style="color:rgb(14 255 117)">(related to particular place or thing)</span></em><br />
+🌌 - <span style="font-family: 'Fish&Chips'">Purvi thaat</span> <em><span style="color:black">(feeling of completeness and fulfillment)</span></em><br />
+💊 - <span style="font-family: 'Fish&Chips'">Vachaspati thaat</span><br />
+🧘‍♀️ - <span style="font-family: 'Fish&Chips'">Bhairao thaat</span> <em><span style="color:white">(related to countable gains and fruits of devotion)</span></em><br />
+🪘 <span style="font-family: 'Fish&Chips'">Deepak thaat</span> <em><span style="color:rgb(255 14 14 / 57%)">(related to abundant sensations, physical touch, and presence)</span></em><br />
+🎼 <span style="font-family: 'Fish&Chips'">Malkauns thaat</span> <em></em><span style="color:rgb(255, 218, 0)">(a strong significant repeating tune)</span>
+☔ <span style="font-family: 'Fish&Chips'">Megh thaat</span> <span style="color:cyan;">(feeling momentum or progress and dispelling pain)</span><br />
 <hr style="opacity: 0.2;border-bottom:4px solid red">
-🔅 - Sa vadi ∨ samvadi<br />
-🌜 - Pa vadi ∨ samvadi<br />
-♂ - Re vadi ∨ samvadi<br />
-☿ - Ma vadi ∨ samvadi <em><span title="See https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week">(Organization)<em/><br />
-<span style="color:#33CCFF;">♀️ - Ga vadi ∨ samvadi <em><a herf="https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week">(Arts ∨ Music ∨ Games)</a><em/></span><br />
-🪐 - Ni vadi ∨ samvadi<br />
-🪙 - Da vadi ∨ samvadi <em>(Jupiter)<em/><br />
-</span>
+<a herf="https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week" style="opacity: 0.5;">Colors representing planets of week (different colour scheme than above thaat scheme)</a><br />
+<span style="color:#FFFF00;">🔅 - Sa vadi ∨ samvadi</span> <em><span title="See https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week">(Some of all qualities)<em/><br />
+<span style="color:#FFCCFF;">🌜 - Pa vadi ∨ samvadi</span><br />
+<span style="color:#7FFF7F;">♂ - Re vadi ∨ samvadi </span><em><span title="See https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week"> (Leadership)<em/><br />
+<span style="color:#FF9900;">☿ - Ma vadi ∨ samvadi</span> <em><span title="See https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week">(Organization)<em/><br />
+<span style="color:#33CCFF;">♀️ - Ga vadi ∨ samvadi </span> <em><a herf="https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week">(Arts ∨ Music ∨ Games)</a><em/></span><br />
+<span style="color:#993399;">🪐 - Ni vadi ∨ samvadi</span><em><span title="See https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week"> (Excellence?)<em/><br />
+<span style="color:#FF0000;">🪙 - Da vadi ∨ samvadi <em>(Jupiter ∨ Wealth and Luxuries)</em></span><br />
   &nbsp;◦&nbsp;&nbsp;Ignore underlines and '
   </div>
 
@@ -399,5 +403,13 @@ L - Anytime feeling momentum or progress<br />
 
       html {
         background-color: #8a2be2 !important;
+      }
+
+      @font-face {
+          font-family: 'Fish&Chips';
+          src: url('Fish&Chips.ttf');
+          font-weight: normal;
+          font-style: normal;
+          font-display: swap;
       }
   </style>
