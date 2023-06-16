@@ -81,7 +81,8 @@ Legend
              ['Gunakeli', '🧘‍♀️', '1', '🪙','♂'],
              ['Sohini', '🖤', 'R4', '🪙','♀️'], // 60
              ['Khokar', '🖤', '2', '♂','🌜'],
-             ['', '🧘‍♀️', '2', '☿','🔆'],
+             ['Multani', '🪘', '2', '♀️','🪐'],
+             ['', '🧘‍♀️', '3', '♀️','🪐'],
 
            ];
 </script>
@@ -222,8 +223,9 @@ style="vertical-align: middle;width:100px"
 <ul><li><b style="color:rgb(255 218 0);font-family: 'Fish&Chips'">Malkaus</b> 🖤 <small><small>(R3 ♂🔅)</small></small><br></li></ul>
 <p><b>Wives</b>: Gaundkari <small><small>(2 DR)</small></small>, Devgandhari <small><small>(2 🌜🔆)</small></small>,
   Gandhari <small><small>(2)</small></small>, Seehute, <span style="color:rgb(255 218 0)">Dhanasri</span> <small><small>(3 🔅🌜)</small></small>.<br>
-<b>Sons</b>: Maru <small><small>(3 🌜🪐)</small></small>, Marwa <small><small>(R1)</small></small>,
+<b>Sons</b>: Maru <small><small>(3 🌜🪐)</small></small>, Marwa <small><small>(R1 🪙♂)</small></small>,
 Parbal Chand, Kausak <small><small>(R2)</small></small>, Ubara, Khokar <small><small>({data[61][2]+" "+data[61][3]}{data[61][4]})</small></small>, Bhuranad <small><small>(Bhamarananda?)</small></small>.<br>
+<b>Other</b>: Bhatiyar <small><small>(1 ☿🔆)</small></small>, Gunkali <small><small>(1 🪙♂)</small></small><br />
 <b>Retro</b>: Mali Gaura <small><small>({data[29][2]+" "+data[29][3]}{data[29][4]})</small></small>, Suhi <small><small>(2)</small></small>, Sohini <small><small>({data[60][2]+" "+data[60][3]}{data[60][4]})</small></small>,
  Puriya <small><small>(R2)</small></small>.
 <br>
@@ -256,7 +258,7 @@ Chamak <small><small>(R2 ☿🔆)</small></small>, Gaura,
 Kanra <small><small>(R2)</small></small>,
  <u>Kalyana ∨ Yaman</u> <small><small>(R2 ♀️🪐)</small></small>.<br>
 <b>Retro</b>: Tukhari <small><small>(4)</small></small>, Ambika ∨ Madhuvanti <small><small>(4)</small></small><br>
-<b>Other</b>: Chhayanat <small><small>({data[56][2]+" "}{data[56][3]}{data[56][4]})</small></small>.
+<b>Other</b>: Chhayanat <small><small>({data[56][2]+" "}{data[56][3]}{data[56][4]})</small></small>, Multani <small><small>({data[62][2]+" "}{data[62][3]}{data[62][4]})</small></small>.
 </p>
 <br />
 <br />
@@ -272,7 +274,7 @@ Sagra <small><small>(R1 GD)</small></small>,
 Gond <small><small>(2 🔅{data[27][4]})</small></small>, Gambhir, Gund, Kumbah <small><small>(R3 MS)</small></small>,
 Hamir <small><small>(R2 🪙♀️)</small></small>.
 </p>
-<b>Others</b>: Khat <small><small>(R2)</small></small>.<br><br />
+<b>Others</b>: Khat <small><small>(R2)</small></small>, Charukesi <small><small>(R3 ♀️🪙)</small></small>, Jaunpuri <small><small>(2 🪙♀️)</small></small><br><br />
 
 <ul><li><b style="color:cyan;font-family: 'Fish&Chips'">Megh <span title="☔ - feeling momentum or progress and dispelling pain">☔</span> <small><small>(L 🔅🌜)</small></small></b><br></li></ul>
 <p><b>Wives</b>: <u>Sorath</u> <small><small>(R2 ☿🪙)</small></small>,
@@ -302,7 +304,7 @@ https://raagtime.com/
 																	Gunakeli <small><small>{data[59][3]+data[59][4]})</small></small>, Deshkar {data[54][3]+data[54][4]}
 																	Devgiri Bilawal? (🧘‍♀️) Gauri Bairagan ♂🪙 (ਭੇ,🌌<span style="color:black">—</span>,🪘<span style="color:rgb(255, 14, 14)">—</span>)
 																	<span style="color:rgb(14 255 117)">'Ahir Bhairiv (🌴)</span>,
-																	<span style="color:rgb(255 218 0)">'Bhatiyar? (🖤 ☿🔆)</span>
+																	<span style="color:rgb(255 218 0)">'Bhatiyar? (🖤) ☿🔆, Gunkali 🪙♂</span>
 																	<span style="color:cyan">Vibhas (☔ 🪙☿),</span>
 </section>
 <div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:'Fish&Chips';">2</div>
@@ -310,18 +312,19 @@ https://raagtime.com/
 																Devsakh (🧘‍♀️focus, excesise, doing good), 'Bilawal {data[3][3] + '' + data[3][4]}, Puniya, Bhairavi {data[48][3] + data[48][4]}
 																Bairagi?
 																<span style="color:#9a0fff">Asavari (⛵ Renunciation and sacrifice)? {data[1][3]}{data[1][4]} 5️⃣-7️⃣</span>
-																<span style="color:#9a0fff">Gond (⛵ <span style="color:cyan">☔—</span> 🖤?)</span>
+																<span style="color:#9a0fff">Gond (⛵ <span style="color:cyan">☔—</span> 🖤?), Jaunpuri 🪙♀️</span>
 																<span style="color:rgb(255 218 0)">Khokar (🖤♂🌜), Devgandhari (🌜🔆), Suhi 🌜🔆, Gandhari</span>
 																<span style="color:cyan">Basant Mukhari? (☔🌌)</span>
 																<span style="color:silver">'Sevari (ਸੀ) (compassion, mercy - grey),</span>
-																<span style="color:rgb(255, 14, 14)"><span style="color:rgb(255, 14, 14)" title="nearness of Guru">Gujri?</span> (🪘) {data[17][3]+data[17][4]}, 'Todi 🪙♀️)?,</span>
+																<span style="color:rgb(255, 14, 14)"><span style="color:rgb(255, 14, 14)" title="nearness of Guru">Gujri?</span> (🪘) {data[17][3]+data[17][4]}, 'Todi 🪙♀️?,</span>
 
 <div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:'Fish&Chips';">3</div>
 3 ~10:48 a.m. - 3.36 p.m. <span id="3" style="font-family: 'Fish&Chips'">madhyahna</span>    ~11:30 - 2:30?    V
 																  Madhumadhvi?(🧘‍♀️) ☿🌜,
-																  <span style="color:rgb(212 222 68)">'Pilu ♀️🪐, (<span title="Kafi family">ਕਾ</span> ∨ Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆, Bhimpalasi / Sarparda (♂🔆)</span>
+																  <span style="color:rgb(212 222 68)">'Pilu ♀️🪐, (<span title="Kafi family">ਕਾ</span> ∨ Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆,
+																  Bhimpalasi / Sarparda (♂🔆), Gavati 🔆🌜, Barwa ♂🌜, Dhani ♀️🪐</span>
 																  <span style="color:rgb(14, 255, 117)">Tilang (🌴) ♀️🪐,    11  1:50   12:42></span>
-																  <span style="color:rgb(255, 14, 14)">Patmanjari,(🪘🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>)</span>
+																  <span style="color:rgb(255, 14, 14)">Patmanjari (🪘)🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>, Multani ♀️🪐</span>
 																  <span style="color:rgb(255, 218, 0)">Dhanshri (🖤 🔅🌜),  Maru 🌜🪐?, Mali Gaura <small><small>({data[29][2]+" "+data[29][3]}{data[29][4]})</small></small>,</span>
 																  <span style="color:#9a0fff">Salag (⛵🌜🔆), Bairari {data[24][3]+data[24][4]}, Sarang {data[14][3]}🌜</span>
 
@@ -334,7 +337,7 @@ https://raagtime.com/
 															<span style="color:cyan">Kedara? (☔)</span>
 															<span style="color:black">Purvi? (🌌 ♀️🪐), Jaitsri (♀️🪐)</span>
 															<span style="color:rgb(212 222 68)">'Sindhura (<span title="Kafi family">ਕਾ</span> 🔆🌜)</span>
-															<span style="color:silver">Vachaspati (ਵ 🔆🌜)</span>
+															<span style="color:silver">Vachaspati 💊 🔆🌜</span>
 															3-4? 2:30-5:30
 
 
@@ -348,15 +351,15 @@ Darkside الله
 																<span style="color:#f2f2f2">Malashree?</span> (🧘‍♀️ SP<span title="S - G - P - N - S' / S' - (N)P - (M)(G), P - G - S (S - (N)P - M(G), P - G - S)">3️⃣</span>)
 																<span style="color:#f2f2f2">Pahadi Ramgiri?? Hamsadvani?, (🧘‍♀️)</span>
 																Gauri Poorvi?, (ਭੇ,🌌,🪘)
-																<span style="color:rgb(255, 218, 0)">Marwa?(🖤)  Mali Gaura ☿🌜,</span>
-																<span style="color:rgb(255, 14, 14)">'Yaman (🪘),</span>
-																<span style="color:rgb(14 255 117)">Gorakh Kalyan (🌴)</span>
-																<span style="color:#9a0fff">Shri, (⛵)</span>
+																<span style="color:rgb(255, 218, 0)">Marwa? 🖤 🪙♂,  Mali Gaura ☿🌜,</span>
+																<span style="color:rgb(255, 14, 14)">'Yaman 🪘,</span>
+																<span style="color:rgb(14 255 117)">Gorakh Kalyan 🌴</span>
+																<span style="color:#9a0fff">Shri, ⛵</span>
 
 </section>
 <div style="background-image: url('blues.jpg');padding-bottom: 30px;filter: sepia(0.8);" id="Night">
 R2 ~8:24 p.m. - 10:48 p.m. <span id="R2" style="font-family: 'Fish&Chips'">pradosa</span> ☾2              8 -10:30      K
-																<span style="color:cyan">Sorath (☔),   Nat?  NatNaryan, Malar, Basant?, Shankara ☔/🪘/🧘‍♀️  <small><small>(R2-R3? ♀️🪐)</small></small></span>
+																<span style="color:cyan">Sorath ☔,   Nat?  NatNaryan, Malar, Basant?, Shankara ☔/🪘/🧘‍♀️  <small><small>(R2-R3? ♀️🪐)</small></small></span>
 																<span style="color:rgb(212 222 68)">'Kafi <span title="Kafi family">ਕਾ</span> ☿🌜, 'Bageshree ♀️🔆, 'Madhukauns 🌜🔆, Jog ☿🔆  Pancham Jogeshwari (☿🔆),</span>
 																<span style="color:silver">Chandrakauns?, (ਚ strife?)</span>
 																<span style="color:silver">'Chandranandan? (-)</span>
@@ -376,7 +379,7 @@ R3 ~10:48 p.m. - 3:36 p.m. <span id="R3" style="font-family: 'Fish&Chips'">ratri
 																'Jog Kauns?, Bhinna Sharaj?, 'Hemant? (🧘‍♀️♂🔅<span title="S G m D N S' - S' N D P m G R S; (S G m D ; P m ; G R S ; ,N ,D ; ,m ,D ,N S ; m (P)m ; G m D N ; m D N S' ; S' R' S' N D ; N S' D P m ; m P m m G m G R S; Mukhya-Ang	G m D N D ; m (P)m ; N D (P)m ; G m G R S ; G m D P m G R S;)">5-7</span>)
 															    <span style="color:rgb(14 255 117)">Khamoj (🌴 🌜♂), Desh' <small><small>(🪘/🌴{data[56][3]}{data[56][4]})</small></small></span>
 																<span style="color:silver">Chandrakauns? (ਚ ☿🔆<span title="S g m d N S' - S' N d m g m g S ,N S; (S g m g S ,N ; ,N S ; g m d N S'; N d S' ; N d m g m g S ,N S; ,N ,d ,N S ; g m d N S' ; m d m N ; N S' G' S' N S' N ; N d ; m d N d m ; m g m g S ; m g S ,N ; S g m g S ; ,N ,N S;.)">5️⃣</span>)</span>
-																<span style="color:#9a0fff">'Darbari Kanada? (⛵ ♂🌜),  Adana  ☿🔆</span>
+																<span style="color:#9a0fff">'Darbari Kanada? (⛵ ♂🌜),  Adana  ☿🔆, Charukesi ♀️🪙? </span>
 																<span style="color:rgb(255, 14, 14)">Deepak (🪘 🔆🌜), Kachheli,</span>
 															   <span style="color:rgb(255, 218, 0)"> Malkaus (🖤 ☿🔅)</span>
 																<span style="color:rgb(212 222 68)">'Sahana? (<span title="Kafi family">ਕਾ</span> 🌜🔆), 'Bahar? ♀️🔆, Shiv Ranjani 🌜🔆</span>
