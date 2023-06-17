@@ -119,7 +119,7 @@ Darkside \u0627\u0644\u0644\u0647
 
 `),C=l("section"),am=a(`
 \u{1F307} R1 ~6 p.m. - 8:24 p.m. `),q=l("span"),q.textContent="sayan/utarang",em=a(` \u263E1  (Sunset)            4:50 - 8     K
-																`),Ft=l("span"),Ft.textContent="Basant,(\u2614\u{1F30C}),  Kedara",nm=a(`
+																`),Ft=l("span"),Ft.textContent="Basant,(\u2614\u{1F30C}),  Kedara \u263F\u{1F506}",nm=a(`
 																`),Ot=l("span"),Ot.textContent=`Pancham(\u{1F9D8}\u200D\u2640\uFE0F) ${e[0][5][3],e[0][5][3]}, Pahadi Bhupali (PS),`,sm=a(`
 																`),vt=l("span"),vt.textContent="Malashree?",im=a(" (\u{1F9D8}\u200D\u2640\uFE0F SP"),Wt=l("span"),Wt.textContent="3\uFE0F\u20E3",rm=a(`)
 																`),Pt=l("span"),Pt.textContent="Pahadi Ramgiri?? Hamsadvani?, (\u{1F9D8}\u200D\u2640\uFE0F)",om=a(`

@@ -346,7 +346,7 @@ Darkside الله
 
 <section style="filter: sepia(0.4);">
 🌇 R1 ~6 p.m. - 8:24 p.m. <span id="R1" style="font-family: 'Fish&Chips'">sayan/utarang</span> ☾1  (Sunset)            4:50 - 8     K
-																<span style="color:cyan">Basant,(☔🌌),  Kedara</span>
+																<span style="color:cyan">Basant,(☔🌌),  Kedara ☿🔆</span>
 																<span style="color:#f2f2f2">Pancham(🧘‍♀️) {data[5][3],data[5][3]}, Pahadi Bhupali (PS),</span>
 																<span style="color:#f2f2f2">Malashree?</span> (🧘‍♀️ SP<span title="S - G - P - N - S' / S' - (N)P - (M)(G), P - G - S (S - (N)P - M(G), P - G - S)">3️⃣</span>)
 																<span style="color:#f2f2f2">Pahadi Ramgiri?? Hamsadvani?, (🧘‍♀️)</span>
