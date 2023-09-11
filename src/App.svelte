@@ -561,7 +561,7 @@ L - Anytime but with feeling of momentum or progress<br />
       body {
         font-family: sans-serif;
         color: antiquewhite;
-        background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Persian_daric_with_king_holding_bow.jpg/640px-Persian_daric_with_king_holding_bow.jpg');
+        background-image: url('https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/escape-from-reality-esam-jlilati.jpg');
         background-color: #b09beb;
         margin: 30px;
         border: 2px solid red;
