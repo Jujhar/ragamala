@@ -239,8 +239,8 @@ style="vertical-align: middle;width:30px"
 <ul><li><b style="color:rgb(14 255 117);font-family: 'Fish&Chips'">Hindol</b> <span title="🌴 - related to particular place or thing">🌴</span><br></li></ul>
 <p><b>Wives</b>: Tilangi <small><small>(4 ♀️🪐)</small></small>,
   Devkari, <u>Basanti</u>, Sindhoori ∨ Sindhuri, Ahiri <small><small>(1)</small></small>.<br>
-<b>Sons</b>: Surmanand, Bhasker, Chandra-Bimb,
-Mangalan, Saras-baan, Binoda,
+<b>Sons</b>: Suryakant, Bhasker, Chandra-Bimb,
+Mangalan (Mangal), Saras-baan, Binoda,
  <u>Basant</u> <small><small>(L 🔅☿)</small></small>,
  Kamoda <small><small>(R1? R2? 🌜♂)</small></small>.
  <br />
@@ -299,11 +299,11 @@ https://raagtime.com/
 
 <pre style="background-color:rgb(255 0 0 / 30%);padding:10px;" id="Day">
 <section style="filter: sepia(0.4);">
-  1 🌅 1 ~6 a.m. - 8.24 a.m. <span id="1" style="font-family: 'Fish&Chips'">prata</span>  1   (Day time)                 <span>K</span>
+  1 🌅 1 ~6 a.m. -  الفجر - 8.24 a.m. <span id="1" style="font-family: 'Fish&Chips'">prata</span>  1   (Day time)                 <span>K</span>
 																	'Jogiya(🧘‍♀️), Bhairao {data[33][3]+data[33][4]}, Bhairiari Devgandhari, Ramakli!?
 																	Gunakeli <small><small>{data[59][3]+data[59][4]})</small></small>, Deshkar {data[54][3]+data[54][4]}
 																	Devgiri Bilawal? (🧘‍♀️) Gauri Bairagan ♂🪙 (ਭੇ,🌌<span style="color:black">—</span>,🪘<span style="color:rgb(255, 14, 14)">—</span>)
-																	<span style="color:rgb(14 255 117)">'Ahir Bhairiv (🌴)</span>,
+																	<span style="color:rgb(14 255 117)">'Ahir Bhairiv (🌴), </span>,
 																	<span style="color:rgb(255 218 0)">'Bhatiyar? (🎶) ☿🔆, Gunkali 🪙♂</span>
 																	<span style="color:cyan">Vibhas (☔ 🪙☿),</span>
 </section>
@@ -333,7 +333,7 @@ Preperation</li>
 </div>
 
 <div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:'Fish&Chips';">3</div>
-3 ~10:48 a.m. - 3.36 p.m. <span id="3" style="font-family: 'Fish&Chips'">madhyahna</span>    ~11:30 - 2:30?    V
+3 ~10:48 a.m. - ٱلظُّهْر 3.36 p.m. <span id="3" style="font-family: 'Fish&Chips'">madhyahna</span>    ~11:30 - 2:30?    V
 																  Madhumadhvi?(🧘‍♀️) ☿🌜,
 																  <span style="color:rgb(212 222 68)">'Pilu ♀️🪐, (<span title="Kafi family">ਕਾ</span> ∨ Green) Vadhans ♂🌜, Suha Sughrai 🌜🔆,
 																  Bhimpalasi / Sarparda (♂🔆), Gavati 🔆🌜, Barwa ♂🌜, Dhani ♀️🪐</span>
@@ -356,7 +356,7 @@ Preperation</li>
 
 
 <div style="position:absolute;font-size:6em;margin-top:30px;margin-left:10px;color:gold;opacity:0.2;font-family:'Fish&Chips';">4</div>
-4 ~3:36 p.m. - 6 p.m. <span id="4" style="font-family: 'Fish&Chips'">aparahna</span>  4*               1:50 4:50   V
+4 ~3:36 p.m.  العصر 6 p.m. <span id="4" style="font-family: 'Fish&Chips'">aparahna</span>  4*               1:50 4:50   V
 															Gauri, (🧘‍♀️,🌌<span style="color:black">—</span>,🪘<span style="color:rgb(255, 14, 14)">—</span>‍ ♂🌜7️⃣)
 															<span style="color:rgb(14 255 117)">Maajh, (🌴 ♂🔅)</span>
 															<span style="color:#9a0fff">Shri? (⛵ ☿🌜)</span>
@@ -387,13 +387,13 @@ Preperation</li>
  الله Night time الله
 
 <section style="filter: sepia(0.4);">
-🌇 R1 ~6 p.m. - 8:24 p.m. <span id="R1" style="font-family: 'Fish&Chips'">sayan/utarang</span> ☾1  (Sunset)            4:50 - 8     K
+🌇 R1 ~6 p.m. - المغرب  8:24 p.m. <span id="R1" style="font-family: 'Fish&Chips'">sayan/utarang</span> ☾1  (Sunset)            4:50 - 8     K
 																<span style="color:cyan">Basant,(☔🌌),  Kedara ☿🔆</span>
 																<span style="color:#f2f2f2">Pancham(🧘‍♀️) {data[5][3],data[5][3]}, Pahadi Bhupali (PS),</span>
 																<span style="color:#f2f2f2">Malashree?</span> (🧘‍♀️ SP<span title="S - G - P - N - S' / S' - (N)P - (M)(G), P - G - S (S - (N)P - M(G), P - G - S)">3️⃣</span>)
 																<span style="color:#f2f2f2">Pahadi Ramgiri?? Hamsadvani?, (🧘‍♀️)</span>
 																Gauri Poorvi?, (ਭੇ,🌌,🪘)
-																<span style="color:rgb(255, 218, 0)">Marwa? 🎶 🪙♂,  Mali Gaura ☿🌜,</span>
+																<span style="color:rgb(255, 218, 0)">Marwa? 🎶 🪙♂,  Mali Gaura ☿🌜, Gaurî Guârarî ♀️🪙</span>
 																<span style="color:rgb(255, 14, 14)">'Yaman 🪘,</span>
 																<span style="color:rgb(14 255 117)">Gorakh Kalyan 🌴</span>
 																<span style="color:#9a0fff">Shri, ⛵</span>
@@ -443,9 +443,9 @@ R2 ~8:24 p.m. - 10:48 p.m. <span id="R2" style="font-family: 'Fish&Chips'">prado
                                 </ul>
                                 </div>
 
-R3 ~10:48 p.m. - 3:36 p.m. <span id="R3" style="font-family: 'Fish&Chips'">ratri</span>  ☾3          8     10:30 3      P
+R3 ~10:48 p.m. - 3:36 p.m. العشاء<span id="R3" style="font-family: 'Fish&Chips'">ratri</span>  ☾3          8     10:30 3      P
 																'Jog Kauns?, Bhinna Sharaj?, 'Hemant? (🧘‍♀️♂🔅<span title="S G m D N S' - S' N D P m G R S; (S G m D ; P m ; G R S ; ,N ,D ; ,m ,D ,N S ; m (P)m ; G m D N ; m D N S' ; S' R' S' N D ; N S' D P m ; m P m m G m G R S; Mukhya-Ang	G m D N D ; m (P)m ; N D (P)m ; G m G R S ; G m D P m G R S;)">5-7</span>)
-															    <span style="color:rgb(14 255 117)">Khamoj (🌴 🌜♂), Desh' <small><small>(🪘/🌴{data[56][3]}{data[56][4]})</small></small></span>
+															    <span style="color:rgb(14 255 117)">Anand Bhairav 🌴 (Suryakant thaat) ☿🔅, Khamoj (🌜♂), Desh' <small><small>(🪘/🌴{data[56][3]}{data[56][4]})</small></small></span>
 																<span style="color:silver">Chandrakauns? (ਚ ☿🔆<span title="S g m d N S' - S' N d m g m g S ,N S; (S g m g S ,N ; ,N S ; g m d N S'; N d S' ; N d m g m g S ,N S; ,N ,d ,N S ; g m d N S' ; m d m N ; N S' G' S' N S' N ; N d ; m d N d m ; m g m g S ; m g S ,N ; S g m g S ; ,N ,N S;.)">5️⃣</span>)</span>
 																<span style="color:#9a0fff">'Darbari Kanada? (⛵ ♂🌜),  Adana  ☿🔆, Charukesi ♀️🪙? </span>
 																<span style="color:rgb(255, 14, 14)">Deepak (🪘 🔆🌜), Kachheli,</span>
@@ -527,13 +527,14 @@ https://punjabipedia.org/topic.aspx?txt=%E0%A8%9B%E0%A8%AA%E0%A9%88%20%E0%A8%9B%
 R - Night<br />
 L - Anytime but with feeling of momentum or progress<br />
 <hr style="opacity: 0.2;">
-⛵ - <span style="font-family: 'Fish&Chips'">Shri thaat</span> <em><span style="color:rgb(154 15 255 / 44%)">(feeling of movement)</span></em>&nbsp;&nbsp;🌴 - <span style="font-family: 'Fish&Chips'">Hindol thaat</span> <em><span style="color:rgb(14 255 117)">(related to particular place or thing)</span></em><br />
+⛵ - <span style="font-family: 'Fish&Chips'">Shri thaat</span> <em><span style="color:rgb(154 15 255 / 44%)">(feeling of movement, earth)</span></em>&nbsp;&nbsp;🌴 - <span style="font-family: 'Fish&Chips'">Hindol thaat</span> <em><span style="color:rgb(14 255 117)">(related to particular place or space<ref>Samveda
+Christianamr https://chandrakantha.com/forums/?p=post%2Fseasonal-ragas-8672340</ref> (beyond mind desires))</span></em><br />
 🌌 - <span style="font-family: 'Fish&Chips'">Purvi thaat</span> <em><span style="color:black">(feeling of completeness and fulfillment)</span></em><br />
 💊 - <span style="font-family: 'Fish&Chips'">Vachaspati thaat <em><span style="color:black">(rare rag, maybe healing?)</span></em></span><br />
-🧘‍♀️ - <span style="font-family: 'Fish&Chips'">Bhairao thaat</span> <em><span style="color:white">(related to countable gains (and losses) of fruits of devotion?)</span></em><br />
-🪘 <span style="font-family: 'Fish&Chips'">Deepak thaat</span> <em><span style="color:rgb(255 14 14 / 57%)">(related to object sensations, physical touch, and presence)</span></em><br />
-🎶 <span style="font-family: 'Fish&Chips'">Malkauns thaat</span> <em></em><span style="color:rgb(255, 218, 0)">(a strong significant repeating tune or recollation?)</span>
-☔ <span style="font-family: 'Fish&Chips'">Megh thaat</span> <span style="color:cyan;">(current moment, feeling momentum or progress and dispelling pain?)</span><br />
+🧘‍♀️ - <span style="font-family: 'Fish&Chips'">Bhairao thaat</span> <em><span style="color:white">(related to countable gains (and losses) of fruits of devotion?, sky)</span></em><br />
+🪘 <span style="font-family: 'Fish&Chips'">Deepak thaat</span> <em><span style="color:rgb(255 14 14 / 57%)">(related to object sensations, physical touch, and presence, fire)</span></em><br />
+🎶 <span style="font-family: 'Fish&Chips'">Malkauns thaat</span> <em></em><span style="color:rgb(255, 218, 0)">(a strong significant feeling usually repeating tune or recollation?)</span>
+☔ <span style="font-family: 'Fish&Chips'">Megh thaat</span> <span style="color:cyan;">(change and dispelling pain?, water)</span><br />
 <hr style="opacity: 0.2;border-bottom:4px solid red">
 <a herf="https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week" style="opacity: 0.5;">Colors representing planets of week (different colour scheme than above thaat scheme)</a><br />
 <span style="color:#FFFF00;">🔅 - Sa vadi ∨ samvadi</span> <em><span title="See https://rebabre.gitbook.io/suraj-prakash/unrelated-related/days-of-week">(Some of all qualities)<em/><br />
