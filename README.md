@@ -32,7 +32,7 @@ mid day (<em>3</em>),
 
 descending quarter pahar (<em>4</em>). 
 
-So "R@ɡ@ Gorakh Kalyan" is Rat 1 (R1) meaning <em>first quarter of the night</em> and "R@ɡ@ Maajh" is to be listened at <em>the fourth quarter of the day</em> (4).
+So "R@ɡ@ Gorakh Kalyan" is Rat 1 (R1) meaning <em>first quarter of the night</em> and "R@ɡ@ Maajh" (4) is to be listened at <em>the fourth quarter of the day</em>.
 ##
 
 ```
