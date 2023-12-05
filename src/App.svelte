@@ -562,7 +562,7 @@ Christianamr https://chandrakantha.com/forums/?p=post%2Fseasonal-ragas-8672340</
       body {
         font-family: "Courier", "Fixedsys", "sans-serif";
         color: antiquewhite;
-        background-image: url('as.png');
+        background-image: url('https://rebabre.com/images/as.png');
         background-color: #b09beb;
         margin: 30px;
         border: 2px solid red;
@@ -575,7 +575,7 @@ Christianamr https://chandrakantha.com/forums/?p=post%2Fseasonal-ragas-8672340</
 
       @font-face {
           font-family: 'Fish&Chips';
-          src: url('https://github.com/Jujhar/ragamala/raw/gh-pages/Fish%26Chips.ttf');
+          src: url('https://rebabre.com/images/Fish%26Chips.ttf');
           font-weight: normal;
           font-style: normal;
           font-display: swap;
