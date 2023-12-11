@@ -1,8 +1,21 @@
 <b>ੴ Räːɡsolator</b>
 
-[R@ɡ@ Salotar](https://jujhar.github.io/ragamala/index.html) organizes ***the 6 thaats (moods groups)***:
+![image](https://github.com/Jujhar/ragamala/assets/5521110/fdc98944-fc51-4c52-94dc-6befcbfbe493)
 
-eg. Relief-<b>MEGH</b>, Gains-<b>BHAIRU</b> Orgzm-<b>KAFI</b>, Funk-<b>DEPAAK</b> see below)
+![image](https://github.com/Jujhar/ragamala/assets/5521110/e3ac337a-2a9b-4243-800a-3dda01b80f2c)
+
+![image](https://github.com/Jujhar/ragamala/assets/5521110/5bf13c4f-d28b-41e3-8541-11140b4ce1d9)
+
+![image](https://github.com/Jujhar/ragamala/assets/5521110/716df24b-81bc-4591-be74-cbe98abae49d)
+
+![image](https://github.com/Jujhar/ragamala/assets/5521110/6382563b-5717-4904-9d1b-bb5ea396eaff)
+
+
+
+
+
+
+[R@ɡ@ Salotar](https://jujhar.github.io/ragamala/index.html) organizes ***the 6 thaats (moods groups)*** as well as ***8 quarters*** of the 24 hour period:
 
 ```
 Quote:
@@ -22,7 +35,7 @@ We believe that Lord Shiva created the 5 main Raags:
 
 ##
 
-R@ɡ@ (ਰਾਗ, accompanying nourishment) are composed of <em>4</em> pahars or timings (<em>1,2,3,4 and R1,R2,R3,R4</em>) 
+In R@ɡ@ (ਰਾਗ, accompanying nourishment) theory, day and night both consist of <em>4</em> pahars or timings (<em>1,2,3,4 and R1,R2,R3,R4</em>) 
 
 a special quarter for when the sun changes at sunrise or sunset (<em>1</em>), 
 
@@ -59,7 +72,7 @@ L - Anytime but with feeling of momentum or progress
 ```
 
 
-## Detailed example
+## Madhumadhvi (3 ☿🌜) example
 
 ![image](https://user-images.githubusercontent.com/5521110/222991657-400e7aa9-71c3-4a17-a945-3217cb272981.png)
 
@@ -75,12 +88,18 @@ L - Anytime but with feeling of momentum or progress
 
 ![image](https://user-images.githubusercontent.com/5521110/222991748-f07a834e-bcd7-4241-84ba-a24cd3cded60.png)
 
+Visual representation
+
 ##
 ##
 
-Launch Raga Solotar here:
+Launch Raga Solotar:
 
 [jujhar.github.io/ragamala/index.html](https://jujhar.github.io/ragamala/index.html)
 
 🧘‍♀️ Bhairau - Sky
-☔ Megh...
+🌴 Hindol - Air 
+⛵ Sri - Earth
+🎼 Malkaus - "Vibe?"
+🌌 Purvi - "Fullfilmet"
+☔ Megh - Water...
