@@ -215,7 +215,7 @@ style="vertical-align: middle;width:30px"
     top: 458px;
     left: 191px;" src="media\hindol\Devagiri.png" width="190px" title="devgiri"> <u>Basanti<img style="position: absolute;     opacity: 0.5;
       top: 458px;
-      left: 391px;" src="media\hindol\vasant - 0.png" title="vasant" width="190px"></u>, Sindhoori ∨ Sindhuri, Ahiri <small><small>(1)</small></small>.<br>
+      left: 391px;" src="media/hindol/vasant - 0.png" title="vasant" width="190px"></u>, Sindhoori ∨ Sindhuri, Ahiri <small><small>(1)</small></small>.<br>
 <b>Sons</b>: Suryakant, Bhasker, Chandra-Bimb,
 Mangalan (Mangal), Saras-baan, Binoda,
  <u>Basant</u> <small><small>(L 🔅☿)</small></small>,
