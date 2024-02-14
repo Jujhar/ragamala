@@ -19,49 +19,370 @@ Legend
 🪐 - Ni vadi/samvadi
 🪙 - Da vadi/samvadi
  */
- let data = [['Sri', '⛵', '4', '♂', '🌜'],
-             ['Asavari', '⛵', '2', '🪙','♀️'],
-             ['Kalyana / Yaman', '🪘', 'R1', '♀️','🪐'],
-             ['Bilawali', '🧘‍♀️', '2', '🪙','♀️'],
-             ['Bangli', '🧘‍♀️', 'L', '☿','🔆'],
-             ['Pancham', '🧘‍♀️', 'R1', '♂','🔆'], // 5
+ let data = [['Sri', '⛵', '4', '♂', '🌜', `They are beautiful, beautiful, born of the face
+of praise, with a garland of stars around their necks.
+When the elephant climbs the
+mountain, the elephant is full of sacrifices.
+This is the Sri Raga.- Pundarika Vittala (16th-c);
+A sundown half past cares
+With trees ensnared in dusky wisps –
+Where grim reflections beyond fear
+Wrangle with the demonic
+And make new friends. - Taimur Khan (2004)`],
+             ['Asavari', '⛵', '2', '🪙','♀️', `The Gāndhāra-rotra-agniga is the first movement of the fire-goddess.
+She lived in the forests of Rambha with a beautiful and
+pure reputation She had beautiful hair and was praised by
+the gandharvas for her pleasant taste and compassion
+This is Asavari. - Pundarika Vittala (16th-c);
+
+📖 The origins of the Asavari ragini have been traced to the music played by tribal snake charmers who use wind instruments called Beens to mesmerize snakes with their hypnotic music. The literal breakup of the word Asavari is ‘Asi’ or Snake, and ‘Ari’, which means enemy.
+This Ragini sings a plaintive, melancholy song of unhappy love.
+The girl is awaiting her beloved who has not come. The snakes come to offer her consolation in her mistery. This winter raga’s hour of performance is in the morning.
+📖Story:
+Winter morning, the deep forest,
+she waiting for the beloved lover who has not come, in her deep sorrow.
+Snake charmer come, and he blowing the whistle.
+Snake attempts to comfort her and dances around her.
+Her heart comes fray in wonder when heard the sound of the whistle.
+Among the deep forest, she falls asleep and be forgotten the sorrow.
+📖Poet:
+On the summit of the sandalwood mount,
+Robed in peacock plumes, ablaze in dark glory.
+The serpents dance to the tone of her Bin.
+This charming one wears them, as bracelets.- Yuki Ato Narayan (2018)`],
+             ['Kalyana / Yaman', '🪘', 'R1', '♀️','🪐', `Satri is full of two-eyed Niyamarigamani accompanied by royal hosts
+He was white with a bean curve and wore a white robe and a garland of gold around his neck.
+At the end of the day he who has eyes like lotuses and who is seated on a jeweled lion
+throne with an umbrella head and both feet shines with his relatives like Kalyana Yammana
+This is the welfare.
+This is the family of the countrymen.- Pundarika Vittala (16th-c);
+An old songster breaks into
+Love’s undying night tale
+That everyone has heard before
+And cares to listen still. - Taimur Khan (2004)`],
+             ['Bilawali', '🧘‍♀️', '2', '🪙','♀️', `She was very slender and rich in ornaments, and she was
+dressed in lotus flowers and wore a crimson torso.
+The daughter of Saraparada, who is also known as Śārīdhā, is
+the daughter of Saraparada, who is very pleasant to the king.
+This is Belavali.- Pundarika Vittala (16th-c);
+
+The character of this melody is expressed through the picture of a lady
+who is going to meet her lover.
+She often evokes her favorite deity, the God of Love.
+Her complexion is like the color of a blue lotus.
+This spring raga should be sung in the morning.
+📖Poet:
+Richly adorned, she sits before the mirror,
+The sixteen types, of make-up completed,
+she waits looking at the door,
+And remembers her lover in her mind.- Yuki Ato Narayan (2018)
+`],
+             ['Bangli', '🧘‍♀️', 'L', '☿','🔆',`The last two vowels are the three eyes, the movement of the three eyes, the two full legs, and in his
+left hand he holds a beautiful garland, which resembles the jewel of a rabbit’s neck.
+May. 195 Bengal holds a drinking vessel of pure gold in the tip of his
+left hand and reads the Vedas of music constantly with his mattresses trembling
+This is Bengal. This is the Bhairava family. - Pundarika Vittala (16th-c); Born in the Karnataka Mela, he is a full-bodied satrika,
+dressed in yellow and wearing earrings decorated with gems. May.3
+He is wearing a crown on his head and a lotus
+in his palm. His body is smeared with saffron flowers.
+This is Pure Bengal. - Pundarika Vittala (16th-c);
+
+Bangala is described as a young woman large-eyed, bright
+golden like the sun. Smeared with ashes, her hair matted and
+tightly bound, with a sword under her arm, in her left hand she bears a blazing trident.
+With a view to enthrall her husband,
+a great and noble lord,
+the woman repeats the Same mantra,
+wearing the aspect of a sage.
+📖Poet:
+Dark, in a dark robe,
+determined, brazen,
+eager for lust,
+with big breasts and in her hand a lute,
+Bangala,
+dear to rogues.- Yuki Ato Narayan (2018)`],
+             ['Pancham', '🧘‍♀️', 'R1', '♂','🔆', `He is dark-skinned with a betel nut in his hand and
+holds a lotus in his hand. His body is smeared with the mud of
+the yakshas, ​​his head is covered with a beautiful crown, and his
+beard is covered with the young moon and the sun. - Pundarika Vittala (16th-c)`], // 5
              ['Sorath', '☔', 'R2', '♂','🪙'],
-             ['Malaar', '☔', 'L', '☿','🔆'],
-             ['Megh', '☔', 'L', '🔆','🌜'],
-             ['Basant', '🌴', 'L', '🔅','☿', '🔅🌜?'],
+             ['Malaar', '☔', 'L', '☿','🔆', `Miyan Malhar:
+An abiding ecstasy,
+Massive and composed,
+Abandons man to some godlike element,
+Harnessing clouds with reins of will. - Taimur Khan (2004);
+Born of the union of Sarveri and devoid
+of snakes He is like the planets in the sky He is
+dressed in black and yellow He is defeated by Madana
+He is rich in necklaces and other ornaments
+This is the Malhar.- Pundarika Vittala (16th-c)`],
+             ['Megh', '☔', 'L', '🔆','🌜', `
+             ‘Begin your journey, O’ meghadoota, by sprinkling rain on the parched earth. The fragrance of wet earth will spread happiness among the country men and women. They will take to their fields singing joyously, and run their ploughs through the supple soil.’
+Kalidasa`],
+             ['Basant', '🌴', 'L/R4', '🔅','☿', '🔅🌜?', `Born at the Hindola fair, with a melodic rhythm and a satri in the morning
+• Playing in the woods, a bunch of nine-petalled flowers, greedy for the pleasure,
+Iat tada. He was as white as the light of a betel nut and dressed in red like the husband of a lover He
+was accompanied by women playing all kinds of musical instruments and had a great smile. - Pundarika Vittala (16th-c);
+
+The Vasant Raga expresses human reaction to the joy of life in spring.
+This melody is feminine and is visualized as a dancing Krishna,
+or is sometimes adjusted by the introduction of Radha embracing her lover Krishna.
+This raga is best sung at midday.
+📖Poet:
+Krishna wanders joyful through the woods,
+Peacock feathers glitter on his head,
+oh! Radha beat the mridanga louder,
+The bees hover around the mango-blossoms.- Yuki Ato Narayan (2018)`],
              ['Asa', '☔', 'R4', '☿','🔆'], // 10
-             ['Devsakh', '🧘‍♀️', '2', '🌜','🔆'],
-             ['Lalit', '🧘‍♀️', 'R4', '☿','🔆'],
-             ['Gauri', '🧘‍♀️', '4', '♂','🌜', 'R1?'],
-             ['Sarang', '⛵', '3', '♂','🌜', '2?'],
-             ['Patmanjari', '🪘', '3', '🔅','🌜'], // 15
+             ['Devsakh', '🧘‍♀️', '2', '🌜','🔆', `The raga depicts a group of athletes or acrobatics.
+and in some cases a strong, bare headed wrestler.
+This is a spring raga and celebrates the start of spring
+when the weather is so fine as to permit outdoor exercise and group activity.
+📖Poet:
+Quick resounding slapping of body,
+hair knots standing on end,
+long arms held back,
+tall and fierce,
+splendid like the moon,
+Desakh is in the form of a wrestler.- Yuki Ato Narayan (2018)`],
+             ['Lalit', '🧘‍♀️', 'R4', '☿','🔆', `He is skilled in the art of breathing and is pure and
+graceful. Garanga is a friend of Champa He has a head
+full of flowers He has lotus eyes He is luxurious He is
+lustful He holds betel nut He prays every morning for the broken
+Mame.15
+Sudh Lalit - Pundarika Vittala (16th-c);He was born in a native fair He had a beautiful melody He had restless eyes He carried a
+lotus in His hand He was dressed in clean clothes He was adorned with beautiful ornaments
+
+He is bewitched by a woman with dark eyes and
+laughs deceitfully with a curve full of betel nut.
+This is Lalit. - Pundarika Vittala (16th-c)`],
+             ['Gauri', '🧘‍♀️', '4', '♂','🌜', 'R1?', `
+             The Gauri Ragini depicts a lady who is longing for and dreaming of her husband or lover.
+             She wanders through the woods, daydreaming and collecting flowers and blossoms.
+             This autumn raga is usually sung in the early afternoon.
+             📖Poet:
+             As fair as a campaka flower*1
+             she tarries in the garden,
+             confused of mind,
+             Kalpaviksha*2 flowers and
+             mango blossom adorn her,
+             Surpassing Urvasi*3,
+             Oh Gauri,
+             sing for me. - Yuki Ato Narayan (2018);
+
+             The sixteen-year-old woman was born in Rama’s
+cream, and she was devoid of clouds. She was wearing a
+picturesque dress. At the end of the day the goddess
+Gauḍī plays with the beggars in the city of Varayāvana.
+This is Gaudi.- Pundarika Vittala (16th-c); The white clothes are painted with the pure water particles of the lily-of-the-valley saffron, which
+is the middle water of the nyadi, which is the source of the juice, which is born of the gunda cream. 9
+The upper puṇḍu of the Kāśmīra tree has a fragrant body, a garland of lotus flowers around its neck and a
+betel nut, and at the end of the day it is devoted to the worship of the Supreme Personality of
+Godhead. This is the Pure Gouda.- Pundarika Vittala (16th-c)`],
+             ['Sarang', '⛵', '3', '♂','🌜', '2?', `Resting in a banyan’s shade, / A wanderer fancies fickle nature / As being more or less serene – / And moves Mara to tears. - Taimur Khan (2004), Mara: personification of evil; the Buddhist ‘Tempter’; Death; He was dark-skinned, dressed in yellow, and holding a strong club, conch, wheel and lotus in his hand. / The Gāndhāra is the source of the Vedas and the treasures / of the movements of the modes of nature." This is the Sarang. - Pundarika Vittala (16th-c);He holds a strong club,
+conchshell, disc
+and lotus in his hand. He is dressed in yellow
+garments. His waist is full of glittering
+arrows. His sides are rich in ornaments.
+This is the Sarang.- Pundarika Vittala (16th-c)`, 'Shocked? with lots of wonder!'],
+             ['Patmanjari', '🪘', '3', '🔅','🌜', `She was born at the fair of Gauḍa.
+In her hand she played a single
+instrument of the veena and her sweet
+words were free from the lake.
+Patmanjari is the first flower.
+ - Pundarika Vittala (16th-c)`], // 15
              ['Salag', '⛵', '3', '🌜','🔆'],
-             ['Gujri', '🪘', '2', '🪙','♂'],
+             ['Gujri', '🪘', '2', '🪙','♂', `
+             In this monsoon Raga, a wistful lady sings sad songs,
+             because her absent lover is unfaithful to her.
+             She is playing a Vina.
+             She sometimes addresses her appeal to a sympathetic peacock.
+             This Raga should be sung in the morning.
+             📖Poet:
+             Oh lovely maiden,
+             sixteen years of age.
+             Golden jewels glitter on your fair limbs,
+             you sink into your bed of lotus petals.
+             Practice your song, and await your lover.- Yuki Ato Narayan (2018);
+
+             At the base of her hands she wears a pair of elephant rings, a dark
+chain, a golden flower at the tip of her nose, and a red dress that resembles
+gold. The lips of the bimbo are red and the day is composed of the demon or the
+loose turtle is the taste of the Rama cream and the three times of happiness.
+॥ This is the Gurjari. - Pundarika Vittala (16th-c);
+
+Gujari ragini:
+Caupayī: The Creator had put together all his wits to picture the
+handsome sprightly Gujarī. A confidante sits in front and recites
+verse (or plays on the vīna). Her song induces drizzling rain,
+and her sight delights the heart of her lover. There is a peacock
+shining in its nimble movements, its voice so sweet, captivates
+the heart, we have never seen a second lady so beautiful, the love
+of the life of her beloved lover.
+Dohā: Covering her body with a yellow robe, the damsel of bright
+complexion sits. She steals one’s heart and makes Megha Mallār
+happy.
+(translation by Stephen Markel)
+`],
              ['Maajh', '🌴', '4', '♂','🔆', 'R1?'],
-             ['Devgandhari', '🎶', '3', '🌜','🔆', 'Also Kafi'],
-             ['Bihagara', '🧘‍♀️', 'R2', '♀️','🪐'], // 20
-             ['Vadhans', 'ਕ', 'R3', '🔆','♂'],
-             ['Jaitsri', '🌌', '4', '♀️','🪐', 'R1?, ਮਾ ਸ਼???'],
-             ['Todi', '🪘', '2', '🪙','♂'],
-             ['Bairari', '⛵', '3', ' ♀️',' 🪙'],
+             ['Devgandhari', '🎶', '3', '🌜','🔆', `Gandharva, the former of the gods, is the Gani of the fire movement, the Satrika, the full form, the
+constantly shining, the first movement below, seated on the throne of a jeweled lion. He was praised
+by the Indras as the lord of all tastes He was a tasteful man whose body was smeared with sandalwood
+paste He wore white clothes and held a lotus in His hand He was adorned with all kinds of
+ornaments This is the Devagandhara.- Pundarika Vittala (16th-c)`,'Also Kafi'],
+             ['Bihagara', '🧘‍♀️', 'R2', '♀️','🪐', `He is white, dressed in fine white clothes, has a fragrant body, holds a betel nut
+in his hand, is a lustful man, has a bow of flowers, and is rich in satrikas, captivating
+the minds of the separated. A crown decorated with a cluster of champa
+trees is worn around his neck, and in the evening he wears a garland of flowers.
+॥ This is the Bihagada. This is the family of Natanarayana. - Pundarika Vittala (16th-c);
+
+📖Story:
+The air smells sweet and full of vigour.
+The Mango tree attracts, blooming with joy.
+Behold the peacocks dancing wondrously.
+Yes my load, do partake of this delicacy.
+Smiling ever so sweetly, she draws men from far and wide.
+📖Poet:
+melancholy in the calm of night,
+thirst for enjoyment.
+Behag which has a similar scale is more restful,
+lovely, and satisfied.- Yuki Ato Narayan (2018)`], // 20
+             ['Vadhans', '🎴', 'R3', '🔆','♂'],
+             ['Jaitsri', '🌌', '4', '♀️','🪐', 'R1?, ਮਾ ਸ਼???', `On her nose she wore Śrīlavaṅga, with curly hair made of water, on her ears she wore a
+choli, on her ears she wore a flower garment, and on her eyes she wore a tilaka made of baby
+lightning. She wore a braid on her head with a heap of fine glass rings in her hands
+and was a tasteful woman who conquered all her beauty and trisa in the afternoon.
+॥ This is Jayatashri. - Pundarika Vittala (16th-c)`],
+             ['Todi', '🪘', '2', '🪙','♂', `She held a beautiful staff in her left hand and a pair of
+palm trees on the palm of her other hand. The mature bean-
+stalk with developed eyes is bewitching, free-powdered,
+full, beginning, middle, first-moving, like a morning gunshot.
+This is the Todika. - Pundarika Vittala (16th-c); At the fair of the shadow play, the Gauraṅgi, whose body was revealed in the
+middle of the moon, wore a braid on her head and earrings made of gold and jewels.
+The clever Yavani Todika with her mature eyes slightly red and dressed in
+beautiful clothes like a Greek woman is enjoying herself in the morning after drinking grapes. Todi. - Pundarika Vittala (16th-c)`],
+             ['Bairari', '⛵', '3', ' ♀️',' 🪙', `In her own room, she volunteered to play with her softer words, and she
+wore a colorful dress with bunches of flowers, and she was covered with
+flowers and chamaras. She is adorned with various ornaments
+and is the companion of Madana and has a tender body and is beautiful.
+This is Varali. - Pundarika Vittala (16th-c);
+
+This melody is visualized as a girl separated from her lover.
+She goes out to meet him longing to be reunited.
+The hands clasped over her head indicate her passionate desire.
+This autumn melody should be sung at the end of the day.
+📖Poet:
+Thinking of her lover,
+she smiles,
+enjoying the cool breeze of the whisk
+she kisses him gently,
+keeping him under her spell.- Yuki Ato Narayan (2018)`],
              ['Tilang', '‍🌴', '3', '♀️','🪐', '♂🪐?'], // 25
              ['Suhi', '🎶', '2', '🌜','🔆'],
-             ['Gond', '⛵ ☔ 🎶', '2', '🔆','☿'],
-             ['Ramkali', '🧘‍♀️', 'R4', '🌜','🔆', '🌜☿?'],
+             ['Gond', '⛵ ☔ 🎶', '2', '🔆','☿', `He is seated at the Malhara Mela, and is
+adorned with a string of vocal cords. The devotee
+of Lord Shiva holds a rambha leaf in his
+crown and a net of peacocks on his waist
+This is the Goundaraga.- Pundarika Vittala (16th-c)`],
+             ['Ramkali', '🧘‍♀️', 'R4', '🌜','🔆', '🌜☿?', `Veneration for divine handiwork
+             Pregnant with Himalayan strains –
+             A somber myth of pagan creation
+             Interspersed with charming days of rest. - Taimur Khan (2004)`],
              ['Mali Gaura', '🎶', '4', '♂','🌜'],
              ['Maru', '🎶', '3', '♀️','🪐', ['🌜🪐?']], // 30
              ['Tukhari', '🪘', '4', '🌜','‍🔆'],
-             ['Kedara', '☔', 'R1', ' ♀️','🔆'],
-             ['Bhairao', '🧘‍♀️', '1', '🪙','♂'],
-             ['Nat Naryan', '☔', 'R2', '🌜','☿', 'R3?'],
+             ['Kedara', '☔', 'R3', ' ♀️','🔆', `On his right hand he held a staff and a trident,
+while in the other hand he held a white robe.
+Surrounded by his disciples with their eyes fixed on the tip of his nose and his mind chanting
+the name of the mountain Kedara is a water source born of three kinds of Suhavi mela at
+night This is Kedar. - Pundarika Vittala (16th-c)`],
+             ['Bhairao', '🧘‍♀️', '1', '🪙','♂', `
+             Bhairav has its name from Bhairava, an incarnation of Shiva,
+             and was historically associated with glory and awe,
+             but became identified with peace and devotion.
+             Upholding Ganga, the crescent moon upon his brow,
+             three-eyed, wrapped in the skin of an elephant and adorned with snakes,
+             his scarf white, his garland of human skulls,
+             armed with a burning trident-so triumphs Bhairava, the first of ragas.
+             Shiva is represented here, in the placid mood of a yogi or ascetic.
+             His consort smears his body with ashes, saffron and sandal paste.
+             This is an autumn Raga and should be played early in the morning.
+             It expresses a feeling of peace and harmony and is supposed to drive away fear.
+             📖Poet:
+             His limbs smeared with ashes (that lovely body),
+             his brow lustrous with the cool rays of the moon,
+             trident in hand and mounted on a bull,
+             such is Bhairava, and so the sages tell.- Yuki Ato Narayan (2018);
+
+             Bhairava: This immediately born •
+red, black trident, dressed in silk, with a body of ashes and three eyes.
+The bull, whose horns are on his neck and whose ears are
+adorned with a pair of earrings, is shining in the morning even in the
+winter. Magtigani, Satrico, Ri, Kapardi
+This is the Pure Bhairava. - Pundarika Vittala (16th-c); Bhairavi: She was born in the melody of Dhannāsi and was
+adorned with a vocal melody. The goddess
+Bhairavī, whose face was adorned with all kinds of
+ornaments, was dancing and singing in the morning.
+This is Bhairavi. - Pundarika Vittala (16th-c);
+He had a body of ashes, horns around his neck, a pair of ears, a conchshell seal, a coral
+protector for his feet, and a crown tied to the beautiful matted hair of the lord of the phoenix.
+
+The follower of Ujjhala, whose words are more eloquent, is played
+by the kinneras and is full of fear in the middle of the fire and lightning.
+In. 14
+This is the Bhairava. - - Pundarika Vittala (16th-c);
+
+With ear-rings of mango flower and a high diadem spread wide like the fan of a peacock,
+her indigo body dark like the black bee, lovely, voluptuous, fortunate,
+is Bhairavi the darling of Spring.
+📖Poet:
+She whom poets in their vision see as great-eyed Bhairavi,
+golden consort of Bhairava,
+throned on carven crystal at the peak of Kailasa,
+with cymbals in her hands,
+worships Him with the leaves and Hours of the lotus.- Yuki Ato Narayan (2018)
+`],
+             ['Nat Naryan', '☔', 'R2', '🌜','☿', 'R3?', `He is accompanied by a charmed woman, he is a two-moving elephant, he is full of snow, he is
+born from the face of Rudrani, he is a dancer of the peacock family, he is rich in ornaments.
+In the rainy season this Natta-Nārāyaṇa, whose body is dark-skinned and dressed in
+yellow, holds a shining sword in his hand and always reveals the good fortune of
+men. This is Natta Narayana.- Pundarika Vittala (16th-c)`],
              ['Kanra', '🪘', 'R2', '🌜','🔆'], // 35
-             ['Nat Naryan', '☔', 'R2', '🌜','☿', 'R3?'],
-             ['Prabhati', 'ਕ', 'R4', '🔅','🌜', '1🧘‍♀️?'],
+             ['Hamir', '', '', '','', '', `He was completely double-moving, riding a fire-moving sight, and was a part of the
+collective trust, beautiful and youthful, with a smile on his face and a ball in his hand.
+His face is white like that of a betel nut, and he is friendly to flowers and
+arrows. He is dressed in red clothes and has a powerful heart. This
+is the Hamir Nata. This is the pure drama family.- Pundarika Vittala (16th-c);
+Could night perhaps churn out
+Such sweet incessant tunes that just
+Turn around like lovers for a last, last kiss,
+And make the same little confession
+In iridescent, winning ways? - Taimur Khan (2004)`],
+             ['Prabhati', '🎴', 'R4', '🔅','🌜', '1🧘‍♀️?'],
              ['Durga', '🧘‍♀️', 'R2', ' ♂',' 🔅', 'R3?'],
-             ['Jaijaivanti', '🌴', 'R2', '♂','🌜'],
+             ['Jaijaivanti', '🌴', 'R2', '♂','🌜', `He is the Sadi-madhyantka of the Sri Raga itself, the meladridha-vidhu-gatika
+He was dark-skinned, dressed in yellow, and wore a tilaka with saffron in the middle of his
+forehead. The goddess of fortune, whose neck is adorned with a garland of precious stones
+and plays with graceful flowers, appears in the evening without any arrows of flowers.
+This is what Jijavanta said.- Pundarika Vittala (16th-c);
+Earthy passion in the cradle of perfect joy –
+A youth stands reconciled,
+And cannot help but fade in paeans
+To that one pretty thought in life.
+ - Taimur Khan (2004)`],
              ['Patdeep', 'ਕ', '3', '🌜','🔆'], // 40
              ['Tilak', '🌴', 'R2', '🔆','🌜'],
-             ['Kamoda', '🌴', 'R1', '🌜','♂'],
+             ['Kamoda', '🌴', 'Anytime', '🌜','♂', `He is lusty in the form of lust, holds a crown in his hand, wears a
+white robe, bears a beard of musk drops, is crowned with flowers and is rich
+in necklaces and other ornaments. He is a speaker of sarcastic words with
+young men in his hands a cane in his hand he is a glorious man full of satri
+Chm.M
+This is the lust. This is the Hindola family. - Pundarika Vittala (16th-c);
+The Kamboji, the bewitching woman, who is rich in satrikas, is called
+Kamboji, and she is dressed in flowers, and she wears a bracelet.
+Her body was adorned with musk drops and her body was adorned with gold and gems and
+her ears and other legs were shining in the morning with her friends and her hands were like those of a kinnera.
+This is Kamboji.- Pundarika Vittala (16th-c)`],
              ['Saraswati (ਵ', '💊', 'R2', '🌜','🚹'],
              ['Chandrakauns', 'ਚ', 'R3', '☿','🔆'],
              ['Charukeshi', '-', '3', '🌜','🔆'], // 45
@@ -69,19 +390,393 @@ Legend
              ['Kaunsi', 'ਕ', 'R3', '🌜','🔆'],
              ['Bhairavi', '🧘‍♀️', '2', '☿','🔆', 'used to conclude a concert'],
              ['Abhogi', 'ਕ', 'R2', '☿','🔆', 'peaceful sleep'],
-             ['Devsakh', '🧘‍♀️', '2', '🌜','🔆',], // 50
+             ['Madhumadhavi', '', '', '','',`The enchanted Gaurī, whose body is adorned with wonderful clothes and who is adorned with
+all kinds of ornaments, is like a drunken śāridha or a two-moving river who moves like a fire.
+The woman with the bow of the earth and the eyes of a deer child with sharp arrows
+at the end of her eyes goes to her husband's house with her friends in the spring of honey
+This is Madhumadhavi. - Pundarika Vittala (16th-c)`], // 50
              ['Puniya', '🧘‍♀️', '2', '☿','🔆'],
              ['Adana', '⛵', 'R3', '🔆','🌜'],
-             ['Hindol', '🌴', 'R4', '🪙','♀️'],
-             ['Deshkar', '‍🧘‍♀️', '1', '🪙','♀️'],
+             ['Hindol', '🌴', 'R4', '🪙','♀️', `
+             With the flowers of the Lotus she worships the Lord Krishna
+             who sits on a swing tied to the hanging roots of a banyan tree*1.
+             She listens to the notes of the veena,
+             her heart full of love, her fair limbs covered with jewels.
+             - Yuki Ato Narayan (2018);
+             2
+Gauranga, dressed in yellow, rocking in a forest of dense flowers.
+Let the first movement in this passion be the Satrika Traripo
+In
+Hindola is accompanied by a woman and is adorned with a
+bracelet crown and pearls and is adorned with great earrings. - Pundarika Vittala (16th-c);
+`],
+             ['Deshkar', '‍🧘‍♀️', '1', '🪙','♀️', `Born from the mouth of Ghora, the three-movement Ganigamas are in the passion
+of Satripurnotra 3 He has red limbs, lotus-eyes, walks on a white
+elephant and is a friend of Bakharoja. He wore a garland of pearls
+around his neck and a crown on his head and dressed in colorful clothes.
+This is the countryman. - Pundarika Vittala (16th-c); The goddess of fortune, whose eyes are like ointment on a
+betel nut, is adorned with ornaments made of gold and gems.
+Every morning the princess, whose eyes are like those
+of a king, is attached to the body of Lord Nārāyaṇa. This is
+the country eye/Deshakshri. - Pundarika Vittala (16th-c)`],
              ['Kalingada', '‍🧘‍♀️', 'R4', '🌜','🔆', '♀️,🪙,☿? R4?'], // 55
-             ['Chhayanat', '🪘', 'R2', '🌜','♂'],
-             ['Desh', '🪘', 'R3', '♂','🌜', '🌴-Khamoj'],
+             ['Chhayanat', '🪘', 'R2', '🌜','♂', `Karnatasyapramelaprakatitasutanustvadimadhyantasadja:
+He wore a necklace around his neck, a jewel, and a taste for white clothes.
+Gauranga with red eyes and many companions with heroic beauty
+The shadow dancer laughs at the passersby at the end of the day, holding a flowery ball
+This is the shadow play. - Pundarika Vittala (16th-c);
+
+Chayanata, fair-limbed, with a pink turban and,
+about his throat, a jewelled necklace.
+How pleasant is his polished speech !
+At evening by the roadside, surrounded by friends,
+a sweet ball of flowers in his hand,
+bold and amorous with reddened eyes,
+he laughs aloud at the passers-by.
+📖Poet:(Ragamala)
+The flashing sun radiates energy so divine.
+The Mango tree attracts blooming with joy.
+Sweetly and alluringly the vina plays.
+Noble and shining with pleasant,
+he holds a sweet ball of flowers.- Yuki Ato Narayan (2018)`],
+             ['Desh', '🪘', 'R3', '♂','🌜', '🌴-Khamoj', `She wore a garland of pearls on her ears, a necklace around her neck, a white
+robe on her feet, anklets and a bracelet. The great-granddaughter of
+Ahanga, holding a leaf on the soft, pleasant ground, always goes to the
+countryside, where the moon at the end of Gandhara is the water of the three-time enemy.
+This is the native. - Pundarika Vittala (16th-c);
+A song that sings its own soil,
+Always unaware,
+Always molting and returning
+To its fashioning clay. Desi - Taimur Khan (2004)`],
              ['Gara', '🪘', 'R2', '♀️','🪐', '🌴-Khamoj/Kafi?'],
-             ['Gunakeli', '🧘‍♀️', '1', '🪙','♂'],
+             ['Gunakeli', '🧘‍♀️', '1', '🪙','♂', `
+             Story:
+             The maiden in the personification of Gunakali,
+             is in tears and wears old garments.
+             Her lover is away and expected soon.
+             She prepares a garland of flowers for her lover
+             and is anxious because he is overdue.
+             📖Poet:
+             The sets mandara flowers in a golden jar,
+             filled with virtue and dark as the lotus,
+             She plucks gently at the petals,
+             Her mind fixed on the lovers sport.- Yuki Ato Narayan (2018);
+
+             She was born in the woods of Gurjarya and had a sparkling juice in the
+middle of her feet. A lover who is adorned with various ornaments,
+whose words are soft and honeyed, whose body is dark-skinned and who is
+a symbol of her husband’s pure qualities, goes away in the evening. This
+is the multiplier.- Pundarika Vittala (16th-c); This is the Nadar
+number. Gurjaryamelayukta ridhaparirahita satrika blue-clad gauri muktalaka
+ya navanagarchita kamasanketasastha. Sitting in the shade of
+a nīpa tree, holding a lotus leaf on her clear palm, the beautiful
+goddess Guṇḍakrī gazed at the footsteps of her beloved in the morning.
+This is the Gundaki.- Pundarika Vittala (16th-c);
+The name of God at night’s final hour –
+A solemn plaint without reproach,
+A calm devotion etched in stone. - Taimur Khan (2004)`],
              ['Sohini', '🎶', 'R4', '🪙','♀️'], // 60
-             ['Khokar', '🎶', '2', '♂','🌜'],
-             ['Multani', '🪘', '2', '♀️','🪐'],
+             ['Khokar', '🎶', '2', '♂','🌜', `Caupayī: The lady Kakubhā is unhappy because she is
+separated from her beloved. She has left her palace with all
+its comforts and lives in the forest, which is thick with trees
+and undergrowth. She writes a letter to her beloved, her eyes
+overflowing with tears. Monkeys can be heard chattering as they
+play in the forest. There is a lovely pond nearby, which abounds
+in beautiful lotus blossoms. There are countless peacocks,
+cuckoos, and other birds chirping and singing, but the lady is so
+engrossed in thoughts of her lover that she has even forgotten to
+take care of herself. She appears to be in an imagined embrace
+with her lover.
+Dohā: She is lost entirely in thoughts of her lover; her eyes are
+impatient to see him. Her spirit survives in her body; she does
+not die, although the grief and separation are unbearable.
+(translation by Stephen Markel)`],
+             ['Multani', '🪘', '2', '♀️','🪐', `The sun peeps through
+             A cave and engenders mysteries
+             Where all lost relics of understanding
+             Are sheltered from sultry incandescence. - Taimur Khan (2004)`],
+             ['Jaunpuri', '⛵', 'R2', '🪙','♀️', `An ethereal sadness grips a morning
+That smells like no other
+And emanates the radiance
+Of brimming hearts and childhood haunts –
+The bittersweet of growing up. - Taimur Khan (2004)`],
+             ['Dhanasri', '🎶', '', '','', `She was adorned with ornaments all over her body, and her body
+was adorned with rich ornaments. ✓ The white companion with
+tears in her eyes looked at the former Jeraka and gave her a
+lot of wealth in her mouth like a song and had a blessed nose.
+This is Dhannasi. - Pundarika Vittala (16th-c);
+
+Ancient manuscripts give us numerous examples of a heroine separated
+from her lover and whiling away the hours by painting his portrait.
+In this winter raga, the lady is seated in a courtyard.
+Her painting is meant to speed the lover’s return.
+This raga is to be performed late in the morning.
+📖Poet:
+Seated under the Vakula tree,
+you draw his portrait on a board.
+Oh! Charming lady,
+deep in grief,
+he comes conjured by his painted image.- Yuki Ato Narayan (2018)`],
+             ['Saindhavi', '', '', '','', `The female goddess Bhairavī is blessed with a
+beautiful voice and is called Satrika. - Speaking softly with
+various movements, the red-clad Saindhavi always
+prayed for the purer fame of the warrior lords in battle.
+This is the Saindhavi. - Pundarika Vittala (16th-c)`],
+             ['Marvi', '', '', '', '', `She had long hair like the moon, her eyes were like the movement of fire, her eyes
+were like gold, and she was adorned with many kinds of flowers. •
+Marvi, the eldest born of Mewar, with the eyes of a deer cub, wearing
+red clothes and smiling slightly, always praised the hosts of kings in battle.
+This is Marvi. - Pundarika Vittala (16th-c)`],
+             ['Paraj', '🌌', '', '','', `The satri was adorned with various ornaments, holding a double-moving gun and palm in
+his hand, and holding a sword in his hand on his back. He is white in appearance
+and tall in appearance and soft-spoken He is always benevolent to all
+the worlds He is always sought after day and night He appears to be the son of other kings
+In. 14.
+This is the paraja. - Pundarika Vittala (16th-c)`],
+             ['Bhupali', '', '', '','', `She is devoid of the original and middle form of the Jatau Malhara Mela, 20 with
+a golden flower in her nose and a kajjala necklace in her lotus eyes. Wearing a pearl
+necklace in the middle of her brow, a tilaka on the bottom of her bracelet, and
+a red robe at the root of her hand, the goddess of fortune goes to the king’s palace.
+This is Bhupali. - Pundarika Vittala (16th-c);
+
+The crown decorates the head while kundals (the rings) adorn the ears.
+His flute is potent enough to enchant the universe.
+His beautiful eyes, arched eyebrows and a garland of flowers around his neck enthrall the heart.
+📖Poet:
+I see Bhupali comfortably seated on a lion’s throne,
+his huge family around him.
+Young women,
+their eyes like those of deer,
+fan him with a whisk.- Yuki Ato Narayan (2018)
+`],
+             ['Sayam', '', '', '','', `The cuckoo’s body was revealed by the transformation of
+the satri, the full form of the black body, the yellow dress, the sweeter
+voice, the differences in the tremors. He wore a garland of
+gems around his neck and a tilaka decorated with kuṅkuma flowers.
+This is the black. - Pundarika Vittala (16th-c)`],
+             ['Samanta', '', '', '','', `At the fair called Karnataka he appeared in the form of a bridegroom with a full form of
+three sixteen feet with lotus feet and lotus eyes and wore two earrings from his pair of ears
+Wearing a crown on his head, a garland of many flowers around his neck and fine
+clothes, he shone in the morning with a strong sense of passion for the mature feudal lords.
+May 30
+This is the feudal passion. - Pundarika Vittala (16th-c)`],
+             ['Ramkri', '', '', '','', `She was wearing a blue dress with a beautiful pearl
+necklace and jewels. Ramakri with restless eyes
+roaming the clearer mountains with skillful
+beauty and three-sixths moving like fire always shines
+This is Ramkri. - Pundarika Vittala (16th-c)`],
+             ['Bahuli', '', '', '','', `She was seen by Rama as a criminal or without a smile.
+The proud emerald woman with the face of a betel
+nut is rich in clothes and ornaments and has a thick pearl
+in her nose and is very beautiful in the eastern evening
+This is the plural. - Pundarika Vittala (16th-c)`],
+             ['Vibhas', '', '', '','', `He was a cow-haired man with a lotus-like body, a fine robe, a beard and a
+cashmere dot, and he wore a minister’s garland and ornaments around his neck.
+Born in the fair of his father, he is more than the first water, the satrika, the water, the deceitful,
+he goes at his own will and in the morning he speaks to his beloved with the passion known as Sri
+Bibhasa. This is the Bibhas. - Pundarika Vittala (16th-c);
+
+Bibhas is an early morning melody illustrated by two lovers who have fallen asleep at daybreak.
+They are roused from slumber by the irritating crow of a rooster.
+In poetry, dawn and the rooster are regarded as the enemies of lovers.
+This is a monsoon raga.
+📖Poet:
+Taking aim with my lotus arrow
+I seek to silence the cruel bird,
+Oh cuckoo!
+Enemy of lovers and friend of the dawn,
+Rising me from my beloved’s side- Yuki Ato Narayan (2018)`],
+             ['Ravana', '', '', '','', `He was born in a native assembly and wore three kinds of
+samapasa. The evening goddess, holding a ball of flowers and beauty,
+is beautiful in the evening, and she is a beautiful young
+woman in the marketplace, delighting the passionate people.
+This is Ravana. - Pundarika Vittala (16th-c)`],
+             ['Pahadi', '', '', '','', `She was well attached to the Gaudi fair, and her lotus-eyes
+were soaked with passion for her first qualities. She is dressed
+in white and has a younger body and is rich in beauty
+and delights the hearts of young men at the end of the day.
+This is the Padi. - Pundarika Vittala (16th-c)`],
+             ['Nadaramkri', '', '', '','', `She is a full-fledged satrika, who is a virtuous woman, who holds musical instruments
+in her hands, who is dark-skinned, who has long eyes, who is adorned with
+necklaces and other ornaments of heavy water. In the middle of the night
+she was dressed in red and carried a beautiful elephant and carried a golden
+trunk. This is Nadaramkri. - Pundarika Vittala (16th-c)`],
+             ['Tanka', '', '', '','', `He was attached to dancing and was
+tolerant of the movement of his eyes.
+The white, lustful Sutakka, whose body is smeared with sandalwood
+paste and whose body is full of flowers, is always the messenger of lust.
+This is the takkah. - Pundarika Vittala (16th-c)`],
+             ['Malava', '', '', '','', `A well-born man in the Godi fair or free from enemies, full of low-mindedness,
+heroic, devoted to beauty, tasteful like a wedding pig, is a friend of the moose. The
+clever Mālava king of passion appears in the assembly in the evening with a lotus
+face and lotus eyes dressed in white and adorned with garlands around his neck
+This is the Malava. - Pundarika Vittala (16th-c)`],
+             ['Karnataka Bengal', '', '', '','', `The Bengal-end and the Karnataka, without the Gadi-madhyantaka, are
+the Gaudi-sammelan, carrying a flower stick on the bottom of
+the lotus palm. In the morning he goes with his relatives dressed in white
+garments wearing a garland of flowers and necklaces and a garland of
+flowers This is Karnataka Bengal. This is the Sri Raga family. - Pundarika Vittala (16th-c)`],
+             ['Nat', '', '', '','', `Born in the north-east, he is a three-moving Ganiridha, full of satri, patient,
+5 red-bodied, with lotus-eyes, dressed in white, and rich in necklaces
+and other ornaments. He holds a sword in his hand and is a mighty man
+whose words are always smiling and whose voice is soft and deep.
+This is pure drama/Subh Nat. - Pundarika Vittala (16th-c)`],
+             ['Malshri', '', '', '','', `She was born in the Śrīrāga-mela, and she was created by the
+nine mountains. Laughing at her beloved with mature and
+sarcastic words, the slender Malavasri always slipped from the
+bottom of her fickle hands with her wheel-shaped sword ||
+This is Malshri. - Pundarika Vittala (16th-c)`],
+             ['Devakri', '', '', '','', `The goddess of fortune was beautiful, tender-looking, with a lotus-crowned breast, dressed in
+a picturesque cotton cloth, adorned with ornaments all over her body, and soft-spoken.
+At the end of the day, Devakī, the daughter of the gods, who is more clever than the
+daughter of the gods, dressed in a satrika or a satrika, moves more than a melody
+॥ This is the Devakri. - Pundarika Vittala (16th-c)`],
+            ['Ityabhiri', '', '', '','', `The moon is two or three moons away, but here the woman has beautiful eyes, a proud dark
+complexion, a trident, and a soft-spoken woman, who wears a braid on her head.
+The goddess of fortune was dressed in a blue robe
+and had a garland of coral flowers on her neck.
+Ityabhiri. - Pundarika Vittala (16th-c)`],
+            ['Salanganata', '', '', '','', `He was white and full of youthfulness He wore a garland of
+pearls around his neck He was dressed in all kinds of crimson clothes
+He is rich in beauty and wellwishers He is attached to soft words He is pleased with the
+midst of the six stars He appears at the festival of Kedara when the lord of the day is
+absent This is the Salanganata. - Pundarika Vittala (16th-c)`],
+             ['Karnataka', '', '', '','', `He is adorned with yellow clothes, wears a
+crown of bangles, a throne and an umbrella.
+The melody of the Karṇāṭa melody, which is like the neck of a keki, is like the neck of
+a keki, or the melody of a river, which is played by three women in one place. This
+is the Karnataka Raga. - Pundarika Vittala (16th-c)`],
+             ['Saveri', '', '', '','', `The snake, whose eyes are the part of the body
+that runs, is the movement of the eyes. Saveri is
+wearing a necklace around her neck
+and a fine dress with a yellow cotton dress. This
+is Saveri.- Pundarika Vittala (16th-c)`],
+              ['Suhavi', '', '', '','', `She was slender, dark-skinned, with deer-eyes,
+a bride’s lotus-face, and was wearing a yellow dress.
+With a slight smile on her face she was composed of ten strands of chamaras and was adorned
+with the melody of Mer Saveri and in the morning she was a beautiful Satrika in full form
+This is Suhavi. - Pundarika Vittala (16th-c)`],
+              ['Saurashtra', '', '', '','', `The savery-mail-red, self-conscious, self-conscious woman wore a
+picturesque dress, a bracelet and a mechaki on the edge of her hard breasts.
+The white-haired lotus-eyed snow-faced pomegranate-seed-toothed
+Saurashtra woman goes in the evening full of beauty and accompanied by
+Madana. This is Saurashtra. - Pundarika Vittala (16th-c)`],
+              ['Shankara', '', '', '','', `He was dressed in white and red, and his neck
+was covered with a row of heavy waters.
+The three beginnings of the dance, known as Shankarabhusana, with their printed easy melodies,
+move in the middle of the morning and evening in the remaining tone of Madhumadhavya.
+This is the Shankara ornament. - Pundarika Vittala (16th-c);
+Frankincense in the night’s distance
+From a solitary temple
+Where pundits keep all lamps lit,
+To reminisce charms of whimsical Shiva. - Taimur Khan (2004)`],
+              ['Lakshmani', '', '', '','', `There are others who are infinitely passionate and who depend on people from various
+countries. These are the signs of the cross and let them be ridden by those who know them.
+This is the characteristic of passion/lakshmanee. - Pundarika Vittala (16th-c)`],
+['Gaud Sarang', '', '', '','', `Seated beneath the wishing Tree his body white as snow,
+his long hair tightly bound,
+Gaud Sarang is seen in the afternoon playing upon a lute.
+The sages tell that he has the voice of a nightingale.
+📖Poet:（Shat）
+On the blessed summit of Mount Kailasa dwells the Greatest of Sages.
+With matted locks,
+His body white with the ash of funeral pyres,
+sweetly and tenderly He smiles.
+Ever in him, Shat raga, at dawn,
+are sung majestic odes worthy of meditation.
+In Him there dwells the music of the Gods,
+its sweetness and its meaning.- Yuki Ato Narayan (2018)`],
+              ['Desavarti', '', '', '','', ` The Desavarti painting depicts a lonely lady holding her arms over her head,
+and twisting her body.
+The raised arms signify longing and passion,
+for her absent lover.
+This is a summer Raga and should be sung in the evening.
+📖Poet:
+The stretches her arms and sighs,
+Angered by his unfaithfulness.
+He arrives, like cupid with his sweet bow.
+But the lovely lady feigns sleep.- Yuki Ato Narayan (2018)`],
+              ['Deepak', '', '', '','', `Deepak Raga is rarely performed since it has a legendary association with intense heat and fire.
+This raga depicts a lord and lady in a room lit by small earthen lamps.
+Deepak Raga is a summer raga, is set in a palace, and is meant to be sung at noon.
+📖Poet:
+Darkness covered the lady’s chamber till Deepak entered,
+load of the dazzling lays,
+she covered her face in bashful and timid,
+ he abandons his heart and is conquered.`],
+              ['Darbari Kanada', '', '', '','', `Darbari Kanada, or simply Darbari, is a Hindustani raga in the Kanada family,
+which is thought to have originated in Carnatic music
+and brought into North Indian music by Miyan Tansen,
+the legendary 16th century composer in emperor Akbar's court.
+This tradition is reflected in the name itself;
+Darbar is the Persian derived word in Hindi meaning "court."
+📖Poet:
+Akbar and Tansen,
+visit Haridas in Vrindavan.
+Haridas is to the right, playing Veena
+Akbar is to the left,
+dressed as a common man,
+Tansen is in the middle,
+listening to Haridas.- Yuki Ato Narayan (2018)`],
+              ['Bhimpalasi', '', '', '','', `Bhimpalasi playing in a garden of sandal trees.
+Her silken garment is yellow her hips are beautiful.
+With her left hand she holds the neck of a Vina.
+📖Poet:
+With wide lotus eyes
+and fragrant with celestial flowers,
+Bhimpalasi, the sages tell,
+sings with her deep voice to the lute.
+Her lovely form is the embodiment of art.
+- Yuki Ato Narayan (2018)`],
+              ['Bihar', '🎴', '', '','', `Bahar is a very popular springtime raga.
+During the spring, it may be sung at any time of the day.
+However during any other season, it is a night time raga.
+Bahar has a very distinctive character.
+Behavior refers to practical aspects of the music.
+It is complicated to talk about this for Hindustani music since many of the concepts
+are fluid, changing, or archaic.
+The following information cannot be accurate,
+but it can attempt to reflect how the music existed.
+📖Poet:
+Bahar is beautiful.
+The beauty brought from nature,
+And receive blessing from God.
+Appropriate, beautifully structured,
+Complicated and bold, its temper.
+Sing a beautiful and charming love song.- Yuki Ato Narayan (2018)`],
+              ['Bageshree', '🎴', 'R2', '♀️','🔆', `Bageshri (Hindi: बागेश्री) is a Hindustani classical raga.
+It is a popular raga of the late night,
+which is meant to depict the emotion of a woman waiting for reunion with her lover.
+It is said to have been first sung by Mian Tansen,
+the celebrated court singer of the Emperor Akbar in the sixteenth century.
+📖Poet:
+Her voice seductive when she is near her lover,
+Bageshri is lovely, desirable.
+With eyes large like the lotus and a flaw-less pale body,
+she plays upon the lute her songs of love.- Yuki Ato Narayan (2018)`],
+              ['Alhaiya Bilawal', '🧘‍♀️', '0', '','', `📖Story:
+Dwarf, with the sheen of a dove,
+on a swing pleasantly placed for play.
+Krishna is gently rocked, the sages say, by women with ample hips.
+Her pale golden body with great hips is fragrant like the flowers of heaven.
+Well favoured, long-eyed, she holds a lute.
+📖Poet:(same as Bilawal)
+Bilawal has the lustre of the blue lotus.
+Arranging jewels upon her body,
+she makes secret signs to her lover.
+How can she forget for one moment her chosen deity,
+the God of Love ?- Yuki Ato Narayan (2018)`],
+              ['Ahir Bhairiv', '🌴', '1', '','', `We praise Bhairava, the hero, the source of life, the measure of rhythm,
+pervading the ocean of notes and intervals.
+A skull in his hand, the crescent moon upon his matted hair,
+he worships Shiva, Lord of Sleep.
+His body is smeared with saffron and sandal paste.
+📖Poet:
+Your melted rocks capture Ganga’s waves,
+with crescent moon and russet snake.
+Ash smeared body, terrible to  behold.
+Dispelled of fear, I sing this for you.- Yuki Ato Narayan (2018)`],
+              ['', '', '', '','', ``],
              ['', '🧘‍♀️', '3', '♀️','🪐'],
 
            ];
@@ -192,14 +887,18 @@ title="Discover Sikhism. Sikh Warriors. Sardar Jassa Singh Ramgarhia https://www
 style="vertical-align: middle;width:100px"
 />
 <ul><li><b style="color:rgb(255 218 0);font-family: 'Fish&Chips'">Malkaus</b> 🎶 <small><small>(R3 ♂🔅 Rut 5🍂)</small></small><br></li></ul>
-<p><b>Wives</b>: Gaundkari <img style="position: absolute; opacity:0.6" src="media/malkaus/gunkali- 0.png" title="gondkari" width="190px"><small><small>(2 DR)</small></small>, Devgandhari<img style="position: absolute; left: 200px;
+<p><b>Wives</b>: Gaundkari <small><small>(1 🪙♂)</small></small> <img style="position: absolute; opacity:0.6" src="media\malkaus\maligaura.png" title="mali gaura" width="190px"><small><small>(2 DR)</small></small>, Devgandhari<img style="position: absolute; opacity:0.6; left: 110px;  top: 160px;" src="media/malkaus/gunkali- 0.png" title="gondkari" width="190px"><img style="position: absolute; left: 230px;
     top: 160px; opacity:0.6" src="media\malkaus\Deva Gandhar-0.png" title="devgandhari" width="190px"> <small><small>(2 🌜🔆)</small></small>,
-  Gandhari <small><small>(2)</small></small>, Seehute, <span style="color:rgb(255 218 0)">Dhanasri</span> <small><small>(3 🔅🌜)</small></small>.<br>
-<b>Sons</b>: Maru <small><small>(3 🌜🪐 Rut 5🍂)</small></small>, Marwa <small><small>(R1 🪙♂)</small></small>,
+  Gandhari   <img style="position: absolute; left: 410px;top: 160px; opacity:0.6" src="media\malkaus\Gandhar - learning with saint ; on sant level.png" title="gandhar" width="190px"><small><small>(2)</small></small>, Seehute, <span style="color:rgb(255 218 0)">Dhanasri<img style="position: absolute; left: 644px;top: 160px; opacity:0.6" src="media\malkaus\dhanascri - eatig enjoying eaging cookingQ.png" title="dhanashri" width="190px"></span> <small><small>(3 🔅🌜)</small></small>.<br>
+<b>Sons</b>: Maru <small><small>(3 🌜🪐 Rut 5🍂)</small></small>, Marwa <img style="position: absolute; opacity:0.6;    left: 280px;
+    top: 310px;" src="media\malkaus\marwa.png" title="marwa" width="90px"><small><small>(R1 🪙♂)</small></small>,
 Parbal Chand, Kausak <small><small>(R2)</small></small>, Ubara, Khokar <img style="position: absolute; left: 660px; opacity:0.6" src="media\malkaus\Kakubh- 0.png" title="khokar" width="190px"> <small><small>({data[61][2]+" "+data[61][3]}{data[61][4]})</small></small>, Bhuranad <small><small>(Bhamarananda?)</small></small>.<br>
-<b>Other</b>: Bhatiyar <small><small>(1 ☿🔆)</small></small>, Gunkali <small><small>(1 🪙♂)</small></small><br />
-<b>Retro</b>: Mali Gaura <small><small>({data[29][2]+" "+data[29][3]}{data[29][4]} Rut 5🍂)</small></small>, Suhi <small><small>(2)</small></small>, Sohini <small><small>({data[60][2]+" "+data[60][3]}{data[60][4]})</small></small>,
- Puriya <small><small>(R2)</small></small>.
+<b>Other</b>: Bhatiyar <small><small>(1 ☿🔆)</small></small><br />
+<b>Retro</b>: Mali Gaura <small><small>({data[29][2]+" "+data[29][3]}{data[29][4]} Rut 5🍂)</small></small>, Suhi <small><small>(2)</small></small>, Sohini <img style="position: absolute; opacity:0.6;    left: 315px;
+    top: 310px;" src="media\malkaus\Sohni.png" title="sohni" width="190px"><small><small>({data[60][2]+" "+data[60][3]}{data[60][4]})</small></small>,
+ Puriya <img style="position: absolute; opacity: 0.5;
+    left: 498px;
+    top: 310px;" src="media\purvi\Purvi - mother.png" title="purvi" width="190px"><small><small>(R2)</small></small>.
 <br>
 <b>Combo</b>: Dhanasri Ambika <small><small>(2)</small></small>.
 <!--<b>Retro</b>: <small><small>(2)</small></small>.-->
@@ -219,7 +918,7 @@ style="vertical-align: middle;width:30px"
 <b>Sons</b>: Suryakant, Bhasker, Chandra-Bimb,
 Mangalan (Mangal), Saras-baan, Binoda,
  <u>Basant</u> <small><small>(L 🔅☿)</small></small>,
- Kamoda <small><small>(R1? R2? 🌜♂)</small></small>.
+ Kamoda <small><small>(Anytime 🌜♂)</small></small>.
  <br />
  <b>Other</b>: Kalavati <small><small>(R2 🌜🔆5️⃣)</small></small>, Khamaj (R2 ♀️🪐), Desh <small><small>({data[56][2]+" "}{data[56][3]}{data[56][4]}).</small></small>
 </p>
@@ -227,7 +926,7 @@ Mangalan (Mangal), Saras-baan, Binoda,
 <ul><li><b style="color:#ff0e0e;font-family: 'Fish&Chips'">Deepak</b> <span title="🪘 - related to abundant physical sensations, touch, and presence">🪘</span><br></li></ul>
 <p><b>Wives</b>: Kachheli (R3),
   <u>Patmanjari</u> <small><small>(3 🔅🌜<span title="S R G m P D N S'/S' n D P m g R S">7️⃣</span>)</small></small>,
-   Todi <small><small>(2 🪙♀️)</small></small>, Kamodi <small><small>(R3?)</small></small>,
+   Todi <small><small>(2 🪙♀️)</small></small>, Kamodi <small><small>(Anytime)</small></small>,
    <span title="Nearness of Guru">Gujri</span> <small><small>(2 🪙♂)</small></small>.<br>
 <b>Sons</b>: Kalanka (R4 🔆🌜), Kuntal, Rama, Kamal-Kusum,
 Chamak <small><small>(R2 ☿🔆)</small></small>, Gaura,
@@ -247,9 +946,9 @@ style="vertical-align: middle;width:30px"
 <p><b>Wives</b>: <u>Sorath</u> <small><small>(R2 ☿🪙 Rut 4🍂)</small></small>,
   Gond <small><small>(2)</small></small>,
   <u>Malari</u> <small><small>(R3 ☿🔅)</small></small>,
-   Asa <small><small>(R4 {data[10][3]}🔅)</small></small>, Soohou <small><small>(Puniya? or Soob)</small></small>.<br>
+   Asa <small><small>(R4 {data[10][3]}🔅)</small></small>, Suhavi/Soohou <small><small>(Puniya? or Soob)</small></small>.<br>
 <b>Sons</b>: Bayra-dhar, Gaj-dhar <small><small>(2?)</small></small>,
-Kedara <small><small>(R1)</small></small>, Jabli-dhar, Nat <small><small>(R3 ♂🔅)</small></small>,
+Kedara <small><small>(R3)</small></small>, Jabli-dhar, Nat <small><small>(R3 ♂🔅)</small></small>,
 Jaldhar,
 Shankara <small><small>(R2-R3? ☔/🪘/🧘‍♀️ ♀️🪐)</small></small>,
 Syama.<br />
@@ -281,7 +980,7 @@ Ramkali <small><small>(R4 🌜🔅7️⃣)</small></small>,
 Malashree <small><small>(R1 SP Rut 5🍂<span title="S - G - P - N - S' / S' - (N)P - (M)(G), P - G - S (S - (N)P - M(G), P - G - S)">3️⃣</span>)</small></small>,
 Hamsadvani <small><small>(R1?-R2?)</small></small>,
 Durga <small><small>(R2 ♂🔅)</small></small>,<br />
-Bhinna Shadja <small><small>(R3 ♂🔅)</small></small>,
+Bhinna Shadja <small><small>(R3 ♂🔅, 1/2 Rut 5🍂)</small></small>,
 Jogkauns <small><small>(R3 ♂🔅)</small></small>,
 Hemant <small><small>(R3 ♂🔅<span title="S G m D N S' - S' N D P m G R S; (S G m D ; P m ; G R S ; ,N ,D ; ,m ,D ,N S ; m (P)m ; G m D N ; m D N S' ; S' R' S' N D ; N S' D P m ; m P m m G m G R S; Mukhya-Ang	G m D N D ; m (P)m ; N D (P)m ; G m G R S ; G m D P m G R S;)">5-7</span>)</small></small>,
 Bihagaraa ∨ Bihag <small><small>(R2 ♀️🪐)</small></small>.<br>
@@ -295,7 +994,7 @@ Bihagaraa ∨ Bihag <small><small>(R2 ♀️🪐)</small></small>.<br>
 
 
 <ul><li><b style="color:#9a0fff;font-family: 'Fish&Chips'">Sri raga <span title="⛵ - feeling of movement">⛵</span> <small><small>(4 ☿🌜)</small></small></b><br></li></ul>
-<p><b>Wives</b>: Baradi ∨ Varali ∨ Bairari <small><small>(3 ♀️🪙 Rut 4🍂)</small></small>, Karnati <small><small>(1 DR)</small></small>,
+<p><b>Wives</b>: Bairari <small><small>(3 ♀️🪙 Rut 4🍂)</small></small>, Karnati <small><small>(1 DR)</small></small>,
   Gavri <!--gawati Gaoti (Gawoti, Gavati, Gavti)  Bheem --><small><small>(3 SP)</small></small>, <u style="color:#9a0fff">Asavari</u> <small><small>(2 🪙♀️ 5️⃣-7️⃣)</small></small>,
    Sindhve ∨ Sindhura <small><small>(4 SP)</small></small>.<br>
 <b>Sons</b>: <u>Salag</u> <small><small>(3 🌜🔆)</small></small>, <u style="color:#9a0fff">Sarang</u> <small><small>({data[14][2]+data[14][3]}🌜)</small></small>,
@@ -303,13 +1002,16 @@ Sagra <small><small>(R1 GD)</small></small>,
 Gond <small><small>(2 🔅{data[27][4]})</small></small>, Gambhir, Gund, Kumbah <small><small>(R3 MS)</small></small>,
 Hamir <small><small>(R2 🪙♀️)</small></small>.
 </p>
-<b>Others</b>: Khat <small><small>(R2)</small></small>, Charukesi <small><small>(R3 ♀️🪙)</small></small>, Jaunpuri <small><small>(2 🪙♀️)</small></small><br><br />
+<b>Others</b>: Khat <small><small>(R2)</small></small>, Charukesi <small><small>(R3 ♀️🪙)</small></small>, Jaunpuri <small><small>(R2 🪙♀️)</small></small><br><br />
 
 <!-- raag names
 https://www.pinterest.ca/maitrey0635/ragamala/
 https://raagtime.com/
 -->
 <img style="width:101px;opacity:0.5;margin:auto;" src="data:image/jpeg;base64,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" />
+
+<img src="timing.png" style="width:300px;opacity:0.4;"/>
+According to Dattila (Second Century AD.) / O.C. Gangoly (1935) Ragas and Raginis. Nalanda Books, Bombay. pg. 109 ("...No actual musician was actually killed")
 
 <pre style="background-color:rgb(255 0 0 / 30%);padding:10px;" id="Day">
 <section style="filter: sepia(0.4);">
@@ -375,7 +1077,7 @@ Preperation</li>
 															<span style="color:rgb(14 255 117)">Maajh, (🌴 ♂🔅)</span>
 															<span style="color:#9a0fff">Shri? (⛵ ☿🌜)</span>
 															<span style="color:rgb(255, 14, 14)">Tukhari 🪘🌜🔆, Ambika ∨ Madhuvanti</span>
-															<span style="color:cyan">Kedara? (☔)</span>
+															<span style="color:cyan"></span>
 															<span style="color:black">Purvi? (🌌 ♀️🪐), Jaitsri (♀️🪐 Rut 6❄️)</span>
 															<span style="color:rgb(212 222 68)">'Sindhura (<span title="Kafi family">ਕਾ</span> 🔆🌜)</span>
 															<span style="color:silver">Vachaspati 💊 🔆🌜</span>
@@ -402,7 +1104,7 @@ Preperation</li>
 
 <section style="filter: sepia(0.4);">
 🌇 R1 ~6 p.m. - المغرب  8:24 p.m. <span id="R1" style="font-family: 'Fish&Chips'">sayan/utarang</span> ☾1  (Sunset)            4:50 - 8     K
-																<span style="color:cyan">Basant,(☔🌌),  Kedara ☿🔆</span>
+																<span style="color:cyan">Basant,(☔🌌)</span>
 																<span style="color:#f2f2f2">Pancham(🧘‍♀️) {data[5][3],data[5][3]}, Pahadi Bhupali (PS),</span>
 																<span style="color:#f2f2f2">Malashree?</span> (🧘‍♀️ SP Rut 5🍂<span title="S - G - P - N - S' / S' - (N)P - (M)(G), P - G - S (S - (N)P - M(G), P - G - S)">3️⃣</span>)
 																<span style="color:#f2f2f2">Pahadi Ramgiri?? Hamsadvani?, (🧘‍♀️)</span>
@@ -465,7 +1167,7 @@ R3 ~10:48 p.m. - 3:36 p.m. العشاء<span id="R3" style="font-family: 'Fish&C
 																<span style="color:rgb(255, 14, 14)">Deepak (🪘 🔆🌜), Kachheli,</span>
 															   <span style="color:rgb(255, 218, 0)"> Malkaus (🎶 ☿🔅 Rut 5🍂)</span>
 																<span style="color:rgb(212 222 68)">'Sahana? (<span title="Kafi family">ਕਾ</span> 🌜🔆), 'Bahar? ♀️🔆 Rut 1🌿, Shiv Ranjani 🌜🔆</span>
-																<span style="color:cyan">'Malhaar ☔ ☿🔅</span>
+																<span style="color:cyan">'Malhaar ☔ ☿🔅 Kedara ☿🔆</span>
 
                                 <div style="color:pink;font-size:0.5em;position:absolute;letter-spacing: 15px;margin-top:-100px;">
                                 <ul>
@@ -481,7 +1183,7 @@ R3 ~10:48 p.m. - 3:36 p.m. العشاء<span id="R3" style="font-family: 'Fish&C
                                 </div>
 
 R4 ~3:36 a.m. - 6 a.m. <span id="R4" style="font-family: 'Fish&Chips'">nisanta</span> 4		☾4			2:00 5    V
-															<span style="color:cyan">'Asa (☔, ♂🔅)</span>
+															<span style="color:cyan">'Asa (☔, ♂🔅) Kedara ☿🔆</span>
 															Prabhati 🧘‍♀️🔆🌜,  'Ramkali 🌜☿ 7️⃣,  'Lalit 🧘‍♀️,🌌, (♂🔅)
 															Kalingada? 🧘‍♀️{data[55][3]+data[55][4]}
 															<span style="color:rgb(255, 14, 14)">Kalanka 🪘 🔆🌜</span>
